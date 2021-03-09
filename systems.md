@@ -16,7 +16,7 @@ This compartmentalizes the features and functionality of the design system, allo
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | - Screen Templates<br />- Elements & Components<br />- Theme (Base)<br />- Libraries (Brand, Icon, Ill, etc.)<br />- Color Palettes<br />- Flow Kits | - Brand Themes<br />- Brand Libraries<br />- Icon Libraries<br />- Illustration Libraries<br />- Animation Libraries | - Product 01 (Customer)<br />- Product 02 (Employee)<br />- Product 03 (Admin)<br /> |
 
-![ds-architecture](/Users/bucca/REPO/ABLE/docs/assets/images/ds-architecture.png)
+![ds-architecture](assets/images/ds-architecture.png)
 
 ## Level 00 - Design System Kits
 
