@@ -4,19 +4,17 @@ For example, managing icons in a different file than the components, separated f
 
 This compartmentalizes the features and functionality of the design system, allowing for easier updates (Ex. Swapping out all icons for a different style as tastes change), and governance to keep things consistent at a high level.
 
-design system.
-
-For example, managing icons in a different file than the components, separated from a data visualization module that inherits colors from a brand theme. 
-
-This compartmentalizes the features and functionality of the design system, allowing for easier updates (Ex. Swapping out all icons for a different style as tastes change), and governance to keep things consistent at a high level.
-
 ### Kit Structure
 
 | **Level 00 - Design System**                                 | **Level 01 - Brand**                                         | **Level 02 - Product**                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | - Screen Templates<br />- Elements & Components<br />- Theme (Base)<br />- Libraries (Brand, Icon, Ill, etc.)<br />- Color Palettes<br />- Flow Kits | - Brand Themes<br />- Brand Libraries<br />- Icon Libraries<br />- Illustration Libraries<br />- Animation Libraries | - Product 01 (Customer)<br />- Product 02 (Employee)<br />- Product 03 (Admin)<br /> |
 
-![ds-architecture](/Users/bucca/REPO/ABLE/docs/assets/images/ds-architecture.png)
+![ds-architecture](../assets/images/ds-architecture.png)
+
+###### *The diagram above is covered in greater detail below*
+
+
 
 ## Level 00 - Design System Kits
 
