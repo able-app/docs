@@ -16,7 +16,7 @@ Just as type and color has a dictionary we have one for spacing both at the comp
 
 ## Spacing Scale
 
-The spacing scale is used in the construction of individual components. The scale uses small increments to create consistent and appropriate spatial relationships between objects in the design.
+Just as color has a palette and type has a scale we have a scale for spacing. Within spacing we break down the scale into its building blocks. These building blocks then contain the rules of our space scale. The spacing scale is used in the construction of individual components. The scale uses small increments to create consistent and appropriate spatial relationships between objects in the design.
 
 ### Properties
 
