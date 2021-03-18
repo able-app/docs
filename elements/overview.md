@@ -4,7 +4,7 @@ Elements are the graphical user interface (GUI) elements used by operating syste
 
 ## Primitives
 
-Within Elements there's a small sub-section of simple interface objects. Those objects that can't be broken down further are referenced as primitives. On their own primitives don't really accomplish much, but when combines with other primitives and elements they become functional pieces of our design system. As an example, a single radio button acts as primitive element in the design, as it can’t be broken down further.  It can toggle on and off, carries a few properties, but being such a simple object, it doesn't accomplish much on its own.  But, when combined with other primitives and elements like a Label it then starts to gain value as a functional part of the design system.
+Simple interface objects that are used to construct elements are considered primatives. These are objects that can't be broken down further. On their own primitives don't really accomplish much, but when combines with other primitives and elements they become functional pieces of our design system. As an example, a single radio button acts as primitive element in the design, as it can’t be broken down further.  It can toggle on and off, carries a few properties, but being such a simple object, it doesn't accomplish much on its own.  But, when combined with other primitives and elements like a Label it then starts to gain value as a functional part of the design system.
 
 Examples of primitives are:
 
