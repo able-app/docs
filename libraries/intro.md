@@ -10,19 +10,19 @@ These global families are also excluded from a list of icon family options when 
 
 ### Properties
 
- **File Name:** [textField] How this object is known in the system
+ **File Name:**  How this object is known in the system
 
- **Type:** [selectList] Font(fnt), Iconography(icn), Illustration(ill) 
+ **Type:** Font(fnt), Iconography(icn), Illustration(ill) 
 
- **Resource:** [fileAdd] The actual file or folder that contains the files to be referenced.
+ **Resource:** The actual file or folder that contains the files to be referenced.
 
- **Global:** [toggle(on,off;off)] This family can be used "globally" across multiple themes
+ **Global:**  This family can be used "globally" across multiple themes
 
- **Thumbnail:** [fileAdd - optional] The visual to represent this object 
+ **Thumbnail:**  The visual to represent this object 
 
- **Description:** [textArea - optional] Context to understand what the object is
+ **Description:** Context to understand what the object is
 
- **Token:** [textField] The shortcode to reference this asset (i.e. #astFntLato for our Lato font family)
+ **Token:**  The shortcode to reference this asset (i.e. #astFntLato for our Lato font family)
 
 ## Asset Types
 
@@ -30,10 +30,10 @@ These are the different subcategories of assets. This gives us the ability to ke
 
 ### Properties
 
-**Name:** [textField] How the asset "Type" will be known in the system (this is used to name the folder and is added as an option in the "Type" field when adding an asset file. 
+**Name:** How the asset "Type" will be known in the system (this is used to name the folder and is added as an option in the "Type" field when adding an asset file. 
 
-**Thumbnail:** [fileAdd - optional] The visual to represent this object 
+**Thumbnail:** The visual to represent this object 
 
-**Description:** [textArea - optional] Context to understand what the object is 
+**Description:** Context to understand what the object is 
 
-**Token:** [textField] The shortcode to add to the beginning of files of this type (i.e. "icn" for Icon)
+**Token:**  The shortcode to add to the beginning of files of this type (i.e. "icn" for Icon)
