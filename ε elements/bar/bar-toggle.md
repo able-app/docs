@@ -10,7 +10,7 @@ The options available in the "Toggle" element are capable here.
 - Single - A grouping of solo toggles. An example of this could be different filters on a search, where each toggle is a different filter type (price, weight, rating, etc.) The Yelp app uses this fairly well in their filtering of search results.
 - Hidden - A group of toggles with a hidden button surface
 
-### Style
+### Behavior
 
 - Fixed - New toggles that don't fit within the fixed width, wrap to the next row, growing the height of the bar - toggle.
 - Scroll - Toggles that don't fit within the defined width of the parent container scroll off the side of the bar - toggle (screen).
