@@ -4,29 +4,27 @@ Used as a visual language to represent type, level, status, content, or adding c
 
 ## Icon Dictionary
 
-With any application there will be the need for some level of visual iconography. To provide a scalable, consistent, and easy way to move between different icon families we use an Icon Dictionary. This ties a metaphor, the intent/idea behind an icon to a design token which can have one or more words associated with it. As an example, lets take the idea "metaphor" of a settings area. We can use the design token "#icnSettings" for that icon in every element, component, and screen across the application and then have the ability to swap out that icon, application wide from a single source of truth in the dictionary. This also gives us a way of swapping out an entire icon family for another when you want to change the look and feel of the application. This also makes the use of elements, components and extensions across different projects reusable out of the box. 
+With any application there will be the need for some level of visual iconography. To provide a scalable, consistent, and easy way to move between different icon families we use an Icon Dictionary. This ties a metaphor, the intent/idea behind an icon to a design token which can have one or more words associated with it. As an example, lets take the idea "metaphor" of a settings area. We can use the design token "\#icnSettings" for that icon in every element, component, and screen across the application and then have the ability to swap out that icon, application wide from a single source of truth in the dictionary. This also gives us a way of swapping out an entire icon family for another when you want to change the look and feel of the application. This also makes the use of elements, components and extensions across different projects reusable out of the box.
 
 ### Properties
 
-**Name**: [textField] The human readable way we refer to this "Icon" in the metaphor library
+**Name**: \[textField\] The human readable way we refer to this "Icon" in the metaphor library
 
-**Family**: [selectList(Assets.Icons)] The icon family that this icon is in. The list of available icon families is pulled from the Assets > Icons folder. Those icon families that have been uploaded into the system.
+**Family**: \[selectList\(Assets.Icons\)\] The icon family that this icon is in. The list of available icon families is pulled from the Assets &gt; Icons folder. Those icon families that have been uploaded into the system.
 
-**Resource**: [searchGallary(selectedFamily)] Every icon will have a source file that it references to provide the look of icon. 
+**Resource**: \[searchGallary\(selectedFamily\)\] Every icon will have a source file that it references to provide the look of icon.
 
-**Metaphor**: [textField] Every icon acts as a metaphor for something. Some icons can carry multiple metaphors (i.e. "back" and "previous" for the left-arrow.svg) This allows us to reuse these metaphors as a design token which is referenced throughout our components while all carrying the same look.
+**Metaphor**: \[textField\] Every icon acts as a metaphor for something. Some icons can carry multiple metaphors \(i.e. "back" and "previous" for the left-arrow.svg\) This allows us to reuse these metaphors as a design token which is referenced throughout our components while all carrying the same look.
 
-**Referenced By**: [textArea.ReadOnlyCsvList] The list of elements and components that are referencing this dictionary
+**Referenced By**: \[textArea.ReadOnlyCsvList\] The list of elements and components that are referencing this dictionary
 
-**Token**: [textField] The short-code we use to refer to this metaphor (i.e.. #icnSettings, #icnAdd, #icnAccount, etc.)
-
- 
+**Token**: \[textField\] The short-code we use to refer to this metaphor \(i.e.. \#icnSettings, \#icnAdd, \#icnAccount, etc.\)
 
 ### Base Metaphors
 
-| **Name** | **Family** | **Resource**   | **Metaphor(s)**        | **Token** |
-| -------- | ---------- | -------------- | ---------------------- | --------- |
-| Back     | Base       | left-arrow.svg | back, previous, return | #back     |
+| **Name** | **Family** | **Resource** | **Metaphor\(s\)** | **Token** |
+| :--- | :--- | :--- | :--- | :--- |
+| Back | Base | left-arrow.svg | back, previous, return | \#back |
 
 Design tokens all carry a unique name which is referenced to build the component. Here's an example of the icons that are referenced as part of the AppBar component for the base "default" theme.
 
@@ -34,15 +32,16 @@ Elements and components that have icons in them reference an Icon Dictionary. Th
 
 #### Navigation - AppBar
 
-| **Name** | **Resource**                                | **Metaphor(s)**         | **Token**   |
-| -------- | ------------------------------------------- | ----------------------- | ----------- |
-| Drawer   | 17-navigation /  navigation-drawer-1.svg    | Menu, Drawer            | #drawer     |
-| Add      | 27-remove-add /  add-1.svg                  | Plus, Add               | #add        |
-| Remove   | 27-remove-add /  subtract-1.svg             | Cancel, Delete,  Remove | #remove     |
-| Back     | 97-arrows /  arrow-left-12.svg              | Back, Previous,  Return | #navBack    |
-| Forward  | 97-arrows /  arrow-right-12.svg             | Next, Forward           | #navForward |
-| Close    | 02-status /  close.svg                      | Close, Exit             | #close      |
-| More     | 17-navigation /  navigation-show-more-2.svg | More                    | #navMore    |
-| Search   | 01-content-edition  / search.svg            | Search, Find, Look      | #search     |
-| Share    | 21-share /  share-box.svg                   | Share, Send             | #share      |
-| Settings | 03-settings /  cog.svg                      | Settings,  Properties   | #settings   |
+| **Name** | **Resource** | **Metaphor\(s\)** | **Token** |
+| :--- | :--- | :--- | :--- |
+| Drawer | 17-navigation /  navigation-drawer-1.svg | Menu, Drawer | \#drawer |
+| Add | 27-remove-add /  add-1.svg | Plus, Add | \#add |
+| Remove | 27-remove-add /  subtract-1.svg | Cancel, Delete,  Remove | \#remove |
+| Back | 97-arrows /  arrow-left-12.svg | Back, Previous,  Return | \#navBack |
+| Forward | 97-arrows /  arrow-right-12.svg | Next, Forward | \#navForward |
+| Close | 02-status /  close.svg | Close, Exit | \#close |
+| More | 17-navigation /  navigation-show-more-2.svg | More | \#navMore |
+| Search | 01-content-edition  / search.svg | Search, Find, Look | \#search |
+| Share | 21-share /  share-box.svg | Share, Send | \#share |
+| Settings | 03-settings /  cog.svg | Settings,  Properties | \#settings |
+

@@ -4,9 +4,7 @@ Text fields provide the ability to enter and edit text.
 
 Text input with Label, Field, Helper text, inner element spacing for dynamic resizing and a background surface.
 
-
-
-### Properties
+## Properties
 
 **Single-line fields**
 
@@ -16,6 +14,7 @@ Single-line fields are used to collect short input values, any scrolling of text
 
 **Multi-line fields**
 
-Multi-line text fields provide an overflow text wrap when the cursor reaches the end of the field. This causes the text field to expand (growing the field down), when text wraps to a new line.
+Multi-line text fields provide an overflow text wrap when the cursor reaches the end of the field. This causes the text field to expand \(growing the field down\), when text wraps to a new line.
 
 A multi-line field initially shows as a single-line fields, for a compact layout.
+
