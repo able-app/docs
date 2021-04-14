@@ -41,7 +41,7 @@ So in Level 00 we establish base \(placeholder\) styles and at Level 01 & 02, ov
 
 **Design Tokens**
 
-Design Tokens are the atomic, reusable building blocks of a design system, such as colors, typography, spacing, motion, and even sounds and haptic feedback.
+Design Tokens are key-value pairs that represent the specs of the design system. They are the atomic, reusable building blocks of a design system, such as colors, typography, spacing, motion, and even sounds and haptic feedback.
 
 In design systems, tokens are used in place of hard-coded values of visual primitives to ensure flexibility and cohesiveness across all products.
 
