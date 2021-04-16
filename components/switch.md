@@ -1,6 +1,6 @@
-# SelectList
+# Switch
 
-A value display with a list of choices on a temporary menu surface when activated. A selectlist is also referred to as a dropdown by many people.
+A locked height form component for the toggle of a property on/off.
 
 Inner element spacing is used for dynamic resizing along with a background surface. 
 

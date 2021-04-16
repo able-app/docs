@@ -1,4 +1,4 @@
-# Ruler
+# Ruler Track
 
 Primitive: The combination of the individual tics to form a series of tics along a track, similar to the tics on a ruler that indicate a specified value.
 
