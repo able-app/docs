@@ -1,6 +1,6 @@
 # Field - Content
 
-A content container to allow easier screen design. This base level feeds into the Field element. Not necessary structure for development, but it helps us on the prototyping side to build faster.
+Element: A grouping for design convenience for display in a field. This base level feeds into the Field element. Not necessary structure for development, but it helps us on the prototyping side to build faster.
 
 ### Types
 
