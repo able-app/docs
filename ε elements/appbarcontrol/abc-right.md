@@ -1,6 +1,6 @@
-# App Bar Control - Actions
+# App Bar Control - Right
 
-Primitive: A grouping of actionable buttons, icons, and text that are feed from the App Bar Actions - Solo.  This container provides the horizontal layout of the actions for left and right aligned actionable activities.
+Primitive: A grouping of primarily actionable buttons, icons, and text that are feed from the App Bar Actions - Solo.  This container provides the horizontal layout of the actions for left and right aligned actionable activities.
 
 ### Location
 
