@@ -2,9 +2,11 @@
 
 Component: The display of a list of choices on a temporary surface (modal). The contents of this component are feed it's options from the Menu Control's primitives that separates the menu into three sections (left, center, right).
 
+Menus are commonly used for selectlists (aka dropdowns) and the "More" (three dot) options.
+
 ### Type
 
-- **Text** - The default menu display method with different possible configurations
+- **Text** - The default menu display method with different possible configurations (single line, 2 and 3 line options, ratings).
 - **Icon** - A menu option with a leading icon to provide additional context to the option.
 - **Avatar** - When presenting a list of users we use a leading avatar in addition to the users handle or name.
 - **Graphic** - Used when we'd like to display a "Thing" in a menu. 
