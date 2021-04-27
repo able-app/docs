@@ -12,8 +12,6 @@ The options available in the "Toggle" element are capable here.
 
 **Group** - When the toggle buttons are pushed together and are presented as a grouping of buttons.  By default, this type exists as a singular choice (toggle on) from the group, but can function as a multi-select button as well.  An example of this would be with a text editor grouping with bold, italic, underline where none or all of the groups options can be selected. 
 
-**Hidden** - A group of toggles with a hidden button surface.
-
 ### Style
 
 - Text

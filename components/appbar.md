@@ -22,3 +22,6 @@ An extension can be added to the app bar to provide an additional layer of navig
 
 When the user scrolls content within a list, we will want the app bar to gracefully hide itself to provide the best experience, since the intent of the user is the contents of the screen and not navigating or taking action on that content, while they are scrolling. When we detect that the scroll has stopped the app bar will gracefully return to view.
 
+## Keyboard Extension - App Bar
+
+When the keyboard is engaged we still have the need for a primary navigation and actions, so the app bar that would normally be at the bottom of the screen now gets attached to the top of the keyboard as an extension.  Note, all of the functionality of the keyboard extension for an app bar is the same as the app bar -bottom.  The only change is to it's background surface which is matched to the color of the keyboard.
