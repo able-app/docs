@@ -1,4 +1,4 @@
-# Adpicon - Shape
+# AdaptIcon - Shape
 
 Base: The shape and size of the AdptIcon (element) is set at this level.
 

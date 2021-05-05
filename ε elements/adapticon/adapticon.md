@@ -1,4 +1,4 @@
-# Adpicon
+# AdaptIcon
 
 Element: Set sizes for display with or without a status badge.
 
