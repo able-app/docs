@@ -1,6 +1,6 @@
-# Menu Control - Left
+# Menu Control - Leading
 
-Primitive: A convenience container for the content that is possible on the left side of a menu. This allows us to keep those options that are possible on the left side of a memu organized with the ability to easily add new options.
+Collection: A convenience container for the content that is possible on the left side of a menu. This allows us to keep those options that are possible on the left side of a memu organized with the ability to easily add new options.
 
 ### Options
 

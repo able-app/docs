@@ -1,6 +1,6 @@
 # App Bar - Pieces
 
-Primitive: The individual actionable buttons, icons, and text that are grouped together under App Bar Controls for use in an app bar.
+Collection: The individual actionable buttons, icons, and text that are grouped together under App Bar Controls for use in an app bar.
 
 ### Types
 

@@ -1,6 +1,6 @@
 # ListItem - Primary
 
-Primitive: A convenience container for the primary content for the listitem.
+Collection: A convenience container for the primary content for the listitem.
 
 ### Types
 

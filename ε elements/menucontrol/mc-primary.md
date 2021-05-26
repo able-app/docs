@@ -1,6 +1,6 @@
-# Menu Control - Center
+# Menu Control - Primary
 
-Primitive: A container for the primary (center) content of a menu. This allows us to keep those options that are possible as the primary content of a memu organized with the ability to easily add new options.
+Collection: A container for the primary (center) content of a menu. This allows us to keep those options that are possible as the primary content of a memu organized with the ability to easily add new options.
 
 ### Options
 

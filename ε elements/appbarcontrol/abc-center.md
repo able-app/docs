@@ -1,6 +1,6 @@
 # App Bar Control - Center
 
-Primitive: A container for the content that is in the center (horizontally) of the app bar.  This content can be informative or actionable depending on the type of app bar.
+Collection: A container for the content that is in the center (horizontally) of the app bar.  This content can be informative or actionable depending on the type of app bar.
 
 ### Types
 

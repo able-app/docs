@@ -1,6 +1,6 @@
 # App Bar Control - Right
 
-Primitive: A grouping of primarily actionable buttons, icons, and text that are feed from the App Bar Pieces.
+Collection: A grouping of primarily actionable buttons, icons, and text that are feed from the App Bar Pieces.
 
 ### Location
 

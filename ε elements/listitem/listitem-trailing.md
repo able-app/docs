@@ -1,6 +1,6 @@
 # ListItem - Trailing
 
-Primitive: A convenience container for those objects and controls that are displayed at the end of ListItems.  This provides an easy way to maintain and add new objects.
+Collection: A convenience container for those objects and controls that are displayed at the end of ListItems.  This provides an easy way to maintain and add new objects.
 
 ### Types
 
