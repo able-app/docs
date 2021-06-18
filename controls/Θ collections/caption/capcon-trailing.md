@@ -13,8 +13,9 @@ Collection:  A convenience container for those objects that are displayed at the
 ### Types
 
 - None
-- Icon
-- Subtext Right
+- Action (Icon) - Most commonly used as a "More" button to bring up additional actions you can take on the subject matter.
+- Super Action (Icon Larger) - A more prominent actionable area commonly used for the primary activity associated with the subject matter, for example adding.
+- Subtext (Right aligned) - 
 - Link
 - AdaptIcon
 - Avatar
@@ -25,7 +26,3 @@ Collection:  A convenience container for those objects that are displayed at the
 
 - Small
 - Large
-
-### Rows
-
-For situations where we have stacked content in the trailing column, we refer to them as rows. So 2 rows is one object (link, icon, text) stacked on top of another object.  Depending on the use case the spacing between these objects are adjusted at a higher level.

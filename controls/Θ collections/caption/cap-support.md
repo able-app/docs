@@ -41,5 +41,5 @@ Here's where we bring in the columns (leading, primary, trailing) in order to cu
 - None
 - Action - Usually a "More" icon
 - Subtext - Short bits of right aligned content
-- Add - A more prominent action area usually used to add
+- Super Action - A more prominent action area usually used to add
 - Link - A text based navigational link to another piece of content

@@ -37,6 +37,6 @@ Here's where we bring in the columns (leading, primary, trailing) in order to cu
 - Nothing
 - Subtext - Used for short bits of information that are right aligned text.
 - Action - An icon that is typically used as a More button to reveal additional actions that can be taken on the subject matter.
-- Add - More of a primary action and most often used as an Add capability, this icon is slightly larger and carries a larger hit area.
+- Super Action - More of a primary action and most often used as an Add capability, this icon is slightly larger and carries a larger hit area.
 - Button - A prominate primary action used to take an action on the subject matter.
 - Link - Text based actionable content that will usually navigate to a new screen.
