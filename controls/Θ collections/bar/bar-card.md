@@ -1,3 +1,3 @@
-# Bar - Image
+# Bar - Card
 
-Collection:  A convenience wrapper around image cells for display in the bar component.
+Collection:  A convenience wrapper around card cells for display in the bar component.

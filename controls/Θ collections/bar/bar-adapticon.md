@@ -1,3 +1,3 @@
-# Bar - Card
+# Bar - AdapIcon
 
-Collection:  A convenience wrapper around cards for display in the bar component.
+Collection:  A convenience wrapper around AdaptIcon cells for display in the bar component.

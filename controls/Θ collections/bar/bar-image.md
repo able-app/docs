@@ -1,3 +1,3 @@
-# Bar - AdaptIcon
+# Bar - Image
 
-Collection:  A convenience wrapper around adaptiocn cells for display in the bar component.
+Collection:  A convenience wrapper around image cells for display in the bar component.
