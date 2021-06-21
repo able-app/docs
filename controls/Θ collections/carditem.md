@@ -1,15 +1,10 @@
-# CardItem
+# Graphic - Status
 
-Collection: A convenience container for the different subjects and sizes of CardItems.  CardItem are then collected together to form Bars and/or CardLists that are in a scrollable view.
+Collection:  A convenience container for the Status of a Graphic.  These are used within the different Views to easily change the status of Cell, Card, Grid Items.
 
-### Subject
+### Status
 
-- Product
-- Place
-- Person
-- Collection - A generic grouping of similar object together.
-
-### Size
-
-Depending on the use and the usable space within a CardItem in most situations we divide up the designs into three sizes, small, medium, large. 
+- View - The default normal state of an image/graphic
+- Select - When in an action of selecting the image/graphic from a listing of graphics.
+- Reorder - When in an action of reordering in a collection of images in a grid, or cards/cells when in a collection of cards/cells.
 
