@@ -41,7 +41,7 @@ Element: A click/tap-able screen element used to build other elements and compon
 
 - XSmall
 - Small
-- Medium (Default)
+- Medium (default)
 - Large
 - Dynamic
 
