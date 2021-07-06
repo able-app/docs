@@ -2,7 +2,7 @@
 
 An additional area just below the app bar top and just above the app bar bottom that serves as a second level for tools, filters, categorization, or selection.
 
-[Styleguide Link](https:)
+[Styleguide Link](https://zpl.io/VOLqdEL)
 
 ## Types
 
