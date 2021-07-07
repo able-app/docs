@@ -1,4 +1,4 @@
-# App Bar - Pieces
+# App Bar Control - Pieces
 
 Collection: The individual actionable buttons, icons, and text that are grouped together in sections (ABC Leading, Center, Trailing) for use within the App Bar.
 

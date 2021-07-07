@@ -28,4 +28,4 @@ An extension can be added to the app bar to provide an additional layer of navig
 
 ## Keyboard Extension - App Bar
 
-When the keyboard is engaged we still have the need for a primary navigation and actions, so the app bar that would normally be at the bottom of the screen now gets attached to the top of the keyboard as an extension.  Note, all of the functionality of the keyboard extension for an app bar is the same as the app bar - bottom/top.  The only change is to it's background surface which is matched to the color of the keyboard.
+When the keyboard is engaged we still have the need for a primary navigation and actions, so the app bar that would normally be at the bottom of the screen now gets attached to the top of the keyboard as an extension.  Note, all of the functionality of the keyboard extension for an app bar is the same as the app bar - bottom/top.  The only change is to it's bottom spacing and background surface which is matched to the color of the keyboard.

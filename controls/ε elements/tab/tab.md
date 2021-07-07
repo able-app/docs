@@ -18,6 +18,11 @@ Element: A single tab used in a group in the tab bar component.
 - Dark
 - Lite
 
+### Status
+
+- On - The tab that has its contents being displayed.
+- Off
+
 ### States
 
 - Enabled
@@ -26,7 +31,4 @@ Element: A single tab used in a group in the tab bar component.
 - Pressed
 - Focus
 
-### Status
-
-- On - The tab that has its contents being displayed.
-- Off
+- 
