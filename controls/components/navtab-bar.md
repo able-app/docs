@@ -4,6 +4,8 @@ A combo of a left aligned back navigation with a Tab - Bar that will typically u
 
 NOTE: The left side nav could have one or more toggle buttons. In the example it's a solo toggle button, but if additional buttons are added to would form a toggle button group, pushing the Tab - Bar to the right.
 
+[Styleguide Link](https://app.zeplin.io/styleguide/6041aec8159a9b10c34d0182/components?cseid=60e5f9a7c9c9c207f78a9879)
+
 ### Type
 
 - Icon
@@ -11,10 +13,8 @@ NOTE: The left side nav could have one or more toggle buttons. In the example it
 - Icon Left
 - Icon Top
 
-### Color
+### Surface
 
-- Primary
-- Secondary
-- Dark
 - Light
+- Dark
 

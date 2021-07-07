@@ -2,9 +2,13 @@
 
 Used at the top of list, card, grid, masonry sections to separate groupings of like items.
 
-Title - Can be left aligned or center depending on the use case
+[Styleguide Link](https://zpl.io/2pRQ39M)
 
-Style - Lite, Dark, or Neutral depending on the section it is being paired with, list, card, grid, masonry's background.
+### Structure -The "Properties" of the object.
 
-Size - Generally the size of the title and its relative height.
+**Title** - Can be left aligned or center depending on the use case
+
+**Surface** - Light, Dark, or Neutral depending on the section it is being paired with, list, card, grid, masonry's background.
+
+**Size** - Generally the size of the title and its relative height.
 
