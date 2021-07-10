@@ -2,7 +2,7 @@
 
 Component: A collections of rows of Graphics (Images) that are vertically stacked in a Scrollview.
 
-[Styleguide Link]()
+[Styleguide Link](https://zpl.io/anBAz6J)
 
 ### Functionality
 

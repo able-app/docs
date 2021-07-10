@@ -4,6 +4,9 @@ Collection: A container for the content that is in the center (horizontally) of 
 
 [Styleguide Link](https://zpl.io/2vjgx55)
 
+- Parent(s) - App Bar Top & Bottom
+- Children - App Bar Pieces
+
 ### Structure -The "Properties" of the object.
 
 **Type** - The general theme for the collection of controls, most often this type will be the same as the central (most centered) object in the collection. These "Types" are supplied by the abc-pieces collection.
@@ -21,5 +24,7 @@ The ABC - Center expands to fill the full width of the App Bar, where the Leadin
 **Search** - When one of the primary abilies of the screen is to search its contents we will opt to show the search field as opposed to hiding it behind a search icon.
 
 **Toggle** - When the contents of the screen can be divided into sub sections we can drop in a toggle button group.
+
+**Tab Bar** - The ability to navigate to the primary areas of the application in a side-scrollable (optional) grouping of tabs.
 
 **None** - Of course the app bar could also set the center area to nothing at all.

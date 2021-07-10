@@ -43,7 +43,7 @@ Element: A click/tap-able screen element used to build other elements and compon
 - Small
 - Medium (default)
 - Large
-- Dynamic
+- Dynamic - The width AND height can be set to any value, this differs from the others with FIXED heights.
 
 **States**
 

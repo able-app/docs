@@ -2,7 +2,7 @@
 
 Component: A collections of Bars (rows) of CardItems that are vertically stacked in a Scrollview.
 
-[Styleguide Link]()
+[Styleguide Link](https://zpl.io/aBvePwQ)
 
 ### Functionality
 
