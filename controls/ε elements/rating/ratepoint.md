@@ -4,6 +4,9 @@ Primitive: A single point of a ratings (element) with its possible status.
 
 [Styleguide Link](https://zpl.io/VQJrR84)
 
+- Parent: Rating
+- Child: Rate Point - Shape
+
 ### Structure -The "Properties" of the object.
 
 **Status** - The value given to the screen object, in this case a single step point inside of a series of steps (stepper) with status possibilities of On or Off.

@@ -4,6 +4,9 @@ Primitive: A singular switch with its possible status (on/off) and states.
 
 [Styleguide Link](https://zpl.io/bLvqy06)
 
+- Parent: Multiple
+- Child: Switch - Shape
+
 ### Structure -The "Properties" of the object.
 
 **Status** - The value given to the screen object, in this case a switch with possibilities of On or Off.

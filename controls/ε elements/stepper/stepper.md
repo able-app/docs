@@ -4,15 +4,18 @@ Element: A collection of step points (primitive) to represent a series of steps 
 
 [Styleguide Link](https://zpl.io/aRRyz5E)
 
+- Parent: Progress Stepper (Component)
+- Child: Step Point
+
 ### Structure -The "Properties" of the object.
 
 **Size** - The general size of the element as a whole.
 
 **Style** - Supplied by the child level (Base - Shape) this is the general appearance of the screen object.  Note: Additional appearance can be added to the Base - Shape file to extend the styles at this level.
 
-**Ornaments** - Each Step Point has the option to add ornamentation in the form of a Label Element, which can be text which is nice for placing numbers in each of the step points, or icons which could give a visual indicator of the task to accomplish at that step of the process when multiple step points are strung together into a Stepper.
+**Ornaments** - Each Step Point at a size of Large and above have the option to add ornamentation in the form of a Label Element, which can be text which is nice for placing numbers in each of the step points, or icons which could give a visual indicator of the task to accomplish at that step of the process when multiple step points are strung together into a Stepper.
 
-**State** - The different appearances of the screen object based on interaction and the status of the screen object.  States will normally be given to this Element from its Parent with possible states being Enabled, Disabled, Focus, Hover, Pressed.
+**Status** - The status of each step point is given to the Stepper from its parent, turning on/off each step point as a visual indicator of where you are in the progression.
 
 ### Interaction
 

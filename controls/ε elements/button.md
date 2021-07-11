@@ -4,6 +4,9 @@ Element: A click/tap-able screen element used to build other elements and compon
 
 [Styleguide Link](https://zpl.io/bzd5mvA)
 
+- Parent: Button Panel, Multiple others
+- Child: Label
+
 ### Structure -The "Properties" of the object.
 
 **Style** - The visual appearance (styling) of the object
@@ -32,7 +35,7 @@ Element: A click/tap-able screen element used to build other elements and compon
 - Line
 - Text
 
-**Shape**s
+**Shapes**
 
 - Rounded (default)
 - Square
@@ -43,7 +46,7 @@ Element: A click/tap-able screen element used to build other elements and compon
 - Small
 - Medium (default)
 - Large
-- Dynamic - The width AND height can be set to any value, this differs from the others with FIXED heights.
+- Dynamic - The width AND height can be set to any value, this differs from the others which have FIXED heights.
 
 **States**
 
