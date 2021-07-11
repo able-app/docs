@@ -4,7 +4,7 @@ Base: The shape given to a rate point, used in the element rating.
 
 [Styleguide Link](https://zpl.io/b6A8DDW)
 
-- Parent: Rate Point - Shape
+- Parent: [Rate Point](https://github.com/able-app/docs/blob/b10f6d1205bbfb1cddfd150d1390ba848812d9d0/controls/%CE%B5%20elements/rating/ratepoint.md)
 
 To start with we will have two shapes available, the default star shape  (that you see most of the time) and a customized appearance of  Heart. These "Shapes" are set in the child level area of "Base - Shape" for the parent Rate Point Primitive.
 

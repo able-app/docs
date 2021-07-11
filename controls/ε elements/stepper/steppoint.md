@@ -4,8 +4,8 @@ Primitive: A single point of a Stepper (element) with its possible status.
 
 [Styleguide Link](https://zpl.io/V13oQdX)
 
-- Parent: Stepper
-- Child: Step Point - Shape
+- Parent: [Stepper](https://github.com/able-app/docs/blob/b10f6d1205bbfb1cddfd150d1390ba848812d9d0/controls/%CE%B5%20elements/stepper/stepper.md)
+- Child: [Step Point - Shape](https://github.com/able-app/docs/blob/b10f6d1205bbfb1cddfd150d1390ba848812d9d0/controls/%CE%B5%20elements/stepper/steppoint-shape.md)
 
 ### Structure -The "Properties" of the object.
 

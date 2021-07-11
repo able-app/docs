@@ -4,8 +4,8 @@ Element: A collection of step points (primitive) to represent a series of steps 
 
 [Styleguide Link](https://zpl.io/aRRyz5E)
 
-- Parent: Progress Stepper (Component)
-- Child: Step Point
+- Parent: [Stepper Panel](https://github.com/able-app/docs/blob/b10f6d1205bbfb1cddfd150d1390ba848812d9d0/controls/%CE%B5%20elements/stepper/stepper-panel.md) (Component)
+- Child: [Step Point](https://github.com/able-app/docs/blob/b10f6d1205bbfb1cddfd150d1390ba848812d9d0/controls/%CE%B5%20elements/stepper/steppoint.md)
 
 ### Structure -The "Properties" of the object.
 

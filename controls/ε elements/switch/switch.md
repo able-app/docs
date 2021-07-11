@@ -5,7 +5,7 @@ Primitive: A singular switch with its possible status (on/off) and states.
 [Styleguide Link](https://zpl.io/bLvqy06)
 
 - Parent: Multiple
-- Child: Switch - Shape
+- Child: [Switch - Shape](https://github.com/able-app/docs/blob/b10f6d1205bbfb1cddfd150d1390ba848812d9d0/controls/%CE%B5%20elements/switch/switch-shape.md)
 
 ### Structure -The "Properties" of the object.
 
