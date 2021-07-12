@@ -4,7 +4,7 @@ Primitive: The possible styles and sizes of a badge are set here. A badge can be
 
 [Styleguide Link](https://zpl.io/bzxkPPA)
 
-- Parent: Multiple... Icon, Label, AdaptIcon, Avatar, Button, Tab etc.
+- Parent: Multiple... [Badge - Usecase](https://github.com/able-app/docs/blob/79c4b081b07ceefe4735af4cfe3099b297a9ad69/controls/%CE%B5%20elements/badge/badge-type.md), [Icon](https://github.com/able-app/docs/blob/79c4b081b07ceefe4735af4cfe3099b297a9ad69/controls/%CE%B5%20elements/icon/icon.md), [Label](https://github.com/able-app/docs/blob/79c4b081b07ceefe4735af4cfe3099b297a9ad69/controls/%CE%B5%20elements/label.md), AdaptIcon, Avatar, Button, Tab etc.
 
 ### Type
 
