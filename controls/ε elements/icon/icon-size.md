@@ -2,23 +2,15 @@
 
 Base: Standardized sizes for all icons used in the design system. Use this as a property for icons.
 
-[Styleguide Link]()
-
-- Parent: [Label](https://github.com/able-app/docs/blob/b10f6d1205bbfb1cddfd150d1390ba848812d9d0/controls/%CE%B5%20elements/label.md), Many others
-
-### Structure -The "Properties" of the object.
-
 **Size** - The general size of the element in proportion to the others in the collection.
 
 - XSmall
 - Small
+- SMedium
 - Medium
 - Large
 - XLarge
 - XXLarge
-- Huge
-
-**State** - The different appearances of the screen object based on interaction and the status of the screen object.  Possible states are Enabled, Disabled, Hover, Pressed, Focused.
 
 ### Why
 
