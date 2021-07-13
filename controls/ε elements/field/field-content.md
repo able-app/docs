@@ -1,6 +1,11 @@
 # Field - Content
 
-Element: A grouping for design convenience for display in a field. This base level feeds into the Field element. Not necessary structure for development, but it helps us on the prototyping side to build faster.
+Container: A grouping for design convenience for display in a field. This base level collection feeds into the Field element. 
+
+[Styleguide Link]()
+
+- Parent: [Field](https://github.com/able-app/docs/blob/78b7d0a469492d69eba8f33ae838468642242f52/controls/%CE%B5%20elements/field/field.md)
+- Child: [Label](https://github.com/able-app/docs/blob/78b7d0a469492d69eba8f33ae838468642242f52/controls/%CE%B5%20elements/label.md), Chip
 
 ### Types
 
