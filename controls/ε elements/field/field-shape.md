@@ -15,11 +15,11 @@ Container: The Base level collection for the styling (shape) of the Field Backgr
 
 ### Type
 
-Base (default) - The primary (normal) appearance of the field surface.
+**Base** (default) - The primary (normal) appearance of the field surface.
 
-Inverted - Used when the field is used on a component with a dark background (ex. Gridview Photo - search)
+**Inverted** - Used when the field is used on a component with a dark background (ex. Gridview Photo - search)
 
-State
+### State
 
 - Enabled
 - Disabled
