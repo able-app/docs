@@ -7,7 +7,7 @@ Element: A collection of rate points (primitive) to form a scaled rating value f
 - Parent: Multiple
 - Child: [Rate Point](https://github.com/able-app/docs/blob/b10f6d1205bbfb1cddfd150d1390ba848812d9d0/controls/%CE%B5%20elements/rating/ratepoint.md)
 
-### Structure -The "Properties" of the object.
+### Properties
 
 **Size** - The general size of the element as a whole.
 

@@ -7,6 +7,8 @@ Container: A Primitive collection for helper text that makes up the Field (eleme
 - Parent: [Field](https://github.com/able-app/docs/blob/78b7d0a469492d69eba8f33ae838468642242f52/controls/%CE%B5%20elements/field/field.md)
 - Child: [Label](https://github.com/able-app/docs/blob/78b7d0a469492d69eba8f33ae838468642242f52/controls/%CE%B5%20elements/label.md)
 
+## Properties
+
 ### Types
 
 - Label left with text wrapping, for helper text that might need to wrap to a second line

@@ -7,7 +7,7 @@ A panel with spacing and alignment of the Stepper with its collection of step po
 - Parent: Carousel, Graphic, Screen
 - Child: [Stepper](https://github.com/able-app/docs/blob/b10f6d1205bbfb1cddfd150d1390ba848812d9d0/controls/%CE%B5%20elements/stepper/stepper.md)
 
-### Structure -The "Properties" of the object.
+### Properties
 
 **Size** - The general size of the panel and its contents as a whole.
 

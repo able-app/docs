@@ -4,6 +4,12 @@ Base: The shape and size of the AdptIcon (element) is set at this level.
 
 Adpicons have two layers a background surface and an icon.  The background shape and standardized sizes are set in this area.
 
+[Styleguide Link](https://zpl.io/2ZR1Bxl)
+
+- Parent: [AdaptIcon](https://github.com/able-app/docs/blob/5a96c205429d6f9ca9bcbfa998a17c2596ca4a32/controls/%CE%B5%20elements/adapticon/adapticon.md)
+
+## Properties
+
 ### Shape
 
 - Circle

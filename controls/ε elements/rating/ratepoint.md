@@ -7,7 +7,7 @@ Primitive: A single point of a ratings (element) with its possible status.
 - Parent: [Rating](https://github.com/able-app/docs/blob/b10f6d1205bbfb1cddfd150d1390ba848812d9d0/controls/%CE%B5%20elements/rating/rating.md)
 - Child: [Rate Point - Shape](https://github.com/able-app/docs/blob/b10f6d1205bbfb1cddfd150d1390ba848812d9d0/controls/%CE%B5%20elements/rating/ratepoint-shape.md)
 
-### Structure -The "Properties" of the object.
+### Properties
 
 **Status** - The value given to the screen object, in this case a single step point inside of a series of steps (stepper) with status possibilities of On or Off.
 

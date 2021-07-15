@@ -7,7 +7,7 @@ Element: Words and iconography used widely across the design system to provide c
 - Parent: Multiple
 - Child: [Icon](https://github.com/able-app/docs/blob/b10f6d1205bbfb1cddfd150d1390ba848812d9d0/controls/%CE%B5%20elements/icon/icon.md), Text - [Type Scale](https://github.com/able-app/docs/blob/b10f6d1205bbfb1cddfd150d1390ba848812d9d0/styles/typography.md)
 
-### Structure -The "Properties" of the object.
+### Properties
 
 **Size** - The general size of the Labels content in respect to other Labels.  These sizes are provided by the Theme's Typographical Scale with icon sizes to proportionally match those line heights.
 

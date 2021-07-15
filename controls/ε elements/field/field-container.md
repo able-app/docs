@@ -7,6 +7,8 @@ Collection: The combining of the field content with message on/off ability. This
 - Parent: [Field](https://github.com/able-app/docs/blob/78b7d0a469492d69eba8f33ae838468642242f52/controls/%CE%B5%20elements/field/field.md)
 - Child: [Field - Content](https://github.com/able-app/docs/blob/78b7d0a469492d69eba8f33ae838468642242f52/controls/%CE%B5%20elements/field/field-content.md), [Label](https://github.com/able-app/docs/blob/78b7d0a469492d69eba8f33ae838468642242f52/controls/%CE%B5%20elements/label.md)
 
+## Properties
+
 ### Types
 
 **Textfield** - Message off for a field. Nested icon control and placeholder/input content.

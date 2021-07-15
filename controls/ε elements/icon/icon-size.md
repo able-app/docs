@@ -1,4 +1,4 @@
-# Icon - Size
+# Icon - Size (Phase Out)
 
 Base: Standardized sizes for all icons used in the design system. Use this as a property for icons.
 

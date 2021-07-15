@@ -6,7 +6,7 @@ Primitive: Used in building element and components. An icon is used as a metapho
 
 - Parent: [Label](https://github.com/able-app/docs/blob/b10f6d1205bbfb1cddfd150d1390ba848812d9d0/controls/%CE%B5%20elements/label.md), Many others
 
-### Structure -The "Properties" of the object.
+### Properties
 
 **Size** - The general size of the element in proportion to the others in the collection.
 

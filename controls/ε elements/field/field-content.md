@@ -7,6 +7,8 @@ Container: A grouping for design convenience for display in a field. This base l
 - Parent: [Field](https://github.com/able-app/docs/blob/78b7d0a469492d69eba8f33ae838468642242f52/controls/%CE%B5%20elements/field/field.md)
 - Child: [Label](https://github.com/able-app/docs/blob/78b7d0a469492d69eba8f33ae838468642242f52/controls/%CE%B5%20elements/label.md), [Chip](https://github.com/able-app/docs/blob/7bb2457d172a78e9e6528e086a642c45224c701f/controls/%CE%B5%20elements/chip/chip.md)
 
+## Properties
+
 ### Types
 
 - **Textfield** - For short form text content that can exist as a single-line field (no wrapping and growing of the field height) or as a multi-line field that grows as additional lines of content are added [See MD](https://material.io/components/text-fields#input-types)

@@ -6,6 +6,8 @@ Container: The Base level collection for the styling (shape) of the Field Backgr
 
 - Parent: [Field](https://github.com/able-app/docs/blob/78b7d0a469492d69eba8f33ae838468642242f52/controls/%CE%B5%20elements/field/field.md)
 
+## Properties
+
 ### Style
 
 - Line - A single under line.

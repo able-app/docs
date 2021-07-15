@@ -9,6 +9,8 @@ Common chip bar layouts are located here and will be added to over time.
 - Parent: 
 - Child: [Chip](https://github.com/able-app/docs/blob/7bb2457d172a78e9e6528e086a642c45224c701f/controls/%CE%B5%20elements/chip/chip.md)
 
+## Properties
+
 ### Behavior
 
 - **Fixed** - The control has a fixed width for display on the screen.

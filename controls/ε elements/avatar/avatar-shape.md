@@ -6,6 +6,8 @@ Base: The shape and size of the Avatar (element) is set at this level. In the de
 
 - Parent: [Avatar](https://github.com/able-app/docs/blob/7bb2457d172a78e9e6528e086a642c45224c701f/controls/%CE%B5%20elements/avatar/avatar.md)
 
+## Properties
+
 ### Shape
 
 - Circle

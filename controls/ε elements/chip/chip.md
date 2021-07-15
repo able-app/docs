@@ -8,6 +8,8 @@ Element: A compact elements that represent an input, attribute, or action.
 - Sister: [Chip - Modal](https://github.com/able-app/docs/blob/7bb2457d172a78e9e6528e086a642c45224c701f/controls/%CE%B5%20elements/chip/chip-modal.md)
 - Child: [Label](https://github.com/able-app/docs/blob/78b7d0a469492d69eba8f33ae838468642242f52/controls/%CE%B5%20elements/label.md), [Icon](https://github.com/able-app/docs/blob/79c4b081b07ceefe4735af4cfe3099b297a9ad69/controls/%CE%B5%20elements/icon/icon.md), Avatar
 
+## Properties
+
 ### Type
 
 These types mirror those outlined in MD for further information [see here](https://material.io/components/chips#types).

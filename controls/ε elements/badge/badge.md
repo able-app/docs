@@ -6,6 +6,8 @@ Primitive: The possible styles and sizes of a badge are set here. A badge can be
 
 - Parent: Multiple... [Badge - Usecase](https://github.com/able-app/docs/blob/79c4b081b07ceefe4735af4cfe3099b297a9ad69/controls/%CE%B5%20elements/badge/badge-type.md), [Icon](https://github.com/able-app/docs/blob/79c4b081b07ceefe4735af4cfe3099b297a9ad69/controls/%CE%B5%20elements/icon/icon.md), [Label](https://github.com/able-app/docs/blob/79c4b081b07ceefe4735af4cfe3099b297a9ad69/controls/%CE%B5%20elements/label.md), AdaptIcon, Avatar, Button, Tab etc.
 
+## Properties
+
 ### Type
 
 - **Value** - The use of a number to indicate the amount of actionable activities attatched to the object. Note, the font used here is an exception in the design system and is set to a font-size of 8.

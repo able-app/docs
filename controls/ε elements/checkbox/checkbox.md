@@ -7,7 +7,7 @@ Primitive: A singular checkbox with its possible styling, status (on/off) and st
 - Parent: Multiple
 - Child: [Checkbox - Shape](https://github.com/able-app/docs/blob/b10f6d1205bbfb1cddfd150d1390ba848812d9d0/controls/%CE%B5%20elements/checkbox/checkbox-shape.md)
 
-### Structure -The "Properties" of the object.
+### Properties
 
 **Status** - The value given to the screen object, in this case a checkbox with possibilities of On, Off, Indeterminate.
 

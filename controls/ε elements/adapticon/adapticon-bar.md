@@ -7,6 +7,8 @@ Collection:  A convenience wrapper around AdaptIcon cells for display in the bar
 - Parent: Multiple
 - Child: [AdaptIcon](https://github.com/able-app/docs/blob/7bb2457d172a78e9e6528e086a642c45224c701f/controls/%CE%B5%20elements/adapticon/adapticon.md)
 
+## Properties
+
 ### Size
 
 - Small

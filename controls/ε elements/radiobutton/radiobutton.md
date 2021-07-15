@@ -7,7 +7,7 @@ Primitive: A singular radio button with its possible styling, status (on/off) an
 - Parent: Multiple
 - Child: [Radio Button - Shape](https://github.com/able-app/docs/blob/b10f6d1205bbfb1cddfd150d1390ba848812d9d0/controls/%CE%B5%20elements/radiobutton/radiobutton-shape.md)
 
-### Structure -The "Properties" of the object.
+### Properties
 
 **Status** - The value given to the screen object, in this case a radio button with possibilities of On or Off.
 

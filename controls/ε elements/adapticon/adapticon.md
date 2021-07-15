@@ -4,12 +4,12 @@ Element: Set sizes for display with or without a status badge. Based off of the 
 
 [Styleguide Link](https://zpl.io/bey1LvW)
 
-- Parent: [AdaptIcon - Bar](), Multiple others
+- Parent: [AdaptIcon - Bar](https://github.com/able-app/docs/blob/5a96c205429d6f9ca9bcbfa998a17c2596ca4a32/controls/%CE%B5%20elements/adapticon/adapticon-bar.md), ListItem, Multiple others
 - Child: [Badge](https://github.com/able-app/docs/blob/7bb2457d172a78e9e6528e086a642c45224c701f/controls/%CE%B5%20elements/badge/badge.md), [Icon](https://github.com/able-app/docs/blob/7bb2457d172a78e9e6528e086a642c45224c701f/controls/%CE%B5%20elements/icon/icon.md), [AdaptIcon - Shape](https://github.com/able-app/docs/blob/7bb2457d172a78e9e6528e086a642c45224c701f/controls/%CE%B5%20elements/adapticon/adapticon-shape.md)
 
-### 
+## Properties
 
-### Standards
+### Size & Shape
 
 To account for multiple usecases the design system has established a set sizing standard for certain interface objects, with AdaptIcon being one of those.  The size and shape of the AdaptIcon is set within the base level feeder of AdaptIcon - Shape.
 
