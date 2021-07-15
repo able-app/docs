@@ -5,7 +5,7 @@ Element: A control to allow the adding subtracting of a numeric value as either 
 [Styleguide Link](https://zpl.io/a7pK0qj)
 
 - Parent: Multiple
-- Child: [Input Stepper - Pieces](https://github.com/able-app/docs/blob/5a96c205429d6f9ca9bcbfa998a17c2596ca4a32/controls/%CE%B5%20elements/inputstepper/stepperparts.md)
+- Child: [Input Stepper - Pieces](https://github.com/able-app/docs/blob/7fce4c938ec276d881761d80876efe894b9b88e1/controls/%CE%B5%20elements/inputstepper/inpstepper-pieces.md)
 
 ## Properties
 

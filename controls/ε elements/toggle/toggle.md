@@ -2,6 +2,13 @@
 
 Element: A grouping of solo toggle buttons that act together as a unit. This group is then treated as a single unit for dynamic resizing capabilities. Note, a single toggle can exist in a group.
 
+[Styleguide Link](https://zpl.io/ag19AW0)
+
+- Parent: [Toggle - Bar](https://github.com/able-app/docs/blob/7fce4c938ec276d881761d80876efe894b9b88e1/controls/%CE%B5%20elements/toggle/toggle-bar.md)
+- Child: [Toggle - Pieces](https://github.com/able-app/docs/blob/7fce4c938ec276d881761d80876efe894b9b88e1/controls/%CE%B5%20elements/toggle/toggle-solo.md)
+
+## Properties
+
 ### Style
 
 The different options for the stylings from the toggle-solo are passed through to this layer since they act as a unit.

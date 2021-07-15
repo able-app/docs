@@ -1,6 +1,13 @@
-# Toggle - Solo
+# Toggle - Pieces
 
 Element: A single on/off toggle button with the appearance of the button.  Toggles can be set to act the same as a radio button (one selection at a time), or checkboxes (multiple selections).  Most often seen in a group of toggle buttons (Toggle - Group), they can however exist as a single button toggle on/off as well.
+
+[Styleguide Link](https://zpl.io/bJLOyxr)
+
+- Parent: [Toggle](https://github.com/able-app/docs/blob/7fce4c938ec276d881761d80876efe894b9b88e1/controls/%CE%B5%20elements/toggle/toggle.md)
+- Child: [Label](https://github.com/able-app/docs/blob/5a96c205429d6f9ca9bcbfa998a17c2596ca4a32/controls/%CE%B5%20elements/label.md)
+
+## Properties
 
 ### Style
 
