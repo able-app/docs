@@ -4,3 +4,4 @@ Text areas are taller than text fields and wraps overflow text onto a new line. 
 
 The large initial size indicates to users that longer copy is possible and provides a general concept for the amount of desired copy based on its field height.
 
+**Note:** The structure and spacing of this component is the same between Textfield, Textarea, Selectlist, Chiplist, Slider, Userlist, and Toggle Button.

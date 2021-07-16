@@ -1,4 +1,4 @@
-# Input Stepper
+# Input Stepper - Control
 
 Element: A control to allow the adding subtracting of a numeric value as either a floating modal or inline in another element or component (ex. ListItem).
 

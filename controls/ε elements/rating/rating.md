@@ -1,6 +1,6 @@
-# Rating
+# Rating - Control
 
-Element: A collection of rate points (primitive) to form a scaled rating value for both interaction and visual representation.
+Element: A collection of rate points (primitive) to form a scaled rating value for both interactive control and visual representation.
 
 [Styleguide Link](https://zpl.io/29GBKQy)
 

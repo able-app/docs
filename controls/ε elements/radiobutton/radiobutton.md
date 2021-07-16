@@ -1,6 +1,6 @@
-# Radio Button
+# Radio Button - Control
 
-Primitive: A singular radio button with its possible styling, status (on/off) and states.
+Primitive: A singular radio button control with its possible styling, status (on/off) and states.
 
 [Styleguide Link](https://zpl.io/aw5761J)
 

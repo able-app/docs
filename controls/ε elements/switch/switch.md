@@ -1,6 +1,6 @@
-# Switch
+# Switch - Control
 
-Primitive: A singular switch with its possible status (on/off) and states.
+Primitive: A singular control switch with its possible status (on/off) and states.
 
 [Styleguide Link](https://zpl.io/bLvqy06)
 

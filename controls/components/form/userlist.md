@@ -23,3 +23,5 @@ The additional helper text that can be presented below the form control.
 - Small - The default size for the control
 - Medium
 - Large
+
+**Note:** The structure and spacing of this component is the same between Textfield, Textarea, Selectlist, Chiplist, Slider, Userlist, and Toggle Button.

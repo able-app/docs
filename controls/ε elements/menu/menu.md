@@ -2,7 +2,12 @@
 
 Component: The display of a list of choices on a temporary surface (modal). The contents of this component are feed it's options from the Menu Control's primitives that separates the menu into three sections (left, center, right).
 
-Menus are commonly used for selectlists (aka dropdowns) and the "More" (three dot) options.
+[Styleguide Link](https://zpl.io/VkymMBg)
+
+- Parent: SelectList, App Bar, More Icons
+- Child: Menu - Leading, Menu - Primary, Menu - Trailing
+
+## Properties
 
 ### Type
 

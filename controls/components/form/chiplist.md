@@ -11,3 +11,5 @@ The component can be presented with a label to give context to the form control.
 ### Helper Text
 
 To provide additional context for the component a sentence can be added to the component for examples, how the input will be used, or as further clarification to the label.
+
+**Note:** The structure and spacing of this component is the same between Textfield, Textarea, Selectlist, Chiplist, Slider, Userlist, and Toggle Button.

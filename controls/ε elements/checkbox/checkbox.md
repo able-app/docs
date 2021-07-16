@@ -1,6 +1,6 @@
-# Checkbox
+# Checkbox - Control
 
-Primitive: A singular checkbox with its possible styling, status (on/off) and states.
+Primitive: A singular checkbox control with its possible styling, status (on/off) and states.
 
 [Styleguide Link](https://zpl.io/aRnzW0p)
 

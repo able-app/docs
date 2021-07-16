@@ -14,3 +14,4 @@ Component: A list of options in toggle button group and solo format for use in f
 
 The additional helper text that can be presented below the form control.
 
+**Note:** The structure and spacing of this component is the same between Textfield, Textarea, Selectlist, Chiplist, Slider, Userlist, and Toggle Button.
