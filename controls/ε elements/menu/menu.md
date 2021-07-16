@@ -1,17 +1,17 @@
 # Menu
 
-Component: The display of a list of choices on a temporary surface (modal). The contents of this component are feed it's options from the Menu Control's primitives that separates the menu into three sections (left, center, right).
+Element: The display of a list of choices on a temporary surface (modal). The contents of this element are supplied it's layout options from the Menu Control's primitives that separates the menu into three sections (left, center, right).
 
 [Styleguide Link](https://zpl.io/VkymMBg)
 
-- Parent: SelectList, App Bar, More Icons
-- Child: Menu - Leading, Menu - Primary, Menu - Trailing
+- Parent: [SelectList](https://github.com/able-app/docs/blob/bb79ff6c26dc282e881328464ade1774d34f24e3/controls/components/form/selectlist.md), [App Bar](https://github.com/able-app/docs/blob/bb79ff6c26dc282e881328464ade1774d34f24e3/controls/components/appbar/app-bar.md), More Icons
+- Child: [Menu - Leading](https://github.com/able-app/docs/blob/bb79ff6c26dc282e881328464ade1774d34f24e3/controls/%CE%B5%20elements/menu/mc-leading.md), [Menu - Primary](https://github.com/able-app/docs/blob/bb79ff6c26dc282e881328464ade1774d34f24e3/controls/%CE%B5%20elements/menu/mc-primary.md), [Menu - Trailing](https://github.com/able-app/docs/blob/bb79ff6c26dc282e881328464ade1774d34f24e3/controls/%CE%B5%20elements/menu/mc-trailing.md)
 
 ## Properties
 
 ### Type
 
-- **Text** - The default menu display method with different possible configurations (single line, 2 and 3 line options, ratings).
+- **Text** - The default menu display method with different possible configurations.
 - **Icon** - A menu option with a leading icon to provide additional context to the option.
 - **Avatar** - When presenting a list of users we use a leading avatar in addition to the users handle or name.
 - **Graphic** - Used when we'd like to display a "Thing" in a menu. 
@@ -25,4 +25,8 @@ Component: The display of a list of choices on a temporary surface (modal). The 
 
 ### Elevation
 
-Note, that menus carry an elevation, aka drop shadow.
+**On** - The menus that display over screen content, like with the press of the "More" icon to reveal actions or with the SelectList - Dropdown we show a shadow.
+
+**Off** - For those menus that are cotained within a parent like a container for a Sheet or the ScrollView of a screen we will not use a shadow.
+
+Note: Take notice of the minor rounding of the corners.
