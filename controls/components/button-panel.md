@@ -6,7 +6,7 @@ Component: A collection of buttons vertically or horizontally displayed with pad
 
 - Child: Button
 
-### Structure -The "Properties" of the object.
+### Properties
 
 **Qty** - The number of buttons contained within the panel
 

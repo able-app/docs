@@ -1,14 +1,29 @@
 # Section Header
 
-Used at the top of list, card, grid, masonry sections to separate groupings of like items.
+Used at the top of list, card, grid, masonry sections to separate groupings of like items into sections.  Actionable icons/text can be used as well to jump the user to additional functionality or activities. For Ex. A "More" text link to a full list, which the Section only represents a few.
 
 [Styleguide Link](https://zpl.io/2pRQ39M)
 
-### Structure -The "Properties" of the object.
+- Parent: ListView, CardView, GridView, MasonryView
+- Child:  [Label](https://github.com/able-app/docs/blob/78b7d0a469492d69eba8f33ae838468642242f52/controls/%CE%B5%20elements/label.md), [Icon](https://github.com/able-app/docs/blob/79c4b081b07ceefe4735af4cfe3099b297a9ad69/controls/%CE%B5%20elements/icon/icon.md)
+
+## Properties
 
 **Title** - Can be left aligned or center depending on the use case
 
 **Surface** - Light, Dark, or Neutral depending on the section it is being paired with, list, card, grid, masonry's background.
 
 **Size** - Generally the size of the title and its relative height.
+
+- Tiny
+- XSmall
+- Small
+- Medium
+- Large
+- XLarge
+- Huge
+
+**Divider** - A division line at the bottom of the Section Header to draw more attention to the start of the section.  This option is Off by default.
+
+
 
