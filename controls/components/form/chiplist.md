@@ -1,8 +1,13 @@
 # ChipList
 
-For use in forms this is a list of options in chip format with different input methods based on the type of chip selected.
+Component: For use in forms this is a list of options in chip format with different input methods based on the type of chip selected. Inner element spacing is used for dynamic resizing along with a background surface.
 
-Inner element spacing is used for dynamic resizing along with a background surface. 
+[Styleguide Link](https://zpl.io/bzxM98l)
+
+- Parent: Form (Container)
+- Child: [Chip - Bar](https://github.com/able-app/docs/blob/72d886fee42ec503b35d525650866c59084c9480/controls/%CE%B5%20elements/chip/chip-bar.md), [Label](https://github.com/able-app/docs/blob/2956b7cd57098e9f2c27ad3cb3ae8da4842dc0c0/controls/%CE%B5%20elements/label.md)
+
+## Properties
 
 ### Label
 

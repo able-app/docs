@@ -6,7 +6,7 @@ Common chip bar layouts are located here and will be added to over time.
 
 [Styleguide Link](https://zpl.io/a8DyPZQ)
 
-- Parent: 
+- Parent: [Chiplist (A Form Component)](https://github.com/able-app/docs/blob/72d886fee42ec503b35d525650866c59084c9480/controls/components/form/chiplist.md)
 - Child: [Chip](https://github.com/able-app/docs/blob/7bb2457d172a78e9e6528e086a642c45224c701f/controls/%CE%B5%20elements/chip/chip.md)
 
 ## Properties
