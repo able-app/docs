@@ -2,10 +2,43 @@
 
 Element: Set sizes for display with or without a status badge.
 
-### Standards
+[Styleguide Link](https://zpl.io/b65y6Wq)
 
-To account for multiple usecases the design system has established a set sizing standard for FAB's.  The size and shape of the FAB is set in the base level feeder of FAB - Shape.
+- Parent: App Bar - Bottom
+- Child: [FAB - Shape](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/%CE%B5%20elements/fab/fab-shape.md), [Badge](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/%CE%B5%20elements/badge/badge.md)
 
-### Status
+## Properties
+
+### Size
+
+To account for multiple usecases the design system has established a set sizing standard for FAB's.  The size and shape of the FAB is set in the base level feeder of FAB - Shape and passed to this level.
+
+- Tiny
+- XSmall
+- Small
+- Medium
+- Medium Extended
+
+### Badge 
 
 Most of the time a FAB displays an icon as a metaphor for the primary action to take on the screens subject matter, but it does have the ability to carry a badge as well. For example, there may be a situation where the FAB acts as a shopping cart where the alert can serve as a cart count.
+
+At the smaller sizes (Tiny, xSmall) of FAB the Badge only acts as a colored badge, meaning there is no numeric value or icon possible within the Badge.  At the other sizes the numeric and icon badges are possible.
+
+### State
+
+- Enabled
+- Disabled
+- Hover
+- Pressed
+- Focus
+
+### Style
+
+The color of the FAB can be set to the following color display options...
+
+- Primary (default)
+- Secondary
+- Light
+- Neutral
+- Dark

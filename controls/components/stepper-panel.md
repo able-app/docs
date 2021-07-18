@@ -1,6 +1,6 @@
 # Stepper Panel
 
-A panel with spacing and alignment of the Stepper with its collection of step points (primitive) to represent a series of steps involved in a process and your progress.
+Component: A panel with spacing and alignment of the Stepper with its collection of step points (primitive) to represent a series of steps involved in a process and your progress.
 
 [Styleguide Link](https://zpl.io/b6A80oq)
 
