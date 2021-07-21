@@ -25,3 +25,7 @@ The styling of the switch can be altered to present a different appearance. For 
 - Base (Pill)
 - Rectangle
 
+
+
+**Note:** Each of the nested elements and primitives of this form component have properties that can be adjusted to customize the component.
+

@@ -4,7 +4,7 @@ Primitive: A singular radio button control with its possible styling, status (on
 
 [Styleguide Link](https://zpl.io/aw5761J)
 
-- Parent: Multiple
+- Parent: [Radio Button](https://github.com/able-app/docs/blob/8cd03de6556a6ec1dcd98dc8c2230863c5dba43c/controls/components/form/radiobutton.md) (Form Component), Multiple others
 - Child: [Radio Button - Shape](https://github.com/able-app/docs/blob/b10f6d1205bbfb1cddfd150d1390ba848812d9d0/controls/%CE%B5%20elements/radiobutton/radiobutton-shape.md)
 
 ### Properties

@@ -5,7 +5,7 @@ Element: A click/tap-able screen element used to build other elements and compon
 [Styleguide Link](https://zpl.io/bzd5mvA)
 
 - Parent: Button Panel, Multiple others
-- Child: Label
+- Child: [Label](https://github.com/able-app/docs/blob/8cd03de6556a6ec1dcd98dc8c2230863c5dba43c/controls/%CE%B5%20elements/label.md)
 
 ### Properties
 

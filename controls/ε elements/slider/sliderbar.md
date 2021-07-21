@@ -4,8 +4,8 @@ Primitive: A visual bar that allows users to make selection(s) from a range of v
 
 [Styleguide Link](https://zpl.io/a7p4GWp)
 
-- Parent: [Slider](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/%CE%B5%20elements/slider/slider.md)
-- Child: [Slider Knob](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/%CE%B5%20elements/slider/sliderknob.md), [Slider Indicator](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/%CE%B5%20elements/slider/sliderindicator.md), [Ruler Track](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/%CE%B5%20elements/slider/ruler.md), [ToolTip](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/%CE%B5%20elements/tooltip.md)
+- Parent: [Slider](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/%CE%B5%20elements/slider/slider.md) (Control)
+- Child: [Slider Knob](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/%CE%B5%20elements/slider/sliderknob.md), [Slider Indicator](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/%CE%B5%20elements/slider/sliderindicator.md), [Slider Track](https://github.com/able-app/docs/blob/8cd03de6556a6ec1dcd98dc8c2230863c5dba43c/controls/%CE%B5%20elements/slider/slidertrack.md), [Ruler Track](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/%CE%B5%20elements/slider/ruler.md), [ToolTip](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/%CE%B5%20elements/tooltip.md)
 
 ## Properties
 

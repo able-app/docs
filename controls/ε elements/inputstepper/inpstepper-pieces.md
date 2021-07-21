@@ -4,7 +4,7 @@ Primative: The pieces that go into the input stepper to step a numeric value up 
 
 [Styleguide Link](https://zpl.io/a7pK0qj)
 
-- Parent: [Input Stepper](https://github.com/able-app/docs/blob/7fce4c938ec276d881761d80876efe894b9b88e1/controls/%CE%B5%20elements/inputstepper/inpstepper.md)
+- Parent: [Input Stepper](https://github.com/able-app/docs/blob/7fce4c938ec276d881761d80876efe894b9b88e1/controls/%CE%B5%20elements/inputstepper/inpstepper.md) (Control)
 - Child: [Label](https://github.com/able-app/docs/blob/5a96c205429d6f9ca9bcbfa998a17c2596ca4a32/controls/%CE%B5%20elements/label.md)
 
 ## Properties

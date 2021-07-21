@@ -4,7 +4,7 @@ Primitive: A singular control switch with its possible status (on/off) and state
 
 [Styleguide Link](https://zpl.io/bLvqy06)
 
-- Parent: Multiple
+- Parent: [Switch](https://github.com/able-app/docs/blob/8cd03de6556a6ec1dcd98dc8c2230863c5dba43c/controls/components/form/switch.md) (Form Component), Multiple others
 - Child: [Switch - Shape](https://github.com/able-app/docs/blob/b10f6d1205bbfb1cddfd150d1390ba848812d9d0/controls/%CE%B5%20elements/switch/switch-shape.md)
 
 ### Properties

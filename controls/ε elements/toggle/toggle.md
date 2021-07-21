@@ -4,7 +4,7 @@ Element: The grouping of toggle button pieces that act together as a unit togeth
 
 [Styleguide Link](https://zpl.io/ag19AW0)
 
-- Parent: [Toggle - Bar](https://github.com/able-app/docs/blob/7fce4c938ec276d881761d80876efe894b9b88e1/controls/%CE%B5%20elements/toggle/toggle-bar.md), App Bar
+- Parent: [Toggle - Bar](https://github.com/able-app/docs/blob/7fce4c938ec276d881761d80876efe894b9b88e1/controls/%CE%B5%20elements/toggle/toggle-bar.md), [App Bar Control - Pieces](https://github.com/able-app/docs/blob/8cd03de6556a6ec1dcd98dc8c2230863c5dba43c/controls/components/appbar/abc-pieces.md), [Toggle Button](https://github.com/able-app/docs/blob/8cd03de6556a6ec1dcd98dc8c2230863c5dba43c/controls/components/form/togglebutton.md) (Form Component)
 - Child: [Toggle - Pieces](https://github.com/able-app/docs/blob/5f2e2a45ca65f1183d8966336e2f3164960f1e71/controls/%CE%B5%20elements/toggle/toggle-pieces.md)
 
 ## Properties

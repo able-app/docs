@@ -5,7 +5,7 @@ Base: Shows the level(s) for the value(s) given on the slider track with a visua
 [Styleguide Link](https://zpl.io/VDmzpOv)
 
 - Parent: [Slider Bar](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/%CE%B5%20elements/slider/sliderbar.md)
-- Sisters: [Slider Knob](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/%CE%B5%20elements/slider/sliderknob.md), Slider Track, [Ruler Tick](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/%CE%B5%20elements/slider/rulertics.md)
+- Sisters: [Slider Knob](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/%CE%B5%20elements/slider/sliderknob.md), [Slider Track](https://github.com/able-app/docs/blob/8cd03de6556a6ec1dcd98dc8c2230863c5dba43c/controls/%CE%B5%20elements/slider/slidertrack.md), [Ruler Tick](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/%CE%B5%20elements/slider/rulertics.md)
 
 ## Properties
 

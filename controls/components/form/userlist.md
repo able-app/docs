@@ -25,3 +25,5 @@ The additional helper text that can be presented below the form control.
 - Large
 
 **Note:** The structure and spacing of this component is the same between Textfield, Textarea, Selectlist, Chiplist, Slider, Userlist, and Toggle Button.
+
+**Note:** Each of the nested elements and primitives of this form component have properties that can be adjusted to customize the component.

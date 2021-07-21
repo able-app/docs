@@ -4,7 +4,7 @@ Element: A collection of step points (primitive) to represent a series of steps 
 
 [Styleguide Link](https://zpl.io/aRRyz5E)
 
-- Parent: [Stepper Panel](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/components/stepper-panel.md) (Component)
+- Parent: [Stepper Panel](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/components/stepper-panel.md) (Form Component)
 - Child: [Step Point](https://github.com/able-app/docs/blob/b10f6d1205bbfb1cddfd150d1390ba848812d9d0/controls/%CE%B5%20elements/stepper/steppoint.md)
 
 ### Properties

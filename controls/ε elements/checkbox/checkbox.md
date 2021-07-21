@@ -4,7 +4,7 @@ Primitive: A singular checkbox control with its possible styling, status (on/off
 
 [Styleguide Link](https://zpl.io/aRnzW0p)
 
-- Parent: Multiple
+- Parent: [Checkbox](https://github.com/able-app/docs/blob/8cd03de6556a6ec1dcd98dc8c2230863c5dba43c/controls/components/form/checkbox.md) (Form Component), Multiple others
 - Child: [Checkbox - Shape](https://github.com/able-app/docs/blob/b10f6d1205bbfb1cddfd150d1390ba848812d9d0/controls/%CE%B5%20elements/checkbox/checkbox-shape.md)
 
 ### Properties

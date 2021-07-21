@@ -23,3 +23,5 @@ Inner element spacing is used for dynamic resizing along with a background surfa
 - **Screen: Listview** - For very large lists and those that might need a graphic, adaptIcon, and/or additional context with a description, we can navigate directly to (as opposed to the sheet first) a new screen where the full screen is displaying the list, where a choice would navigate the user back to the original screen where the SelectList was first presented and now shows the choosen option in the Field.
 
 **Note:** The structure and spacing of this component is the same between Textfield, Textarea, Selectlist, Chiplist, Slider, Userlist, and Toggle Button.
+
+**Note:** Each of the nested elements and primitives of this form component have properties that can be adjusted to customize the component.
