@@ -29,7 +29,7 @@ The same styles that are possible in the Button element are available here.
 
 This property defines if the toggle is set to the "On" or "Off" version. Buttons that have a status of "on" show as fills and those that are "off" have a line outlining the button shape.
 
-NOTE: The intent is to NOT have double lines between each toggle-pieces when they are grouped together. However, this would complicate the design file more than we'd like, so understand that the right side "lines" of the Left and Center "Locations" should be removed to achieve the desired effect of a single 1 dp line between each piece.
+**NOTE:** The intent is to NOT have double lines between each toggle-pieces (as is shown in the design file) when they are grouped together. However, this would complicate the design file more than we'd like, so understand that the right side "lines" of the Left and Center "Locations" should be removed to achieve the desired effect of a single 1 dp line between each piece.
 
 ### Location
 
@@ -37,7 +37,7 @@ This is primarily for the multi-toggle option to define the left, center, and ri
 
 ### Size
 
-We have the need for two sizes in the Toggle, the first Base (default) size for most use cases and a shorter one "Tiny" for those situations where the Toggle shows up in other fixed height components like the App Bar.
+We have the need for two sizes in the Toggle, the first **Base** (default) size for most use cases and a shorter one "**Tiny**" for those situations where the Toggle shows up in other fixed height components like in the App Bar.
 
 ### State
 

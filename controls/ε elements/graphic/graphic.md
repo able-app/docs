@@ -35,9 +35,9 @@ Note: Each of the placeholder images for these aspect ratios have a different ap
 
 **Overlay** - Provides the ability to include a layer of content over top of the graphic.  This lets us add icons, text, banners, buttons on top of the graphic. There are three areas for overlays...
 
-	- **Top** - Docked to the top of the graphic.
-	- **Center** - Floating at the vertical center of the graphic
-	- **Bottom** - Docked to the bottom of the graphic
+- **Top** - Docked to the top of the graphic.
+- **Center** - Floating at the vertical center of the graphic
+- **Bottom** - Docked to the bottom of the graphic
 
 These overlays can be On/Off independent of one another.
 

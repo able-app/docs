@@ -16,13 +16,12 @@ Examples of primitives are:
 - Switch
 - Progress Bar
 - Slider
-- Surface (like a background)
 
 Examples of elements are: 
 
 - Label
 - Textfield
 - Textarea
-- Select List
+- Selectlist
 
 The difference between an element and a component is that elements do not handle the spacing between elements, where components account for spacing, scaling, and breakpoint.

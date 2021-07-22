@@ -1,12 +1,10 @@
 # Toggle Bar
 
-Element: A grouping for design convenience for display in the bar component.  The bar component can have different background surfaces (colors) so we don't include a surface here. 
-
-Common toggle bar layouts are located here and will be added to over time.
+Element: A collection of toggles with layout padding and behaviors.  The bar component can have different background surfaces (colors) so we don't include a surface here.
 
 [Styleguide Link](https://zpl.io/adyA535)
 
-- Parent: Bar
+- Parent: [App Bar - Ext.](https://github.com/able-app/docs/blob/d689178b930c7095c750671b112985ac09eccd08/controls/components/appbar/app-bar-ext.md),  [Form > Toggle Button](https://github.com/able-app/docs/blob/d689178b930c7095c750671b112985ac09eccd08/controls/components/form/togglebutton.md)
 - Child: [Toggle](https://github.com/able-app/docs/blob/7fce4c938ec276d881761d80876efe894b9b88e1/controls/%CE%B5%20elements/toggle/toggle.md)
 
 ## Properties
