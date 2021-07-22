@@ -5,7 +5,7 @@ Element: Overlays, corner radius and any overlays or effects to the image happen
 [Styleguide Link](https://zpl.io/VxA44QE)
 
 - Parent: ListItem, CardItem, GridItem, Multiple
-- Child: Overlay - Top, Center, Bottom
+- Child: [Overlay - Top, Center, Bottom](https://github.com/able-app/docs/blob/7486c8fa88811fddbd49b82001d919e42805712e/controls/%CE%B5%20elements/overlay/overlay.md)
 
 ## Properties
 
@@ -30,6 +30,8 @@ Element: Overlays, corner radius and any overlays or effects to the image happen
 - 16:9 (Video Size)
 - 2:1
 - 21:9 (Movie Theater Screen Size)
+
+Note: Each of the placeholder images for these aspect ratios have a different appearance and have the ratio number in the lower right corner of the image to help in understanding the ratios at a glance.
 
 **Overlay** - Provides the ability to include a layer of content over top of the graphic.  This lets us add icons, text, banners, buttons on top of the graphic. There are three areas for overlays...
 
