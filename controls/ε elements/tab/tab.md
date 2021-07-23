@@ -2,7 +2,7 @@
 
 Element: A single tab used in a group in the tab bar component.
 
-[Styleguide Link]()
+[Styleguide Link](https://zpl.io/VkyG35q)
 
 - Parent: [Tab - Bar](https://github.com/able-app/docs/blob/d689178b930c7095c750671b112985ac09eccd08/controls/components/tab-bar.md)
 - Child: [Tab - Active Indicator](https://github.com/able-app/docs/blob/d689178b930c7095c750671b112985ac09eccd08/controls/%CE%B5%20elements/tab/tab-activeindicator.md)

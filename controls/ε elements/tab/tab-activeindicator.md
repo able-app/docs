@@ -2,7 +2,7 @@
 
 Primitive: A collection of visual indicators for an active tab.
 
-[Styleguide Link]()
+[Styleguide Link](https://zpl.io/2pg4QON)
 
 - Parent: [Tab](https://github.com/able-app/docs/blob/d689178b930c7095c750671b112985ac09eccd08/controls/%CE%B5%20elements/tab/tab.md)
 

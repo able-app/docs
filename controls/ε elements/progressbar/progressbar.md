@@ -2,7 +2,7 @@
 
 Primative: A visual indicator to express either a determined length of time an activity will take, an indeterminate amount of time, or the fact that a query or buffer is happening.  Common uses are the loading of screen contents, video/audio files, the submission of a form, or a software update.
 
-[Styleguide Link]()
+[Styleguide Link](https://zpl.io/Vx9Lo1k)
 
 - Parent: [Progress Indicator](https://github.com/able-app/docs/blob/d689178b930c7095c750671b112985ac09eccd08/controls/%CE%B5%20elements/progressbar/progressindicator.md)
 

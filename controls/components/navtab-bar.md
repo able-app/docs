@@ -6,12 +6,16 @@ NOTE: The left side nav could have one or more toggle buttons. In the example it
 
 [Styleguide Link](https://app.zeplin.io/styleguide/6041aec8159a9b10c34d0182/components?cseid=60e5f9a7c9c9c207f78a9879)
 
+Child: [Tab](https://github.com/able-app/docs/blob/d689178b930c7095c750671b112985ac09eccd08/controls/%CE%B5%20elements/tab/tab.md), NavTab - Toggle
+
+## Properties
+
 ### Type
 
-- Icon
-- Text
-- Icon Left
-- Icon Top
+- **Icon:** Tab Bar with Icons on each Tab
+- **Text:** Word(s) used on each Tab
+- **Icon Left:** An Icon to the left of word(s) on the Tab
+- **Icon Top:** An Icon above word(s) on the Tab
 
 ### Surface
 

@@ -2,7 +2,7 @@
 
 Element: The combination of a leading label, progress bar, and trailing label to inform the user about the progress of an activity being done. Progress indicators are also commonly referred to as spinners. Much of what is found in the [MD component](https://material.io/components/progress-indicators#usage) is available here.
 
-[Styleguide Link]()
+[Styleguide Link](https://zpl.io/2jyQewm)
 
 - Parent: [App Bar - Ext.](https://github.com/able-app/docs/blob/d689178b930c7095c750671b112985ac09eccd08/controls/components/appbar/app-bar-ext.md), [Button](https://github.com/able-app/docs/blob/d689178b930c7095c750671b112985ac09eccd08/controls/%CE%B5%20elements/button.md) , [Icon](https://github.com/able-app/docs/blob/d689178b930c7095c750671b112985ac09eccd08/controls/%CE%B5%20elements/icon/icon.md), Listview, Modal
 - Child: [Progress Bar](https://github.com/able-app/docs/blob/d689178b930c7095c750671b112985ac09eccd08/controls/%CE%B5%20elements/progressbar/progressbar.md)
