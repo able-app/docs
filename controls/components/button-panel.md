@@ -4,7 +4,7 @@ Component: A collection of buttons vertically or horizontally displayed with pad
 
 [Styleguide Link](https://app.zeplin.io/styleguide/60470191ec4e65a27a43e21c/components?cseid=604e5635eda5f48a6895f219)
 
-- Child: Button
+- Child: [Button](https://github.com/able-app/docs/blob/11bba28ef1491560027e9f7e377c9a1bba80bf2e/controls/%CE%B5%20elements/button.md)
 
 ### Properties
 

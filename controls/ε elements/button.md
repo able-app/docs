@@ -11,22 +11,22 @@ Element: A click/tap-able screen element used to build other elements and compon
 
 **Style**: The visual appearance (styling) of the object
 
-	- Primary (default)
-	- Secondary
-	- Dark
-	- Neutral
-	- Light
+- Primary (default)
+- Secondary
+- Dark
+- Neutral
+- Light
 
 **Type**: A way to structure high level variations of an object into like collections
 
-	- Fill (default)
-	- Line
-	- Text
+- Fill (default)
+- Line
+- Text
 
 **Shape**: The different border treatments for the surface of the object
 
-	- Rounded (default)
-	- Square
+- Rounded (default)
+- Square
 
 **Size**: The general size of the object in relation to others
 

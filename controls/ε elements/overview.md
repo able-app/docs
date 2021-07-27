@@ -11,11 +11,11 @@ Examples of primitives are:
 - Text
 - Image
 - Icon
-- Checkbox
-- Radio Button
-- Switch
+- Checkbox - Control
+- Radio Button - Control
+- Switch - Control
 - Progress Bar
-- Slider
+- Slider - Control
 
 Examples of elements are: 
 
