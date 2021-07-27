@@ -1,6 +1,6 @@
 # Section Header
 
-Used at the top of list, card, grid, masonry sections to separate groupings of like items into sections.  Actionable icons/text can be used as well to jump the user to additional functionality or activities. For Ex. A "More" text link to a full list, which the Section only represents a few.
+Component: Used at the top of list, card, grid, masonry sections to separate groupings of like items into sections.  Actionable icons/text can be used as well to jump the user to additional functionality or activities. For Ex. A "More" text link to a full list, which the Section only represents a few.
 
 [Styleguide Link](https://zpl.io/2pRQ39M)
 
@@ -9,19 +9,19 @@ Used at the top of list, card, grid, masonry sections to separate groupings of l
 
 ## Properties
 
-**Title** - Can be left aligned or center depending on the use case
+**Size**: Generally the size of the title and its relative component height.
 
-**Surface** - Light, Dark, or Neutral depending on the section it is being paired with, list, card, grid, masonry's background.
+- Tiny (R4B)
+- XSmall (R3B)
+- Small (R2B)
+- Medium (R1B)
+- Large (H5B)
+- XLarge (H4B)
+- Huge (H3B)
 
-**Size** - Generally the size of the title and its relative height.
+**Alignment**: Can be left aligned or center depending on the use case
 
-- Tiny
-- XSmall
-- Small
-- Medium
-- Large
-- XLarge
-- Huge
+**Surface**: Light, Dark, or Neutral depending on the section it is being paired with, list, card, grid, masonry's background.
 
 **Divider** - A division line at the bottom of the Section Header to draw more attention to the start of the section.  This option is Off by default.
 
