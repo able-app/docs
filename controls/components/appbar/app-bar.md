@@ -6,9 +6,11 @@ The primary control for navigation and actionable activities in the application.
 
 [BOTTOM - Styleguide Link](https://zpl.io/an3L6pv)
 
+## Properties
+
 ### Leading Style
 
-Taken from the ABC-Leading convenience container the leading style allows us to change up the appearance of the far left column of content.
+Taken from the ABC-Leading collection the leading style allows us to change up the appearance of the far left column of content.
 
 - Icon (default)
 - Text
@@ -23,7 +25,7 @@ Taken from the ABC-Leading convenience container the leading style allows us to 
 
 ### Center Style
 
-Provided to us from the ABC-Center convenience container the center style gives us the ability to control the center column of the App Bar. The contents of this center column expand to fill the space, where the Leading and Trailing styles hug their contents.
+Provided to us from the ABC-Center collection the center style gives us the ability to control the center column of the App Bar. The contents of this center column expand to fill the space, where the Leading and Trailing styles hug their contents.
 
 - Title (default)
 - Search
@@ -34,7 +36,7 @@ Provided to us from the ABC-Center convenience container the center style gives 
 
 ### Trailing Style
 
-Supplied by the ABC-Trailing convenience container this provides us with the ability to alter the styling of the right side column of the App Bar.
+Supplied by the ABC-Trailing collection this provides us with the ability to alter the styling of the right side column of the App Bar.
 
 - Icon (default)
 - Text
@@ -45,7 +47,7 @@ Supplied by the ABC-Trailing convenience container this provides us with the abi
 
 ### Location
 
-We've divided the App Bar into two distinct areas, Top for those at the top of the screen and of course Bottom for those at the bottom of the screen.
+We've divided the App Bar into two distinct vertical areas, Top for those at the top of the screen and of course Bottom for those at the bottom of the screen.
 
 ### Interaction
 

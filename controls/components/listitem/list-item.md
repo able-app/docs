@@ -2,6 +2,13 @@
 
 A single row (item) of a vertical index (list).
 
+[Styleguide Link](https://app.zeplin.io/styleguide/6041aec8159a9b10c34d0182/components?cseid=608b00c8788d2a052f91e09b)
+
+- Parent: [ListView]()
+- Children: [Icon](https://github.com/able-app/docs/blob/08eb774e348952235f1f4eb0369879387a684280/controls/%CE%B5%20elements/icon/icon.md), [Label](https://github.com/able-app/docs/blob/08eb774e348952235f1f4eb0369879387a684280/controls/%CE%B5%20elements/label.md), [Avatar,](https://github.com/able-app/docs/blob/08eb774e348952235f1f4eb0369879387a684280/controls/%CE%B5%20elements/avatar/avatar.md) [Graphic](https://github.com/able-app/docs/blob/08eb774e348952235f1f4eb0369879387a684280/controls/%CE%B5%20elements/graphic/graphic.md), [AdaptIcon](https://github.com/able-app/docs/blob/7bb2457d172a78e9e6528e086a642c45224c701f/controls/%CE%B5%20elements/adapticon/adapticon.md)
+
+## Properties
+
 ### Content
 
 - Single row: A single title

@@ -5,7 +5,7 @@ Element: A collection of toggles with layout padding and behaviors.  The bar com
 [Styleguide Link](https://zpl.io/adyA535)
 
 - Parent: [App Bar - Ext.](https://github.com/able-app/docs/blob/d689178b930c7095c750671b112985ac09eccd08/controls/components/appbar/app-bar-ext.md),  [Form > Toggle Button](https://github.com/able-app/docs/blob/d689178b930c7095c750671b112985ac09eccd08/controls/components/form/togglebutton.md)
-- Child: [Toggle](https://github.com/able-app/docs/blob/7fce4c938ec276d881761d80876efe894b9b88e1/controls/%CE%B5%20elements/toggle/toggle.md)
+- Child: [Toggle - Ctrl](https://github.com/able-app/docs/blob/7fce4c938ec276d881761d80876efe894b9b88e1/controls/%CE%B5%20elements/toggle/toggle.md)
 
 ## Properties
 

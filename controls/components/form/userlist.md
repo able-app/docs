@@ -2,9 +2,12 @@
 
 Component: A form control for the collection of users (avatars), used when adding people in a form.
 
-### Functionality
+[Styleguide Link](https://zpl.io/29dz8PY)
 
-This form control acts as a container for a collection of people.  People are added to the container (horizontl scroll of avatars) by tapping the placeholder (first) avatar to begin the selection process.  That process will normally happen in a sheet that appears. Once the selection process is complete the user would close that sheet and those avatars that were selected would appear in the controls horizontal scroll.
+- Parent: Form (Container)
+- Child: [Label](https://github.com/able-app/docs/blob/2956b7cd57098e9f2c27ad3cb3ae8da4842dc0c0/controls/%CE%B5%20elements/label.md), [Avatar - Bar](https://github.com/able-app/docs/blob/08eb774e348952235f1f4eb0369879387a684280/controls/%CE%B5%20elements/avatar/avatar-bar.md)
+
+## Properties
 
 ### Label
 
@@ -23,6 +26,10 @@ The additional helper text that can be presented below the form control.
 - Small - The default size for the control
 - Medium
 - Large
+
+## Functionality
+
+This form control acts as a container for a collection of people.  People are added to the container (horizontl scroll of avatars) by tapping the placeholder (first) avatar to begin the selection process.  That process will normally happen in a sheet that appears. Once the selection process is complete the user would close that sheet and those avatars that were selected would appear in the controls horizontal scroll.
 
 **Note:** The structure and spacing of this component is the same between Textfield, Textarea, Selectlist, Chiplist, Slider, Userlist, and Toggle Button.
 

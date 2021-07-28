@@ -17,7 +17,7 @@ Component: A panel with spacing and alignment of the Stepper with its collection
 - Large
 - XLarge
 
-Note: In the Large & XLarge sizes the step point has the option of containing a Label which can be an Icon or Text (number).  This can be used to add more context to the step in the process.
+**Note:** In the Large & XLarge sizes the step point has the option of containing a Label which can be an Icon or Text (number).  This can be used to add more context to the step in the process.
 
 **Alignment** - The location of the Stepper within the panel, either left, right or center (default).
 

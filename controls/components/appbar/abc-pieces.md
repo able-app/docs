@@ -4,9 +4,14 @@ Collection: The individual actionable buttons, icons, and text that are grouped 
 
 [Styleguide Link](https://zpl.io/V13kP6w)
 
-- Parent(s) - App Bar Top & Bottom
+- Parent: [App Bar Top & Bottom](https://github.com/able-app/docs/blob/08eb774e348952235f1f4eb0369879387a684280/controls/components/appbar/app-bar.md)
+- Children: [Icon](https://github.com/able-app/docs/blob/08eb774e348952235f1f4eb0369879387a684280/controls/%CE%B5%20elements/icon/icon.md), [Label](https://github.com/able-app/docs/blob/08eb774e348952235f1f4eb0369879387a684280/controls/%CE%B5%20elements/label.md), [Button](https://github.com/able-app/docs/blob/08eb774e348952235f1f4eb0369879387a684280/controls/%CE%B5%20elements/button.md), [Avatar,](https://github.com/able-app/docs/blob/08eb774e348952235f1f4eb0369879387a684280/controls/%CE%B5%20elements/avatar/avatar.md) [Graphic](https://github.com/able-app/docs/blob/08eb774e348952235f1f4eb0369879387a684280/controls/%CE%B5%20elements/graphic/graphic.md), [Toggle](https://github.com/able-app/docs/blob/08eb774e348952235f1f4eb0369879387a684280/controls/%CE%B5%20elements/toggle/toggle.md), [Field](https://github.com/able-app/docs/blob/08eb774e348952235f1f4eb0369879387a684280/controls/%CE%B5%20elements/field/field.md), [Tab - Bar](https://github.com/able-app/docs/blob/08eb774e348952235f1f4eb0369879387a684280/controls/components/tab-bar.md), [NavToggle](https://github.com/able-app/docs/blob/08eb774e348952235f1f4eb0369879387a684280/controls/%CE%B5%20elements/toggle/navtoggle.md)
 
-### Types
+## Properties
+
+### Type
+
+All of the options available for use in the App Bar are collected here.
 
 - **Icon** - The default for most controls in the app bar, the display of an icon that serves as a metaphor for an activity.
 - **Text** - Used interchanabily with icons to spell out the action being preformed when the control is interacted with.

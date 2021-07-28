@@ -4,16 +4,18 @@ Collection: A grouping of primarily actionable buttons, icons, and text that are
 
 [Styleguide Link](https://zpl.io/2pRr5zN)
 
-- Parent(s) - App Bar Top & Bottom
-- Children - App Bar Pieces
+- Parent: [App Bar Top & Bottom](https://github.com/able-app/docs/blob/08eb774e348952235f1f4eb0369879387a684280/controls/components/appbar/app-bar.md)
+- Children: [App Bar Pieces](https://github.com/able-app/docs/blob/08eb774e348952235f1f4eb0369879387a684280/controls/components/appbar/abc-pieces.md)
 
-### Structure -The "Properties" of the object.
+## Properties
 
-**Controls** - The number of objects in this section of the app bar. Those objects are referenced in "Type"
+### Controls 
 
-**Type** - The general theme for the collection of controls, most often this type will be the same as the far right object in the collection. These "Types" are supplied by the abc-pieces collection.
+The number of objects in this section of the app bar. Those objects are referenced in "Type".
 
-### Types
+### Type
+
+The general theme for the collection of controls, most often this type will be the same as the far right object in the collection. These "Types" are supplied by the abc-pieces collection.
 
 - **Icon** (default) - Often referred to as Action Items, these typically are the primary actions that the user would take on the screens contents.
 - **Text** - An alternative to icon use and often used for actions that cancel or clear an activity.
