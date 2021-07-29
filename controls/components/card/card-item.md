@@ -2,6 +2,24 @@
 
 A single card cell (item) that can be organized into Bars (rows) of a vertical index (list).
 
+[Styleguide Link]()
+
+- Parent: [CardView]()
+- Child: 
+
+## Properties
+
+### Subject
+
+- Product
+- Place
+- Person
+- Collection - A generic grouping of similar object together.
+
+### Size
+
+Depending on the use and the usable space within a CardItem in most situations we divide up the designs into three sizes, small, medium, large. 
+
 ### Functionality
 
 CardItems can have multiple touch points the user can interact with.

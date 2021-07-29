@@ -4,6 +4,11 @@ Component: A collections of Bars (rows) of CardItems that are vertically stacked
 
 [Styleguide Link](https://zpl.io/aBvePwQ)
 
+- Parent: Screen
+- Child: CardItem
+
+## Properties
+
 ### Functionality
 
 The CardItems within the grid dynamically changes based on the width of a portrait format screen. The Caption area contents expand to fill, but the Graphic (Image) dynamically changes it's size in relation to its ratio 1:1 16:9 etc. based on the devices screen width.
