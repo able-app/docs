@@ -11,9 +11,9 @@ A collection of multiple ListItems in a scrollable vertical index (list).
 
 ### Content
 
-- Single Line: A single title
-- Two Line: A title and subtext below
-- Three Line: A title, secondary subtext below and a tertiary subtext below that
+- **Single Line:** A single title
+- **Two Line:** A title and subtext below
+- **Three Line:** A title, secondary subtext below and a tertiary subtext below that
 
 ### Header
 

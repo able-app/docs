@@ -5,7 +5,7 @@ A collection of multiple CardItems in a scrollable vertical index (list).
 [Styleguide Link](https://zpl.io/adKWyRp)
 
 - Parent: Screen
-- Children: [GridItem]()
+- Children: [GridItem]()???
 
 ## Properties
 

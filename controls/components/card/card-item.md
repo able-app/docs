@@ -1,15 +1,17 @@
 # CardItem
 
-A single card cell (item) that can be organized into Bars (rows) of a vertical index (list).
+A single card Item (cell) that can be organized into Bars (rows) of a vertical List (index).
 
-[Styleguide Link]()
+[Styleguide Link](https://zpl.io/VQy7E3x)
 
-- Parent: [CardView]()
-- Child: 
+- Parent: [Card - Bar](https://github.com/able-app/docs/blob/26fef4dd60d663f49dd419ed514bd2b8d643c5ed/controls/components/card/card-bar.md) > [CardView](https://github.com/able-app/docs/blob/26fef4dd60d663f49dd419ed514bd2b8d643c5ed/controls/components/card/card-view.md)
+- Child: Caption - [Title](https://github.com/able-app/docs/blob/26fef4dd60d663f49dd419ed514bd2b8d643c5ed/controls/%CE%B5%20elements/caption/cap-title.md), [Support](https://github.com/able-app/docs/blob/26fef4dd60d663f49dd419ed514bd2b8d643c5ed/controls/%CE%B5%20elements/caption/cap-support.md), [Description](https://github.com/able-app/docs/blob/26fef4dd60d663f49dd419ed514bd2b8d643c5ed/controls/%CE%B5%20elements/caption/cap-descript.md), [Graphic](https://github.com/able-app/docs/blob/8cd03de6556a6ec1dcd98dc8c2230863c5dba43c/controls/%CE%B5%20elements/graphic.md)
 
 ## Properties
 
 ### Subject
+
+Here we define the structure of how different subject matter is displayed in a CardItem.  
 
 - Product
 - Place
@@ -20,7 +22,7 @@ A single card cell (item) that can be organized into Bars (rows) of a vertical i
 
 Depending on the use and the usable space within a CardItem in most situations we divide up the designs into three sizes, small, medium, large. 
 
-### Functionality
+## Functionality
 
 CardItems can have multiple touch points the user can interact with.
 

@@ -10,6 +10,13 @@ Collection:  A convenience container for those objects that are displayed at the
 
 **Trailing Style:** The far right column in the caption row used to contain things like actionable or visual icons, buttons, labels or nothing at all.
 
+[Styleguide Link](https://zpl.io/2Z37kAd)
+
+- Parent: Caption - [Title](https://github.com/able-app/docs/blob/26fef4dd60d663f49dd419ed514bd2b8d643c5ed/controls/%CE%B5%20elements/caption/cap-title.md), [Description](https://github.com/able-app/docs/blob/26fef4dd60d663f49dd419ed514bd2b8d643c5ed/controls/%CE%B5%20elements/caption/cap-descript.md), [Support](https://github.com/able-app/docs/blob/26fef4dd60d663f49dd419ed514bd2b8d643c5ed/controls/%CE%B5%20elements/caption/cap-support.md)
+- Child:  [Icon](https://github.com/able-app/docs/blob/26fef4dd60d663f49dd419ed514bd2b8d643c5ed/controls/%CE%B5%20elements/icon/icon.md), [Label](https://github.com/able-app/docs/blob/26fef4dd60d663f49dd419ed514bd2b8d643c5ed/controls/%CE%B5%20elements/label.md), [AdaptIcon](https://github.com/able-app/docs/blob/26fef4dd60d663f49dd419ed514bd2b8d643c5ed/controls/%CE%B5%20elements/adapticon/adapticon.md), [Avatar](https://github.com/able-app/docs/blob/26fef4dd60d663f49dd419ed514bd2b8d643c5ed/controls/%CE%B5%20elements/avatar/avatar.md), [Graphic](https://github.com/able-app/docs/blob/26fef4dd60d663f49dd419ed514bd2b8d643c5ed/controls/%CE%B5%20elements/graphic/graphic.md)
+
+## Properties
+
 
 
 ### Types
@@ -19,7 +26,7 @@ Collection:  A convenience container for those objects that are displayed at the
 - AdaptIcon
 - Avatar
 - Graphic
-- Label - Used when we want to have a row with the "Label: Value" appearance where the "Value" would be in the Primary area.
+- Label: Used when we want to have a row with the "Label: Value" appearance where the "Value" would be in the Primary area.
 
 ### Sizes
 

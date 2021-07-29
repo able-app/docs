@@ -5,22 +5,20 @@ Component: A collections of Bars (rows) of CardItems that are vertically stacked
 [Styleguide Link](https://zpl.io/aBvePwQ)
 
 - Parent: Screen
-- Child: CardItem
+- Child: [CardItem](https://github.com/able-app/docs/blob/26fef4dd60d663f49dd419ed514bd2b8d643c5ed/controls/components/card/card-item.md)
 
 ## Properties
 
-### Functionality
+### Column
 
-The CardItems within the grid dynamically changes based on the width of a portrait format screen. The Caption area contents expand to fill, but the Graphic (Image) dynamically changes it's size in relation to its ratio 1:1 16:9 etc. based on the devices screen width.
-
-### Content
-
-Single - Only a single CardItem per vertical view, in other words, a full width CardItem,  in portrait format on the device, with padding of course.
-
-Double - Two CardItems positioned side-by-side in a portrait format on the device.
-
-Triple - Three CardItems positioned side-by-side in a portrait format on the device.
+- **Single:** Only a single CardItem per vertical view, in other words, a full width CardItem,  in portrait format on the device, with padding of course.
+- **Double:** Two CardItems positioned side-by-side in a portrait format on the device.
+- **Triple:** Three CardItems positioned side-by-side in a portrait format on the device.
 
 ### Header
 
-The view either has a header or not within the scrollable view.  Note this is different from a header that is outside of the scrollable area.
+A header (aka SecHead) can exist at the top of a ListView and be used to separate list content into different collections under that header. That Section Header has a title and can have additional actionable icons associated with the section to take action on the collection.
+
+## Functionality
+
+The CardItems within the grid dynamically changes based on the width of a portrait format screen. The Caption area contents expand to fill, but the Graphic (Image) dynamically changes it's size in relation to its ratio 1:1 16:9 etc. based on the devices screen width.

@@ -11,10 +11,10 @@ A single row (item) of a vertical index (list).
 
 ### Content
 
-- Single row: A single title
-- Two rows: A title and subtext below
-- Two row rating: A title with ratings below
-- Three rows: A title, secondary subtext below and a tertiary subtext below that
+- **Single Line:** A single title
+- **Two Line:** A title and subtext below
+- **Two Line rating:** A title with ratings below
+- **Three Line:** A title, secondary subtext below and a tertiary subtext below that
 
 ### Leading Style
 
@@ -41,6 +41,8 @@ Supplied by the ListItem-Trailing convenience container this provides us with th
 - Switch
 - Input Stepper
 - Toggle
+
+**Note:** ListItems naturally form their own Bar (aka Row) where Cards and Graphics need an additional layer of organization at the Bar level. You can think of the ListItem as the equal to a Card or Graphic Bar.
 
 ### Functionality
 
