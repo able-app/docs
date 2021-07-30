@@ -1,14 +1,6 @@
 # Caption Container - Trailing
 
-Collection:  A convenience container for those objects that are displayed at the end of the Caption - Title, Description, and Support areas that then make up the vertically stackable, modular pieces of the caption area of Cells and Cards.
-
-### Definitions
-
-**Leading Style:** The left most column in a caption row to contain things like icons, avatars, adaptions, graphics, labels, or even nothing at all.
-
-**Primary:** The primary content being displayed within a row, this is usually text copy but not always.
-
-**Trailing Style:** The far right column in the caption row used to contain things like actionable or visual icons, buttons, labels or nothing at all.
+Collection:  A convenience container for those objects that are displayed at the end of the Caption - Title, Description, and Support areas that then make up the vertically stackable, modular pieces of the caption area of Cells and Cards. Please see [Caption - Definitions](https://github.com/able-app/docs/blob/57a78e2f25b43d8f5e72755f1e2740d12a2998ee/controls/%CE%B5%20elements/caption/cap-def.md) for a run down on the structure and terminology used in captions.
 
 [Styleguide Link](https://zpl.io/amRvymA)
 
@@ -17,19 +9,15 @@ Collection:  A convenience container for those objects that are displayed at the
 
 ## Properties
 
-### Types
+### Type
 
 - **None**
 - **Action (Icon):** Most commonly used as a "More" button to bring up additional actions you can take on the subject matter.
-- **Super Action (Icon Larger):** A more prominent actionable area commonly used for the primary activity associated with the subject matter, for example adding.
-- **Subtext (Right aligned):** 
-- Link
-- AdaptIcon
-- Avatar
-- Graphic
-- Button
-
-### Sizes
-
-- Small
-- Large
+- **Super Action (Icon Larger):** A more prominent actionable area commonly used for the primary activity associated with the subject matter, for example adding to the shopping cart.
+- **Subtext:** Right aligned text copy that is usually very short copy, as not to interfer with the Title or Subtext copy that is more of a focus.
+- **Subtext + Action:** Vertically stacked right aligned text copy with an actionable icon below (usually a More icon). Note, the hitarea for the Icon would extend over top of the subtext right.
+- **Link:** A text based navigation to another area, using the visual indicator color to show that the link is clickable.
+- **AdaptIcon:** Used to attribute the object to a collection represented by the iconography used in the AdaptIcon.
+- **Avatar:** Used to attribute the object to the person in the Avatar.
+- **Graphic:** Many different purposes, but can be used to show a brand or collection.
+- **Button:** A more visually prominent actionable area that can be used as the primary activity of the subject matter.

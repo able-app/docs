@@ -26,4 +26,5 @@ Each of the types is further broken down into their like collections at the Prim
 - **Sash:** A sash is a triangular piece that drapes across the corner of the graphic.  This draws a bit more attention to the visual being displayed inside of the sash.
 - **AdaptIcon:** Used to give context to a Graphic, possibly attributing it to a location represented by the AdaptIcon.
 - **Avatar:** Used to attribute a Graphic to a person, pictured in the Avatar.
+- **Stepper:** When multiple graphics/illustrations are represented in a single Graphic instance we show the content stepper indicator.
 

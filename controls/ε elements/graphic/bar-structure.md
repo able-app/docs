@@ -1,6 +1,6 @@
 # Bar - Structure
 
-Collection:  A convenience wrapper around graphic/adaptIcon, avatar cells for display in the bar component which can have different surfaces, thus no bar surfaces here.
+Collection:  A convenience wrapper around cards, graphic/adaptIcon/avatar cells for display in the bar component which can have different surfaces, thus no bar surfaces here.
 
 ### Architecture
 
