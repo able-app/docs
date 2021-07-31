@@ -17,8 +17,10 @@ Component: A collections of Bars (rows) of CardItems that are vertically stacked
 
 ### Header
 
-A header (aka SecHead) can exist at the top of a ListView and be used to separate list content into different collections under that header. That Section Header has a title and can have additional actionable icons associated with the section to take action on the collection.
+A header (aka SecHead) can exist at the top of a ListView and be used to separate list content into different collections under that header. That Section Header has a title and can have additional actionable icons associated with the section to take action on the collection. See [Section Header](https://github.com/able-app/docs/blob/b9b8be305e8d9efb656b83048677b42297120b39/controls/components/sec-head.md) for the details.
 
 ## Functionality
 
 The CardItems within the grid dynamically changes based on the width of a portrait format screen. The Caption area contents expand to fill, but the Graphic (Image) dynamically changes it's size in relation to its ratio 1:1 16:9 etc. based on the devices screen width.
+
+Note: Any Bar within a CardView can independently side-scroll its contents, if the bar has the property of Side-Scrollable turned on.

@@ -4,9 +4,10 @@ Component: A collections of Graphics (Images) of varying heights, that are verti
 
 [Styleguide Link](https://zpl.io/VQJxJGk)
 
-### Functionality
+- Parent: Screen
+- Child: Graphic, SecHead
 
-The Graphics (Images) within the masonry grid have a variety of different "set sizes". All options have the focal point at the horizontal and vertical center of the graphic (which means part of the image may be masked, depending on the source image size).  The size of the images dynamically change IN PROPORTION based on the width of a portrait format screen. NOTE: The screens are designed with a 360 dp wide screen, so when on an iPhone the screen is 375 dp. The gutters between the images remains constant and the images shrink/grow to fill the space in proportion.
+## Properties
 
 ### Set Sizes (Portrait)
 
@@ -29,6 +30,10 @@ The view either has a header or not within the scrollable view.  Note this is di
 ### Gutter
 
 The gutters around the content can be on or off depending on the use case.
+
+## Functionality
+
+The Graphics (Images) within the masonry grid have a variety of different "set sizes". All options have the focal point at the horizontal and vertical center of the graphic (which means part of the image may be masked, depending on the source image size).  The size of the images dynamically change IN PROPORTION based on the width of a portrait format screen. NOTE: The screens are designed with a 360 dp wide screen, so when on an iPhone the screen is 375 dp. The gutters between the images remains constant and the images shrink/grow to fill the space in proportion.
 
 ### Surface
 
