@@ -5,7 +5,7 @@ Element: Used as a placeholder container on top of a Graphic to give additional 
 [Styleguide Link]()
 
 - Parent: [Graphic](https://github.com/able-app/docs/blob/8cd03de6556a6ec1dcd98dc8c2230863c5dba43c/controls/%CE%B5%20elements/graphic.md)
-- Child: Overlay - [Icon](https://github.com/able-app/docs/blob/7486c8fa88811fddbd49b82001d919e42805712e/controls/%CE%B5%20elements/overlay/ol-icon.md), [Banner](https://github.com/able-app/docs/blob/7486c8fa88811fddbd49b82001d919e42805712e/controls/%CE%B5%20elements/overlay/ol-banner.md), [Sash](https://github.com/able-app/docs/blob/7486c8fa88811fddbd49b82001d919e42805712e/controls/%CE%B5%20elements/overlay/ol-sash.md), [AdaptIcon](https://github.com/able-app/docs/blob/7486c8fa88811fddbd49b82001d919e42805712e/controls/%CE%B5%20elements/overlay/ol-adapticon.md), Button
+- Child: Overlay - [Icon](https://github.com/able-app/docs/blob/7486c8fa88811fddbd49b82001d919e42805712e/controls/%CE%B5%20elements/overlay/ol-icon.md), [Banner](https://github.com/able-app/docs/blob/7486c8fa88811fddbd49b82001d919e42805712e/controls/%CE%B5%20elements/overlay/ol-banner.md), [Sash](https://github.com/able-app/docs/blob/7486c8fa88811fddbd49b82001d919e42805712e/controls/%CE%B5%20elements/overlay/ol-sash.md), [AdaptIcon](https://github.com/able-app/docs/blob/7486c8fa88811fddbd49b82001d919e42805712e/controls/%CE%B5%20elements/overlay/ol-adapticon.md), [Button](https://github.com/able-app/docs/blob/6b264b6af626eecdfe550ed6f8b5884787b210bb/controls/%CE%B5%20elements/graphic/overlay/ol-button.md)
 
 ## Properties
 
