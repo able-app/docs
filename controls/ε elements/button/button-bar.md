@@ -5,7 +5,7 @@ Collection:  A convenience wrapper around Dyamic Button cells for display in the
 [Styleguide Link](https://app.zeplin.io/styleguide/6041aec8159a9b10c34d0182/components?cseid=610af54a9f2dc2bf6739db0b)
 
 - Parent: Multiple
-- Child: [Button](https://github.com/able-app/docs/blob/aee80ae89e01c173ca7abfc88b9e2cdac7acf5d8/controls/%CE%B5%20elements/button/button.md)
+- Child: [Button](https://github.com/able-app/docs/blob/685db7ac556607f91a23ec049f7f725d6d5e17b2/controls/%CE%B5%20elements/button/button.md)
 
 ## Properties
 
