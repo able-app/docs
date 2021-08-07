@@ -10,7 +10,7 @@ Primitive: Used in building element and components. An icon is used as a metapho
 
 **Size** - The general size of the element in proportion to the others in the collection.
 
-- XSmall (8dp)
+- XSmall (12dp)
 - Small (16dp)
 - SMedium (20dp)
 - Medium (24dp)
