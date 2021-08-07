@@ -5,7 +5,7 @@ Element: Words and iconography used widely across the design system to provide c
 [Styleguide Link](https://zpl.io/aRRypYz)
 
 - Parent: Multiple
-- Child: [Icon](https://github.com/able-app/docs/blob/b10f6d1205bbfb1cddfd150d1390ba848812d9d0/controls/%CE%B5%20elements/icon/icon.md), Text - [Type Scale](https://github.com/able-app/docs/blob/b10f6d1205bbfb1cddfd150d1390ba848812d9d0/styles/typography.md)
+- Child: [Icon](https://github.com/able-app/docs/blob/1784f5a24e371e159c5395e76e8b92977293904b/controls/%CE%B5%20elements/icon/icon.md), Text - [Type Scale](https://github.com/able-app/docs/blob/b10f6d1205bbfb1cddfd150d1390ba848812d9d0/styles/typography.md)
 
 ### Properties
 
