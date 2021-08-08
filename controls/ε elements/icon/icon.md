@@ -15,8 +15,9 @@ Primitive: Used in building element and components. An icon is used as a metapho
 - SMedium (20dp)
 - Medium (24dp)
 - Large (32dp)
-- XLarge(48dp)
-- XXLarge (64dp)
+- XLarge(40dp)
+- XXLarge(48dp)
+- Huge (64dp)
 
 **Badge** - Every icon has the possibility of having a badge in the upper right corner. This is commonly used with icons especially on tabs to represent new activity in that area of the app.  
 
