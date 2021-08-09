@@ -29,4 +29,4 @@ Element: The display of a list of choices on a temporary surface (modal). The co
 
 **Off** - For those menus that are cotained within a parent like a container for a Sheet or the ScrollView of a screen we will not use a shadow.
 
-Note: Take notice of the minor rounding of the corners.
+Note: Take notice of the minor rounding of the corners on menus with elevation.

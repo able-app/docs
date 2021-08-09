@@ -11,7 +11,6 @@ Primitive: The possible styles and sizes of a badge are set here. A badge can be
 ### Type
 
 - **Value** - The use of a number to indicate the amount of actionable activities attatched to the object. Note, the font used here is an exception in the design system and is set to a font-size of 8.
-- **Symbol** - The use of an icon to represent a status or activity.
 - **Color** - The association of a color to a status. IE. Red=Away, Green=Available
 
 ### Size
