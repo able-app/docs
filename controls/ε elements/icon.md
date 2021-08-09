@@ -5,6 +5,7 @@ Primitive: Used in building element and components. An icon is used as a metapho
 [Styleguide Link](https://zpl.io/VOyNZDY)
 
 - Parent: [Label](https://github.com/able-app/docs/blob/b10f6d1205bbfb1cddfd150d1390ba848812d9d0/controls/%CE%B5%20elements/label.md), Many others
+- Child: [Badge](https://github.com/able-app/docs/blob/8ba740fa6ffc7f19d74e9a9ef7c48e364c281084/controls/%CE%B5%20elements/badge/badge.md)
 
 ### Properties
 
