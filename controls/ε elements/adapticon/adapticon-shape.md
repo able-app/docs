@@ -21,6 +21,7 @@ Adpicons have two layers a background surface and an icon.  The background shape
 
 The design system has set sizes for certain objects, adpicon is one of those with the following standardized sizes following the 8 point grid system.  Note that the nested Icon element also follows a standardized sizing.
 
+- Tiny
 - Extra Small
 - Small
 - Medium

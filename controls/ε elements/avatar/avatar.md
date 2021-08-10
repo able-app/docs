@@ -13,9 +13,9 @@ Element: Set sizes for display with or without a status badge. Avatars focus on 
 
 To account for multiple usecases the design system has established a set sizing standard for certain interface objects, with Avatar being one of those.  The size and shape of an Avatar is set within the base level feeder of Avatar - Shape.
 
-### Status Badge
+### Overlay
 
-An avatar can have a status badge present to show the user/brands current status (online, offline, busy, etc.) or no badge, which may be more appropriate for lists of users.
+An avatar can have an overlay of a badge to show either the user/brands current status (online, offline, busy, etc.) or an AdaptIcon to represent an action (Add Photo, Edit) that could be taken on the Avatar, with a tap/click.
 
 ### State
 
@@ -26,4 +26,20 @@ The state of any nested object (ie. an element inside of a component) get's its 
 - Hover
 - Pressed
 - Focus
+
+## Usage
+
+**Avatar w/ Icon** - Used when there is no photo provided by the user.  In the future we may want to randomize the background color to be one of the palette colors. The Icon is a Label element in Icon only format.
+
+- Background-Color: N300
+- Foreground-Color: N500
+- Foreground-Src:account-circle-1.svg (foreground is the same width/height as the background)
+
+**Avatar w/ Initials** - Label:Text "Users First Name, first initial + Last Name, first initial capitalized"
+
+- Background-Color: N300
+- Foreground-Color: N500
+- Foreground-FontSize: XS:R4, S:R3, M:R1, L:H3, XL:H1 (Based on Avatar Size)
+
+**Avatar w/ Accessory** - When we need to infer an action on an avatar, like Add Photo or Edit, we can use an accessory in the lower right corner of the Avatar to display an AdaptIcon with an Icon.
 
