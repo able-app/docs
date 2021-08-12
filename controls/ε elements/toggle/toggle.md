@@ -1,6 +1,6 @@
 # Toggle - Control
 
-Element: The grouping of toggle button pieces that act together as a unit. This group is then treated as a single unit for dynamic resizing capabilities. Note, a single toggle control can exist on its own in a group.
+Element: The grouping of toggle button pieces that act together as a unit. This group is then treated as a single unit for dynamic resizing capabilities. Note, a single toggle control can exist on its own in a group. A toggle is also known as a Button Group in some frameworks. 
 
 [Styleguide Link](https://zpl.io/ag19AW0)
 

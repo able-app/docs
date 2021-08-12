@@ -5,6 +5,7 @@ Element: The shape and size of the Illustration canvas. The canvas has the same 
 [Styleguide Link](https://zpl.io/brGvn4X)
 
 - Parent: [ListItem](https://github.com/able-app/docs/blob/11bba28ef1491560027e9f7e377c9a1bba80bf2e/controls/components/listitem/list-item.md), [CardItem](https://github.com/able-app/docs/blob/11bba28ef1491560027e9f7e377c9a1bba80bf2e/controls/components/card-item.md), GridItem, Multiple
+- Sister: [Graphic](https://github.com/able-app/docs/blob/8ba740fa6ffc7f19d74e9a9ef7c48e364c281084/controls/%CE%B5%20elements/graphic/graphic.md)
 - Child: [Overlay - Top, Center, Bottom](https://github.com/able-app/docs/blob/7486c8fa88811fddbd49b82001d919e42805712e/controls/%CE%B5%20elements/overlay/overlay.md)
 
 ## Properties
