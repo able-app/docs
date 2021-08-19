@@ -12,11 +12,11 @@ Primative: A visual indicator to express either a determined length of time an a
 
 The relative size in relation to the other bars in the collection.
 
-	- Tiny
-	- XSmall
-	- Small
-	- Medium
-	- Large
+- Tiny
+- XSmall
+- Small
+- Medium
+- Large
 
 ### Shape
 

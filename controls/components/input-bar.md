@@ -4,7 +4,7 @@ Element: A grouping for design convenience for display in the bar component.  Th
 
 [Styleguide Link](https://zpl.io/VOyn0QX)
 
-- Parent: [App Bar - Extension](https://github.com/able-app/docs/blob/08eb774e348952235f1f4eb0369879387a684280/controls/components/appbar/app-bar-ext.md)
+- Parent: [App Bar - Extension](https://github.com/able-app/docs/blob/08eb774e348952235f1f4eb0369879387a684280/controls/components/appbar/app-bar-ext.md), Keyboard - Extension, [Sheet](https://github.com/able-app/docs/blob/67f7a78164476b38db5eefa0946db270b663fd7f/controls/components/sheet/sheet.md)
 - Child: App Bar Control - [Leading](https://github.com/able-app/docs/blob/08eb774e348952235f1f4eb0369879387a684280/controls/components/appbar/abc-leading.md), [Center](https://github.com/able-app/docs/blob/08eb774e348952235f1f4eb0369879387a684280/controls/components/appbar/abc-center.md), [Trailing](https://github.com/able-app/docs/blob/08eb774e348952235f1f4eb0369879387a684280/controls/components/appbar/abc-trailing.md)
 
 ## Properties

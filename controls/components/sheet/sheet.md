@@ -2,9 +2,9 @@
 
 A sheet is a modal <u>container</u> that slides into view when another action triggers the event.  Sheets can be positioned at the top or bottom of the screen on mobile devices. Multiple elements and components can be placed within the sheet container.
 
-[Styleguide Link](https://zpl.io/VOyvZz8)
+[Styleguide Link]()
 
-- Child: Sheet Drag, [ListView](https://github.com/able-app/docs/blob/8ba740fa6ffc7f19d74e9a9ef7c48e364c281084/controls/components/list/list-view.md), [Section Header](https://github.com/able-app/docs/blob/8ba740fa6ffc7f19d74e9a9ef7c48e364c281084/controls/components/sec-head.md), [Textfield](https://github.com/able-app/docs/blob/8ba740fa6ffc7f19d74e9a9ef7c48e364c281084/controls/components/form/textfield.md), Multiple others
+- Child: [Sheet Drag](https://github.com/able-app/docs/blob/67f7a78164476b38db5eefa0946db270b663fd7f/controls/components/sheet/sheet-drag.md), [ListView](https://github.com/able-app/docs/blob/8ba740fa6ffc7f19d74e9a9ef7c48e364c281084/controls/components/list/list-view.md), [Section Header](https://github.com/able-app/docs/blob/8ba740fa6ffc7f19d74e9a9ef7c48e364c281084/controls/components/sec-head.md), [Textfield](https://github.com/able-app/docs/blob/8ba740fa6ffc7f19d74e9a9ef7c48e364c281084/controls/components/form/textfield.md), Multiple others
 
 ## Properties
 
