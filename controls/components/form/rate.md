@@ -2,7 +2,7 @@
 
 Component: For use in forms this is the ability to give a rating (Score) for an object.
 
-[Styleguide Link]()
+[Styleguide Link](https://zpl.io/2jyBKZp)
 
 - Parent: Form (Container)
 - Child: [Rating](https://github.com/able-app/docs/blob/eef9f3c020c201502a019121fb1f8b07435d9d55/controls/%CE%B5%20elements/rating/rating.md), [Label]()
