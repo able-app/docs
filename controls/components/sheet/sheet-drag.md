@@ -1,9 +1,10 @@
 # Sheet Drag
 
-The area at the top or bottom of a sheet that the user can drag the size of the sheet larger or smaller.
+Element: The area at the top or bottom of a sheet that the user can drag the size of the sheet larger or smaller.
 
 [Styleguide Link](https://zpl.io/VOyvZz8)
 
+- Parent: [Sheet](https://github.com/able-app/docs/blob/529130de4fc3a1139a83c319393a9ed338cb3a7e/controls/components/sheet/sheet.md)
 - Child: None
 
 ## Properties

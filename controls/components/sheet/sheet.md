@@ -2,7 +2,7 @@
 
 A sheet is a modal <u>container</u> that slides into view when another action triggers the event.  Sheets can be positioned at the top or bottom of the screen on mobile devices. Multiple elements and components can be placed within the sheet container.
 
-[Styleguide Link]()
+[Styleguide Link](https://zpl.io/2jyLrnW)
 
 - Child: [Sheet Drag](https://github.com/able-app/docs/blob/67f7a78164476b38db5eefa0946db270b663fd7f/controls/components/sheet/sheet-drag.md), [ListView](https://github.com/able-app/docs/blob/8ba740fa6ffc7f19d74e9a9ef7c48e364c281084/controls/components/list/list-view.md), [Section Header](https://github.com/able-app/docs/blob/8ba740fa6ffc7f19d74e9a9ef7c48e364c281084/controls/components/sec-head.md), [Textfield](https://github.com/able-app/docs/blob/8ba740fa6ffc7f19d74e9a9ef7c48e364c281084/controls/components/form/textfield.md), Multiple others
 
@@ -27,6 +27,17 @@ The height of the sheet when opened can be one of three heights. A greaat exampl
 - Light: The sheet is intended for use on top of Light colored content.
 - Dark: The sheet is intended for use on top of Dark color content, for example when browsing photos in a Grid from the camera library (with a dark background to the Grid) and taking an action on a photo.
 
-Use
+### Scrim
 
-A sheet has three positions it can open to
+The semi-transparant backing behind a sheet, modal dialog box, or drawer.  The scrim can be set to different levels of transparency depending on the use case, with the default being a 40% opacity.
+
+	- 0% (None)
+	- 10%
+	- 20%
+	- 40% (Default)
+	- 60%
+	- 80%
+
+### Use
+
+A sheet has three positions it can open to with snapping to that height...
