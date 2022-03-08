@@ -2,10 +2,6 @@
 
 A design to development framework for building mobile and desktop web applications using Figma design files and  React Native code.
 
-### Documentation
-
-An introduction to the ABLE Design System, its structure and all of its objects are included in this repo in the [docs directory](docs/intro.md)
-
 ### Table of Contents
 
 ------
@@ -23,8 +19,8 @@ An introduction to the ABLE Design System, its structure and all of its objects 
   * [Haptic](themes/styles/haptic.md)
   * [Motion](themes/styles/motion.md)
   * [Audio](themes/styles/audio.md)
-* [ε elements](core/e-elements/README.md)
-  * [adapticon](core/e-elements/adapticon/README.md)
+* [ε elements](core/elements/README.md)
+  * [adapticon](core/elements/adapticon/README.md)
     * [Adpicon](core/e-elements/adapticon/adpicon.md)
     * [Adpicon - Shape](core/e-elements/adapticon/adpicon-shape.md)
   * [overlay](core/e-elements/overlay/README.md)
