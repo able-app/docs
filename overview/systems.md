@@ -8,11 +8,7 @@ This compartmentalizes the features and functionality of the design system, allo
 
 ### Kit Structure
 
-| **Level 00 - Design System** | **Level 01 - Brand** | **Level 02 - Product** |
-| :--- | :--- | :--- |
-| - Screen Templates - Elements & Components - Theme \(Base\) - Libraries \(Brand, Icon, Ill, etc.\) - Color Palettes - Flow Kits | - Brand Themes - Brand Libraries - Icon Libraries - Illustration Libraries - Animation Libraries | - Product 01 \(Customer\) - Product 02 \(Employee\) - Product 03 \(Admin\)  |
-
-![DS-structure](../.gitbook/assets/DS-structure.png)
+![DS-structure](../assets/images/DS-structure.png)
 
 
 
