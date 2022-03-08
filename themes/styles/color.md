@@ -1,4 +1,4 @@
-# Color Style
+# Ω Color Style
 
 Within the design system we have a base color style based off of Google's material design palette with ten different weights for each hue, ranging from 50 \(lightest\) to 900 \(darkest\). When using these colors we suggest that you start with the 500 weight color and move up \(Shade\) and down \(Tint\) in numeric weight. Each of these colors carries it's design token for reference within the code.
 

@@ -1,10 +1,14 @@
-# Effects
+# Ω Effects
 
 Shadows give objects on the screen depth, elevation, and define the edges of an object. The shadow is set based on its elevation and relationship to the surfaces of other objects.
 
-## Shadow Effect Style
+## Type - Shadow
 
 With any application there will be the need for some level of shadow to show elevation. To provide a scalable, consistent, and an easy way to manage shadow across the app we use Effect Styles for shadows. Most won't find the need to customize the defaults set in the "Base" shadows but the ability exists to over-ride those at the theme layer. Also, we can build additional shadow dictionaries for specific elements and components to keep the design consistent. For example, if we wanted to limit the shadow options available to a Card component we could create a shadow dictionary for cards and reference those in the shadow styling options of a card rather than the Base shadow.
+
+## Type - Treatment
+
+These are the treatments that are applied to screen objects. The best example of this is a Frosted Glass appearance that can be applied to a photo.
 
 ### Properties
 
@@ -19,6 +23,8 @@ With any application there will be the need for some level of shadow to show ele
 **Referenced By**: \[textArea.ReadOnlyCsvList\] The list of elements and components that are referencing this dictionary
 
 A single dictionary "source of truth" is referenced across multiple elements, components and screens to provide the shadow properties for that object in the design system.
+
+
 
 ## Add Entry
 

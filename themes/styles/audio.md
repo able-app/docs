@@ -1,4 +1,4 @@
-# Audio
+# Ω Audio
 
 Sound is used to communicate with the user, provide \(emotion identity style\) for a brand, and improve the experience through sensory feedback. There are three primary types of sound "audio" communication… interface, musical, and voice.
 

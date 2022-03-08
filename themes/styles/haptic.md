@@ -1,4 +1,4 @@
-# Haptic
+# Ω Haptic
 
 Haptic feedback is the use of touch to communicate with users. It's the vibration of your phone when you get a new email or the rumble in the controller when a hit happens in a game.
 

@@ -1,4 +1,4 @@
-# Spacing
+# Ω Spacing
 
 Whitespace is crucial to drawing the user’s attention to key areas, maximizing readability and guiding the flow of information. As with typography, by adhering to a spacing scale, we can ensure that each component and layout will be uniform. To keep spacing consistent between elements and allow the interface to both breathe and accommodate information rich interfaces we've modeled our spacing on Android’s Material design soft grid system which follows the 8dp grid.
 

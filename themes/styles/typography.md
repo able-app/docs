@@ -2,7 +2,7 @@
 
 Every experience designed for a screen needs a well-designed visual hierarchy to its content. The goal of a typographic hierarchy is to present material so that the most important things are displayed with the highest visual impact. This helps the user in their quick scan for key information on a screen. This is achieved through the types size, weight, color, contrast, consistency of location, alignment, and spacing from other elements on the screen.
 
-## Text Style
+## Ω Text Style
 
 To set the properties for type, in a Theme we use the Text Style which establishes a typographic scale of sizes for use in the base application. The text style we create is then referenced by all elements and components for consistency in the design. Design Tokens are used with the styling in place of inline styling in ALL aspects of the application.
 

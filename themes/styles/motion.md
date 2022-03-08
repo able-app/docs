@@ -1,4 +1,4 @@
-# Motion
+# Ω Motion
 
 The component as a whole can also have motion applied to it. An example of this might be the "Flash" of a ListItem when it is selected from a list.
 

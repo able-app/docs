@@ -2,7 +2,7 @@
 
 For objects on the screen we want to adhere to sizing standards as much as we can to create a consistent look and feel across our visual elements. To accomplish this we have sizing standards that are associated with different objects \(i.e. Grids, Spacing, Icons, Avatars, Images and Button\).
 
-## Size Dictionaries
+## Ω Size Dictionaries
 
 There are various sizing types \(grid, spacing, radius, object width & height, timing, etc.\) that are a part of the design system that used to design our components and screen layouts. This is where we group those individual sizes together into use case dependent dictionaries. These are then used by our elements and components to provide the sizing options available to that object.
 

@@ -1,4 +1,4 @@
-# Elements
+# ε Elements
 
 Elements are the graphical user interface (GUI) elements used by operating systems to offer a consistent visual language to interact with software and technology. These elements use a visual convention to represent information based on the OS it's on. These individual interface building blocks are used to build the components in the design system.  Each element has their unique properties, such as typeface, color, size, and spacing, which make up the styles used in the design system. 
 
