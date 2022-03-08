@@ -10,8 +10,19 @@ Help us keep ABLE open and inclusive. Please read and follow our [Code of Conduc
 
 ## Bugs & Feature Requests
 
-If you find a bug in the source code, you can help us by submitting an issue to our GitHub repository.
-Even better, you can submit a pull request with a fix.
+If you encounter a bug in an open source project, check if the bug has already been reported. If the bug has not been reported, you can open an issue to report the bug according to the project's contribution guidelines. Even better, you can submit a pull request with a fix.
+
+### Reproducing a reported bug
+
+You can contribute to an open source project by validating an issue or adding additional context to an existing issue.
+
+### Testing a pull request
+
+You can contribute to an open source project by merging a pull request into your local copy of the project and testing the changes. Add the outcome of your testing in a comment on the pull request.
+
+### Updating issues
+
+You can contribute to an open source project by adding additional information to existing issues.
 
 
 ## Missing a Feature?
@@ -32,6 +43,8 @@ To ensure consistency throughout the source code, keep these rules in mind as yo
 * All features or bug fixes **must be tested** by one or more specs (unit-tests).
 * All public API methods **must be documented**.
 * We follow [Google's JavaScript Style Guide][js-style-guide]
+
+
 
 
 
