@@ -1,4 +1,4 @@
-# Shadow
+# Effects
 
 Shadows give objects on the screen depth, elevation, and define the edges of an object. The shadow is set based on its elevation and relationship to the surfaces of other objects.
 

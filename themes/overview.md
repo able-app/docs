@@ -4,15 +4,15 @@ This is a good introduction to themes in a design system like we're creating her
 
 Fundamentally, theming is used to modify "skin" existing elements and components to apply a visual style to an application. However, themes can control far more than a change in the colors. The theme in the ABLE design system consists of the following style, dictionary and library files:
 
-- Color Styles
-- Text Styles
-- Effect Styles (Shadows & Treatments)
-- Icon Library
+- [Color Styles](styles/color.md)
+- [Text Styles](styles/typography.md)
+- [Effect Styles](styles/effect.md) (Shadows & Treatments)
+- [Icon Library](styles/iconography.md)
 - Illustration Library
 - Brand Library
-- Spacing Dictionary
-- Size Dictionary
-- Time, Interaction, Motion, Audio, Haptic Dictionaries
+- [Spacing Dictionary](styles/spacing.md)
+- [Size Dictionary](styles/size.md)
+- Time, Interaction, [Motion](styles/motion.md), [Audio](styles/audio.md), [Haptic Dictionaries](styles/haptic.md)
 
 Each of these files is referenced in the Theme file and can be swapped out for other like-kinds to get a different experience. The easiest example of this is with Color Styles, where the visual colors of the app can be swapped out for a different look. Using this structure eliminates the need to modify each individual element and component to achieve the desired style. Themes control the design across all delivery platforms from a central set of theme files.
 

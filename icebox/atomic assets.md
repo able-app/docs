@@ -2,7 +2,7 @@
 
 #### An overview of the design system structure
 
-As the breadth of solutions and interconnected experiences grows, it becomes increasingly important to maintain a consistent style to ensure an expected and uniform experience. This will accelerate the design and development of solutions in addition to reducing user confusion and extended on-boarding. To do this, we’ve built a design system to document and store reusable aspects while also sharing best practices for faster design and development. The design system is broken down into Guidelines, Building Blocks, Libraries, and Resources.
+As the breadth of solutions and interconnected experiences grows, it becomes increasingly important to maintain a consistent style to ensure an expected and uniform experience. The aim of ABLE is to accelerate the design and development of solutions in addition to reducing user confusion and extended on-boarding. To do this, we’ve built a design system to document and store reusable aspects while also sharing best practices for faster design and development.
 
 ## Building Blocks
 
@@ -30,7 +30,7 @@ Groups of elements bonded together, that follow the styles, flows, and behaviors
 
 ### Modules
 
-Relatively complex groupings of components with a specific purpose are considered modules. A Sign In/Sign Up module or navigation drawer would be considered a module. Modules can also be thought of as self-contained and sellable, to those building their own solutions.
+Relatively complex groupings of components, with a specific purpose, are generally considered to be modules. A GridView (listing of graphics in a grid) or a navigation drawer would be considered a module. Modules can also be thought of as self-contained single purpose design objects.
 
 ### Layouts
 

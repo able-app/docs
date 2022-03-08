@@ -82,11 +82,11 @@ So in Level 00 we establish the default styles, in a Base "Theme" and at Level 0
 
 ## Core
 
-The next layer up in the Design System is our "Core" file containing Elements and Components, which are the equivalent to Atoms and Molecules in the [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/) structure. _Note, we've added our own lower level of "Particles" to add a much needed layer to the Atomic Design structure._
+The next layer up in the Design System is our "Core" file containing Primitives, Elements, Components and Collections of these. Elements and Components are the equivalent to Atoms and Molecules in the [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/) structure. _Note, we've added our own lower level of "Particles" and other segmentations like "Primitives" and "Collections" to add a much needed layers to the Atomic Design structure when speaking to the way we structure the design system._
 
 #### **Φ** Primitives
 
-At both the Element and Component level we have the need to separate out parts of the object \(element or component\) into even more simplistic objects before combining them as an element or component. Primitives are how we classify these simple objects. A good example of a "Primitive" is a single Tab, which doesn't serve much of a purpose on it's own, but when combined with other tabs, in an "Element" it is able to realize its purpose.
+At both the Element and Component level we have the need to separate out parts of the object \(Element or Component\) into even more simplistic objects before combining them as an element or component. Primitives are how we classify these simple objects. A good example of a "Primitive" is a single Tab, which doesn't serve much of a purpose on it's own, but when combined with other tabs, in an "Element" it is able to realize its purpose.
 
 #### **ε** Elements
 
@@ -100,7 +100,7 @@ The individual or combined (ie. Tab) primitive interface building block(s)Tex us
 
 #### Θ Collections
 
-From time to time, to keep things logically organized in the design system we use a Collection.  All this is, is a container for us to keep like items together. Know that a Collection can consist of Primitives, Elements and even Components.  It's use strictly for organization purposes.
+From time to time, to keep things logically organized in the design system we use a Collection.  All this is, is a container for us to keep like items together. Know that a Collection can consist of Primitives, Elements and even Components.  It's use strictly for organization purposes.  A good example of how this is used in the design system is in how we structure a ListItem into Leading, Primary, and Trailing Collections that display in the same relative location in the ListItem but serve different purposes. In the design this provides for a single Component called ListItem, that has hundreds of variations based on the choices for Leading, Primary and Trailing.
 
 #### **Components**
 
@@ -115,9 +115,15 @@ From time to time, to keep things logically organized in the design system we us
 
 Components dynamically scale horizontally to fill the width of the screen, but in 99% of cases DO NOT scale in height. All components are designed to stack vertically on top of one another, with no vertical spacing between them, in a ScrollView.  The ABLE Design Systems definition of a Component goes beyond those that you typically see in other frameworks like Bootstrap, Angular or Ionic which for the majority of screen objects, all stop at the Element level under our definition of an Element.
 
+App
+
+#### **Ξ Modules**
+
+Relatively complex groupings of components, with a specific purpose, are generally considered to be modules. A GridView (listing of graphics in a grid) or a navigation drawer would be considered a module. Modules can also be thought of as self-contained single purpose design objects.
+
 #### **Screens**
 
-This is where the elements and components from Core are combined to form reusable modules and patterns at each breakpoint \(phone, tablet, web/desktop\). A few common modules and patterns are:
+This is where Modules and Components from Core are combined to form a screen design at each of our breakpoints \(phone, tablet, web/desktop\). A few common modules and patterns are:
 
 * Sign-In
 * Profile
@@ -125,7 +131,9 @@ This is where the elements and components from Core are combined to form reusabl
 * Object-ListView
 * Image-GridView
 
-In the design system at Level 00 these serve as templates to use when building screens, to avoid reinventing the wheel, and at the Brand and Product levels to customize those DS screens to the desired use case.
+#### **Flows**
+
+
 
 # Level 01 - Brand Kits
 
