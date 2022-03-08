@@ -1,4 +1,4 @@
-# Contributing to ABLE
+# Contributing
 
 We'd love for you to contribute to ABLE and help make it better. As a contributor, here are the guidelines we follow:
 

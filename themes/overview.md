@@ -8,7 +8,7 @@ Fundamentally, theming is used to modify "skin" existing elements and components
 - [Text Styles](styles/typography.md)
 - [Effect Styles](styles/effect.md) (Shadows & Treatments)
 - [Icon Library](styles/iconography.md)
-- Illustration Library
+- [Illustration Library](styles/illustration.md)
 - Brand Library
 - [Spacing Dictionary](styles/spacing.md)
 - [Size Dictionary](styles/size.md)

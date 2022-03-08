@@ -1,8 +1,8 @@
-# Iconography
+# Ω Iconography
 
 Used as a visual language to represent type, level, status, content, or adding context to supporting material. Icons are meant to be a simple, immediately recognizable, visual representations of an object or activity. Icons are visual cues that provide clues about how the user should use the app using metaphorical associations. Iconography is treated in the same way as an element with color, size, and spacing properties.
 
-## Ω Icon Library
+## Icon Library
 
 With any application there will be the need for some level of visual iconography. To provide a scalable, consistent, and easy way to move between different icon families we use an Icon Library. This ties a metaphor, the intent/idea behind an icon to a design token which can have one or more words associated with it. As an example, lets take the idea "metaphor" of a settings area. We can use the design token "\#icnSettings" for that icon in every element, component, and screen across the application and then have the ability to swap out that icon, application wide from a single source of truth in the library. In the library we define each metaphor independently.  In the previous example of "Settings" we use a gear icon, that same gear icon could be used to represent another metaphor for example "Motor". By having the two metaphors represented in the Icon Library as separate objects we can change out the "Motor" metaphor for a different visual without effecting the "Settings" icon throughout the app. This also gives us a way of swapping out an entire icon family (ie link a new Icon Library file) for another when you want to change the look and feel of the application.
 
