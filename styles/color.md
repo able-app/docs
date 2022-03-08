@@ -1,8 +1,12 @@
-# Color Dictionaries
+# Color Style
 
-Within the design system we have a base color dictionary based off of Google's material design palette with ten different weights for each hue, ranging from 50 \(lightest\) to 900 \(darkest\). When using these colors we suggest that you start with the 500 weight color and move up \(Shade\) and down \(Tint\) in numeric weight. Each of these colors carries it's design token for reference within the code.
+Within the design system we have a base color style based off of Google's material design palette with ten different weights for each hue, ranging from 50 \(lightest\) to 900 \(darkest\). When using these colors we suggest that you start with the 500 weight color and move up \(Shade\) and down \(Tint\) in numeric weight. Each of these colors carries it's design token for reference within the code.
 
-This is our base level color dictionary for a theme but we could have multiple color dictionaries that follow their own color schemes. For example, a color picker available to app users may have a limited number of colors, which would be defined in a dictionary and referenced. These dictionaries help us to organize our color palettes into logical families, which can then be references from a theme.
+To set the properties for color in a Theme, we use Color Style's. This is our base level color style for a theme but we could also have multiple color styles that follow their own color schemes. For example, a color picker available to app users may have a limited number of colors, which would be defined in a "Picker Palette" color styles file. These separate color style files help us to organize our color palettes into logical families, which can then be references from a theme.
+
+## Mode
+
+Every Color Style file has at least two modes, Light (default) and Dark. With the ability to add additional modes if needed, for example High Contracts - Light, Mode.  All designs are done in the Light mode.
 
 ## Properties
 
@@ -14,9 +18,7 @@ The fields that are needed to describe the color, its tint or shade and any othe
 
 **Token**: \[textField\] The design token is our machine readable way of linking from the element or component back to the theme and style dictionaries. For example with Purple we have a design token of \#purple500.
 
-**Theme**: \[toggle\(on,off;off\)\] The ability for this color dictionary to be used as the base color palette for a theme.
-
-**Referenced By**: \[textArea.ReadOnlyCsvList\] The list of elements and components that are referencing this dictionary
+**Referenced By**: \[textArea.ReadOnlyCsvList\] The list of elements and components that are referencing this style
 
 ## Attributes
 

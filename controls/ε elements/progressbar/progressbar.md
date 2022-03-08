@@ -33,3 +33,7 @@ The relative size in relation to the other bars in the collection.
 **Query:** During the time the app is communicating with the backend we show a visual indicator of that process in an animated dashed progress bar.
 
 **Note:** As we know more about a process (loading, saving, etc.), the type can change from Indeterminate to Determinate.
+
+<ProgressLine color="primary" size="small" type="determinate" value={progress} />
+
+<ProgressCircle color="primary" size="medium" type="indeterminate" value={progress} />

@@ -23,6 +23,8 @@ Component: A collections of Graphics (Images) of varying heights, that are verti
 
 Double - Two graphics positioned side-by-side in a portrait view on the device.
 
+Triple - Three graphics postioned side-by-side in portrait mode.  Note, that the masonry view can change from a double to a triple column format based on screen width and breakpoints (ie. PhonePortrait:Double, PhoneLandscape:Triple, TabletPortrait:Triple, TabletLandscape:Quad)
+
 ### Header
 
 The view either has a header or not within the scrollable view.  Note this is different from a header that is outside of the scrollable area.

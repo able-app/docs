@@ -22,3 +22,5 @@ The horizontal location of the objects that go within the Overlay placeholder th
  - Center (Bottom)
  - Right (Bottom)
  - Full width (Bottom)
+
+NOTE: The banner has a frosted glass appearance which is semi-transparent to show a blurred effect when placed over photos.

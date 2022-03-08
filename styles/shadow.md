@@ -2,9 +2,9 @@
 
 Shadows give objects on the screen depth, elevation, and define the edges of an object. The shadow is set based on its elevation and relationship to the surfaces of other objects.
 
-## Shadow Dictionary
+## Shadow Effect Style
 
-With any application there will be the need for some level of shadow to show elevation. To provide a scalable, consistent, and an easy way to manage shadow across the app we use Shadow Dictionaries. As a default we have our "Base" shadows which are used in the styling of screen objects. However, we can build additional shadow dictionaries for specific elements and components to keep the design consistent. For example, if we wanted to limit the shadow options available to a Card component we could create a shadow dictionary for cards and reference those in the shadow styling options of a card rather than the Base shadow.
+With any application there will be the need for some level of shadow to show elevation. To provide a scalable, consistent, and an easy way to manage shadow across the app we use Effect Styles for shadows. Most won't find the need to customize the defaults set in the "Base" shadows but the ability exists to over-ride those at the theme layer. Also, we can build additional shadow dictionaries for specific elements and components to keep the design consistent. For example, if we wanted to limit the shadow options available to a Card component we could create a shadow dictionary for cards and reference those in the shadow styling options of a card rather than the Base shadow.
 
 ### Properties
 
@@ -22,25 +22,25 @@ A single dictionary "source of truth" is referenced across multiple elements, co
 
 ## Add Entry
 
-These are the individual "entries" added to this shadow dictionary. As an example we have a Base shadow "Dictionary" which is referenced from all visible screen objects in the design system. That dictionary has options from None to Huge. Now when we are building a component with an object in it, we have those options available to us. If we want to go into greater detail for a particular element or component on the screen we can create a new shadow family to represent that element or component, in essence, overriding the Base shadow family.
+These are the individual "entries" added to this shadow style. As an example we have a Base shadow "Effect Style" which is referenced from all visible screen objects in the design system. That style has options from None to Huge. Now when we are building a component with an object in it, we have those options available to us. If we want to go into greater detail for a particular element or component on the screen we can create a new shadow family to represent that element or component, in essence, overriding the Base shadow family.
 
 ### Properties
 
-**Name**: \[textField\] The human readable way we refer to this "Shadow" option in the Dictionary. \(i.e. XS, M, L\)
+**Name**: \[textField\] The human readable way we refer to this "Shadow" option in the Effect Style. \(i.e. XS, M, L\)
 
 **Blur**: \[slider-tick\(0-25;0\)\] This is the digital pixel size
 
 **Spread**: \[slider-tick\(0-25;0\)\] This is the digital pixel size
 
-**Color**: \[selectList\(ColorDictionary.Shadow\)\] This pulled from a color dictionary, created for shadow which has a base of Black and three alpha levels \(.2, .14, .12\)
+**Color**: \[selectList\(ColorStyle.Shadow\)\] This pulled from a color style, created for shadow which has a base of Black and three alpha levels \(.2, .14, .12\)
 
 **Horizontal Offset**: \[slider-tick\(-100 - +100;0\)\] This is the digital pixel size
 
 **Vertical Offset**: \[slider-tick\(-100 - +100;0\)\] This is the digital pixel size
 
-**Token**: \[textField\(\#\)\] The short-code we use to refer to this shadow type in the dictionary \(i.e.. \#shadBaseS, \#shadCardM etc.\)
+**Token**: \[textField\(\#\)\] The short-code we use to refer to this shadow type in the Effect Style \(i.e.. \#shadBaseS, \#shadCardM etc.\)
 
-## Base Dictionary Entries
+## Base Style Entries
 
 We will use the material design shadows as our base, mapping each of the base shadow tokens to its equivalent value that can be found here.
 
@@ -60,5 +60,5 @@ We will use the material design shadows as our base, mapping each of the base sh
 | XXXL | 16 | \#shadBaseXxxl |
 | Huge | 24 | \#shadBaseH |
 
-NOTE: Any dictionaries designated as a Base, can not be deleted. They act as the defaults for other elements and components up the line.
+NOTE: Any dictionaries or styles designated as a Base, can not be deleted. They act as the defaults for other elements and components up the line.
 
