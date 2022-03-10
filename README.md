@@ -1,29 +1,20 @@
+---
+description: >-
+  A design to development framework for building mobile and desktop web
+  applications using Figma design files and React Native code.
+---
+
 # ABLE
 
-A design to development framework for building mobile and desktop web applications using Figma design files and  React Native code.
+## Intro
+
+As the breadth of solutions and interconnected experiences grows, it becomes increasingly important to maintain a consistent style to ensure an expected and uniform experience. The aim of ABLE is to accelerate the design and development of solutions in addition to reducing user confusion and extended on-boarding. To do this, we’ve built a design system to document and store reusable aspects while also sharing best practices for faster design and development.
 
 ### Table of Contents
 
-------
+***
 
-
-
-* [Introduction](intro.md)
-* [Themes](themes/overview.md)
-  * [Color](themes/styles/color.md)
-  * [Typography](themes/styles/typography.md)
-  * [Effects](themes/styles/effect.md)
-  * [Iconography](themes/styles/iconography.md)
-  * [Spacing](themes/styles/spacing.md)
-  * [Size](themes/styles/size.md)
-  * [Haptic](themes/styles/haptic.md)
-  * [Motion](themes/styles/motion.md)
-  * [Audio](themes/styles/audio.md)
-* [ε Elements](core/elements/overview.md)
-* [Components](core/components/README.md)
-  * [ChipList](core/components/form/chiplist.md)
-  * [Textfield](core/components/form/textfield.md)
-  * [SelectList](core/components/form/selectlist.md)
-  * [TextArea](core/components/form/textarea.md)
-  * [App Bar](core/components/appbar/appbar.md)
-
+* [Structure](intro.md)
+* [Themes](overview/)
+* [Elements](core/overview/)
+* [Components](core/components/)
