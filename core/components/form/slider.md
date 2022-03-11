@@ -4,14 +4,14 @@ Component: Sliders allow users to make selections from a range of values as eith
 
 [Styleguide Link](https://zpl.io/brGNo51)
 
-- Parent:  Form (Container)
-- Child: [Slider - Ctrl](https://github.com/able-app/docs/blob/8cd03de6556a6ec1dcd98dc8c2230863c5dba43c/controls/%CE%B5%20elements/slider/slider.md), [Label](https://github.com/able-app/docs/blob/2956b7cd57098e9f2c27ad3cb3ae8da4842dc0c0/controls/%CE%B5%20elements/label.md)
+* Parent: Form (Container)
+* Child: [Slider - Ctrl](../../overview/slider/), [Label](../../overview/label.md)
 
 ## Properties
 
 ### Label
 
-The component can be presented with a label to give context to the form control.  This label can be positioned above (top), left, or not at all (none). NOTE: Label left for a slider is represented as an icon which has a fixed width, we do not use text content that would have variable lengths, as that would alter the slider lengths randomly.
+The component can be presented with a label to give context to the form control. This label can be positioned above (top), left, or not at all (none). NOTE: Label left for a slider is represented as an icon which has a fixed width, we do not use text content that would have variable lengths, as that would alter the slider lengths randomly.
 
 ### Helper Text
 

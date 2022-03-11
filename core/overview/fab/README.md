@@ -4,8 +4,8 @@ Element: The Floating Action Button with set sizes for display with or without a
 
 [Styleguide Link](https://zpl.io/b65y6Wq)
 
-* Parent: [App Bar - Bottom](https://github.com/able-app/docs/blob/d689178b930c7095c750671b112985ac09eccd08/controls/components/appbar/app-bar.md)
-* Child: [FAB - Shape](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/%CE%B5%20elements/fab/fab-shape.md), [Badge](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/%CE%B5%20elements/badge/badge.md)
+* Parent: [App Bar - Bottom](../../components/app-bar/)
+* Child: [FAB - Shape](fab-shape.md), [Badge](../badge/)
 
 ## Properties
 

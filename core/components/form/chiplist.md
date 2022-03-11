@@ -4,14 +4,14 @@ Component: For use in forms this is a list of options in chip format with differ
 
 [Styleguide Link](https://zpl.io/bzxM98l)
 
-- Parent: Form (Container)
-- Child: [Chip - Bar](https://github.com/able-app/docs/blob/72d886fee42ec503b35d525650866c59084c9480/controls/%CE%B5%20elements/chip/chip-bar.md), [Label](https://github.com/able-app/docs/blob/2956b7cd57098e9f2c27ad3cb3ae8da4842dc0c0/controls/%CE%B5%20elements/label.md)
+* Parent: Form (Container)
+* Child: [Chip - Bar](../../overview/chip/chip-bar.md), [Label](../../overview/label.md)
 
 ## Properties
 
 ### Label
 
-The component can be presented with a label to give context to the form control.  This label can be positioned above (top), left, or not at all (none). NOTE: Label left for a chiplist is represented as an icon which has a fixed width, we do not use text content that would have variable lengths, as that would alter the chiplists length randomly.
+The component can be presented with a label to give context to the form control. This label can be positioned above (top), left, or not at all (none). NOTE: Label left for a chiplist is represented as an icon which has a fixed width, we do not use text content that would have variable lengths, as that would alter the chiplists length randomly.
 
 ### Helper Text
 

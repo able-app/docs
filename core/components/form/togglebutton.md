@@ -4,18 +4,16 @@ Component: A list of options in toggle button group and solo format for use in f
 
 [Styleguide Link](https://zpl.io/29dzJAe)
 
-- Parent: Form (Container)
-- Child: [Label](https://github.com/able-app/docs/blob/2956b7cd57098e9f2c27ad3cb3ae8da4842dc0c0/controls/%CE%B5%20elements/label.md), [Toggle]()
+* Parent: Form (Container)
+* Child: [Label](../../overview/label.md), [Toggle - Ctrl](../../overview/toggle/)
 
 ## Properties
 
 ### Label
 
-- **Top** - The label for the form field is placed above the form control.
-
-- **Left** - The label for the form field is placed to the left of the form control.
-
-- **None** - No label is used with the form control.
+* **Top** - The label for the form field is placed above the form control.
+* **Left** - The label for the form field is placed to the left of the form control.
+* **None** - No label is used with the form control.
 
 ### Helper
 

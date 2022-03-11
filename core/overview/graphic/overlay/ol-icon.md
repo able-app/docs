@@ -1,11 +1,11 @@
-# Overlay - Icon
+# Φ Overlay - Icon
 
 Primitive: A collection used in the overlay of graphic (element). Action icons are informational (ex. a title) or interactive (ex. favorite it).
 
 [Styleguide Link](https://zpl.io/VqQeWxm)
 
-- Parent: [Overlay](https://github.com/able-app/docs/blob/d689178b930c7095c750671b112985ac09eccd08/controls/%CE%B5%20elements/overlay/overlay.md) > [Graphic](https://github.com/able-app/docs/blob/8cd03de6556a6ec1dcd98dc8c2230863c5dba43c/controls/%CE%B5%20elements/graphic.md)
-- Sisters: Overlay - [Banner](https://github.com/able-app/docs/blob/7486c8fa88811fddbd49b82001d919e42805712e/controls/%CE%B5%20elements/overlay/ol-banner.md), [Sash](https://github.com/able-app/docs/blob/7486c8fa88811fddbd49b82001d919e42805712e/controls/%CE%B5%20elements/overlay/ol-sash.md), [AdaptIcon](https://github.com/able-app/docs/blob/7486c8fa88811fddbd49b82001d919e42805712e/controls/%CE%B5%20elements/overlay/ol-adapticon.md), [Stepper](https://github.com/able-app/docs/blob/b9b8be305e8d9efb656b83048677b42297120b39/controls/%CE%B5%20elements/graphic/overlay/ol-stepper.md), [Headline](https://github.com/able-app/docs/blob/b9b8be305e8d9efb656b83048677b42297120b39/controls/%CE%B5%20elements/graphic/overlay/ol-headline.md)
+* Parent: [Overlay](./) > [Graphic](../)
+* Sisters: Overlay - [Icon](ol-icon.md), [Banner](ol-banner.md), [Sash](ol-sash.md), [AdaptIcon](ol-adapticon.md), [Headline](ol-headline.md), [Button](ol-button.md)
 
 ## Properties
 
@@ -13,9 +13,9 @@ Primitive: A collection used in the overlay of graphic (element). Action icons a
 
 The horizontal location of the objects that go within the Overlay placeholder that lays on top of the Graphic element. This container is for all overlays (Top, Center, Bottom).
 
- - Left (Top)
- - Right (Top)
- - Full width (Top) - Both Left & Right
- - Left (Bottom)
- - Right (Bottom)
- - Full width (Bottom) - Both Left & Right
+* Left (Top)
+* Right (Top)
+* Full width (Top) - Both Left & Right
+* Left (Bottom)
+* Right (Bottom)
+* Full width (Bottom) - Both Left & Right

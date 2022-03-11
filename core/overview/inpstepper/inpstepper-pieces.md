@@ -1,11 +1,11 @@
-# Input Stepper - Pieces
+# Φ Input Stepper - Pieces
 
 Primative: The pieces that go into the input stepper to step a numeric value up or down by a set amount.
 
 [Styleguide Link](https://zpl.io/a7pK0qj)
 
-- Parent: [Input Stepper](https://github.com/able-app/docs/blob/7fce4c938ec276d881761d80876efe894b9b88e1/controls/%CE%B5%20elements/inputstepper/inpstepper.md) (Control)
-- Child: [Label](https://github.com/able-app/docs/blob/5a96c205429d6f9ca9bcbfa998a17c2596ca4a32/controls/%CE%B5%20elements/label.md)
+* Parent: [Input Stepper](./) (Control)
+* Child: [Label](../label.md)
 
 ## Properties
 
@@ -33,23 +33,23 @@ Primative: The pieces that go into the input stepper to step a numeric value up 
 
 The location of the piece of the input stepper in relation to the whole.
 
-- Left
-- Right
-- Top
-- Bottom
-- Center - The value is always at the center
+* Left
+* Right
+* Top
+* Bottom
+* Center - The value is always at the center
 
 ### State
 
-- Enabled
-- Disabled
-- Hover
-- Pressed
-- Focus
+* Enabled
+* Disabled
+* Hover
+* Pressed
+* Focus
 
 ### Metaphors
 
-We use the metaphors (aka Icon Library) to standardize on the meaning of icons used in the application.  In the Input Stepper element we have six metaphors.
+We use the metaphors (aka Icon Library) to standardize on the meaning of icons used in the application. In the Input Stepper element we have six metaphors.
 
 **Arrow Left**: Icon-Library > Base > Primitives > Prim - InpStep Left
 

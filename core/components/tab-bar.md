@@ -4,23 +4,23 @@ Tabs organize and allow navigation between groups of content that are related an
 
 [Styleguide Link](https://app.zeplin.io/styleguide/6041aec8159a9b10c34d0182/components?cseid=608799eab9983f179fba44d4)
 
-- Child: [Tab](https://github.com/able-app/docs/blob/d689178b930c7095c750671b112985ac09eccd08/controls/%CE%B5%20elements/tab/tab.md)
+* Child: [Tab](../overview/tab/)
 
 ## Properties
 
 ### Type
 
-- **Icon:** Tab Bar with Icons on each Tab
-- **Text:** Word(s) used on each Tab
-- **Icon Left:** An Icon to the left of word(s) on the Tab
-- **Icon Top:** An Icon above word(s) on the Tab
+* **Icon:** Tab Bar with Icons on each Tab
+* **Text:** Word(s) used on each Tab
+* **Icon Left:** An Icon to the left of word(s) on the Tab
+* **Icon Top:** An Icon above word(s) on the Tab
 
 ### Side-Scroll
 
-- **Off** (Fixed) - The width of the tabs are fixed (depending on the number of tabs) and there is NO horizontal scrolling of the tabs.
-- **On** (Scroll) - The width of a tab is set based on its content and tabs can scroll off the side of the screen horizontally.
+* **Off** (Fixed) - The width of the tabs are fixed (depending on the number of tabs) and there is NO horizontal scrolling of the tabs.
+* **On** (Scroll) - The width of a tab is set based on its content and tabs can scroll off the side of the screen horizontally.
 
 ### Surface
 
-- Light
-- Dark
+* Light
+* Dark

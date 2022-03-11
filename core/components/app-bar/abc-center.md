@@ -1,11 +1,15 @@
-# App Bar Control - Center
+---
+description: App Bar Control (ABC)
+---
 
-Collection: A container for the content that is in the center (horizontally) of the app bar.  This content can be informative or actionable depending on the type of app bar.
+# ABC - Center
+
+Collection: A container for the content that is in the center (horizontally) of the app bar. This content can be informative or actionable depending on the type of app bar.
 
 [Styleguide Link](https://zpl.io/2vjgx55)
 
-- Parent: [App Bar Top & Bottom](https://github.com/able-app/docs/blob/08eb774e348952235f1f4eb0369879387a684280/controls/components/appbar/app-bar.md)
-- Children: [App Bar Pieces](https://github.com/able-app/docs/blob/08eb774e348952235f1f4eb0369879387a684280/controls/components/appbar/abc-pieces.md)
+* Parent: [App Bar Top & Bottom](./)
+* Children: [ABC - Pieces](abc-pieces.md)
 
 ## Properties
 
@@ -17,7 +21,7 @@ The general theme for the collection of controls, most often this type will be t
 
 **Wordmark/Logo** - Normally for branding purposes with the wordmark just being a wider reserved width of 21:9 and the logo set to a 1:1 ratio.
 
-**Search** - When one of the primary abilies of the screen is to search its contents we will opt to show the search field as opposed to hiding it behind a search icon.
+**Search** - When one of the primary abilities of the screen is to search its contents we will opt to show the search field as opposed to hiding it behind a search icon.
 
 **Toggle** - When the contents of the screen can be divided into sub sections we can drop in a toggle button group.
 

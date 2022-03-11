@@ -1,21 +1,20 @@
-# Ruler - Tics
+# Ω Ruler - Tics
 
-Base: The shape and size of the individual tics that can optionally be shown in or around the slider track. Similiar to the tics on a ruler these provide a visual for value increments along the slider track.
+Base: The shape and size of the individual tics that can optionally be shown in or around the slider track. Similar to the tics on a ruler these provide a visual for value increments along the slider track.
 
 [Styleguide Link](https://zpl.io/a7p4G4E)
 
-- Parent: [Ruler Track](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/%CE%B5%20elements/slider/ruler.md)
-- Sisters: [Slider Knob](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/%CE%B5%20elements/slider/sliderknob.md), [Indicator](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/%CE%B5%20elements/slider/sliderindicator.md)
+* Parent: [Ruler Track](./)
 
 ## Properties
 
 ### Shape
 
-**Circle**: The default, circular shape that sits inside of the ruler track.
+**Circle**: The default, circular shape that sits inside the ruler track.
 
-**Box**: A square shape that sits inside of the ruler track.
+**Box**: A square shape that sits inside the ruler track.
 
-**Line**: A vertical line that sits inside of the ruler track.
+**Line**: A vertical line that sits inside the ruler track.
 
 ### Size
 

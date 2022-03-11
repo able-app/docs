@@ -4,12 +4,12 @@ Text areas are taller than text fields and wraps overflow text onto a new line. 
 
 [Styleguide Link](https://zpl.io/25jymwr)
 
-- Parent: Form (Container)
-- Child: [Field](https://github.com/able-app/docs/blob/2956b7cd57098e9f2c27ad3cb3ae8da4842dc0c0/controls/%CE%B5%20elements/field/field.md), [Label](https://github.com/able-app/docs/blob/2956b7cd57098e9f2c27ad3cb3ae8da4842dc0c0/controls/%CE%B5%20elements/label.md), [Button](https://github.com/able-app/docs/blob/2956b7cd57098e9f2c27ad3cb3ae8da4842dc0c0/controls/%CE%B5%20elements/button.md)
+* Parent: Form (Container)
+* Child: [Field](../../overview/field/), [Label](../../overview/label.md), [Button](../../overview/button/)
 
 ## Properties
 
-**Label** - The component can be presented with a label to give context to the form control.  This label can be positioned top (above the field), left, or not at all (none).
+**Label** - The component can be presented with a label to give context to the form control. This label can be positioned top (above the field), left, or not at all (none).
 
 **Helper** - Does the component have helper text (On/Off). This is used to provide additional context for the component for examples, how the input will be used, or as further clarification to the label.
 

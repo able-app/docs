@@ -1,11 +1,11 @@
-# Slider - Knob
+# Ω Slider - Knob
 
 Base: The base shape given to the grab knob of the slider. Here we define the different look and size of the knob.
 
 [Styleguide Link](https://zpl.io/2GjEvWd)
 
-- Parent: [Slider Bar](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/%CE%B5%20elements/slider/sliderbar.md)
-- Sisters: [Slider Indicator](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/%CE%B5%20elements/slider/sliderindicator.md), [Slider Track](https://github.com/able-app/docs/blob/8cd03de6556a6ec1dcd98dc8c2230863c5dba43c/controls/%CE%B5%20elements/slider/slidertrack.md), [Ruler Tick](https://github.com/able-app/docs/blob/7e988f3a61132db2fd36d56763df3852f06ab3f5/controls/%CE%B5%20elements/slider/rulertics.md)
+* Parent: [Slider Bar](./)
+* Sisters: [Knob](sliderknob.md), [Track](slidertrack.md), [Indicator](sliderindicator.md), [Ruler Track](rulertrack/)
 
 ## Properties
 
@@ -17,7 +17,7 @@ Base: The base shape given to the grab knob of the slider. Here we define the di
 
 **Triangle**: A pointing triangle that could be used along with the tics (outside of the track).
 
-**Rectangle, Pill, Pentagon**: Taller knobs to make the sliders grab area stand out a little more. 
+**Rectangle, Pill, Pentagon**: Taller knobs to make the sliders grab area stand out a little more.
 
 ### Size
 
