@@ -142,5 +142,6 @@
     * [Stepper Panel](core/components/stepper-panel.md)
     * [Tab Bar](core/components/tab-bar.md)
     * [GridView](core/components/grid-view.md)
-* [Contributing](CONTRIBUTING.md)
-* [Code of Conduct](CODE\_OF\_CONDUCT.md)
+* [Actions](actions.md)
+* [Contributing](contributing/README.md)
+  * [Code of Conduct](contributing/code\_of\_conduct.md)
