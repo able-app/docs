@@ -16,3 +16,5 @@ To account for multiple usecases the design system has established a set sizing 
 ### Status
 
 Most of the time an adaptIcon is simply shown as a metaphor for something, but it does have the ability to carry a badge as well. There may be situations where a service like email or alerts would be represented on the screen as an AdaptIcon so it will need the capability of sharing additional information in the form of a badge in those situations.
+
+{% embed url="https://zpl.io/2vDl5Wr" %}

@@ -20,3 +20,5 @@ How the control is labeled (leading and trailing labels) within the control.
 ### Size
 
 The relative size of the slider control in respect to other slider controls.
+
+{% embed url="https://zpl.io/VDm40OJ" %}

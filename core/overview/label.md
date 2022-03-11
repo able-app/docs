@@ -25,3 +25,5 @@ Element: Words and iconography used widely across the design system to provide c
 ### Why
 
 We use Labels to maintain consistency within the design system for Type and Icon sizes and the spacing between those objects. A change made to the spacing at this level can dramatically change the look of the entire app.
+
+{% embed url="https://zpl.io/Vx9kDlg" %}

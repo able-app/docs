@@ -28,3 +28,5 @@ Component: Used at the top of list, card, grid, masonry sections to separate gro
 ## Interaction
 
 The Labels to the Left and Right of the Title for the Section are meant to serve as tappable/clickable Actions. These could expand/collapse a section, order a list, open a menu... many types of Action. Note, at the smaller sizes the hit area for these Labels (text and/or icons) is below the recommended hit area sizes, so these will primarily exist as visual ID's for content columns that may form in the list.
+
+{% embed url="https://zpl.io/blemyZk" %}

@@ -48,3 +48,5 @@ This is here primarily as a design convenience. All states for a toggle are set 
 **Horizontal:** By default, toggle buttons display horizontally across the screen and adjust their widths to the size of its parent container.
 
 **Vertical:** In the vertical orientation text and icons continue to display upright, and the toggle buttons are just stacked vertically one on top of the next.
+
+{% embed url="https://zpl.io/V4GJ6v0" %}

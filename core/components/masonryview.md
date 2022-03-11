@@ -40,3 +40,9 @@ The Graphics (Images) within the masonry grid have a variety of different "set s
 ### Surface
 
 The background of the view can be light or dark depending on the use case. Most often when browsing photos on your device you're displaying these in the dark style, but if you're looking at say, Instagram photos in a collection, those would be displayed in a light style.
+
+
+
+{% embed url="https://zpl.io/VQy8nkP" %}
+
+{% embed url="https://zpl.io/2GqvwLj" %}

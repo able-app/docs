@@ -18,3 +18,5 @@ The component can be presented with a label to give context to the radio button 
 The styling of the radio button can be altered to present a different appearance. For example, a Service Plan where the user can choose the level they want and we'd want to present an appearance to the control that's a bit more fancy than a simple radio button, with the same underlying functionality of a mutually exclusive choice from a set of options.
 
 **Note:** Each of the nested elements and primitives of this form component have properties that can be adjusted to customize the component.
+
+{% embed url="https://zpl.io/aXyzEkX" %}

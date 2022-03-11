@@ -24,3 +24,5 @@ Component: A panel with spacing and alignment of the Stepper with its collection
 ### Interaction
 
 There is no direct interaction with Stepper Panel at this point. In the future with larger Step Points we may opt for a navigation to that point on press.
+
+{% embed url="https://zpl.io/VDm40Oq" %}

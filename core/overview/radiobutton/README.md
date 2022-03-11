@@ -18,3 +18,5 @@ Primitive: A singular radio button control with its possible styling, status (on
 ### Interaction
 
 **Hitarea** - It's important to understand that the tappable/clickable area of the screen object being displayed may be small in appearance than the actual area you can interact with. This hitarea will normally be based off of the parents container for this primitive.
+
+{% embed url="https://zpl.io/a7py6JE" %}

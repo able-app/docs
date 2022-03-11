@@ -58,3 +58,5 @@ We use the metaphors (aka Icon Library) to standardize on the meaning of icons u
 **Clear**: Icon-Library > Base > Act - Clear
 
 **Choice**: Icon-Library > Base > Act - Choice Lite
+
+{% embed url="https://zpl.io/aNYpG9Z" %}

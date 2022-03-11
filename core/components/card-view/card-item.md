@@ -30,3 +30,7 @@ CardItems can have multiple touch points the user can interact with.
 3. **Long Press:** Another option with CardItem interaction is the long press, which takes up the entire surface. A long press is considered anything over 1000ms on touch events and is equal to a right click in a web or desktop interface. Often a long press will result in the reveal of a menu/sheet/modal that displays a list of options for that CardItem. Note, this is a Global Action.
 4. **Swipe Right-to-Left:** Gestures are also a way of interacting with a CardItem. This action reveals hidden options that appear from behind the CardItem. These actionable options are those activities that are most often used with the CardItem. For example, in any collection of similar objects (ListItem, CardItem, Graphics), an often used action may be to delete an item in the list, or archive it. For a desktop or web interface a click and drag could be used to accomplish the same functionality.
 5. **Swipe Left-to-Right:** In the same way that a right-to-left gesture reveals additional actions, the left-to-right also does this same reveal of hidden options on the left side of the CardItem. An example of a good action here would be with a checklist where we want to quickly mark something as complete, a full swipe left-to-right would accomplish that activity.
+
+
+
+{% embed url="https://zpl.io/2pgej9J" %}

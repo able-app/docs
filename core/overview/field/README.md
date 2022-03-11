@@ -26,3 +26,5 @@ Of course, there are some situations where inline validation won’t be possible
 Note: Do not validate the field until it is completed. We can give a positive feedback of real-time validation of say an email address once we detect the dot extension but don't give negative feedback along the way as they are typing in the value.
 
 A good source of proper field/error handling is the NN/g, [here's a good starting point](https://www.nngroup.com/articles/errors-forms-design-guidelines/).
+
+{% embed url="https://zpl.io/amR6Yy6" %}

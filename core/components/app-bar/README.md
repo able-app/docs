@@ -72,3 +72,5 @@ When the keyboard is engaged we still have the need for a primary navigation and
 * **NavSearch** - Used when in a listing of objects and one of the primary actionable events is to search for something. Note, the search ability could also be a little more hidden under an icon (like in the base NavAct) and revealed to display the search input.
 * **NavTab** - Similar to NavAct but in place of the action icons we have tabs that can exist in an infinite side scroll. The tabs are normally used as the primary sections of the application and the navigation is there to navigate the user through the history stack, much like a desktop browser does with tabs.
 * **Mini** - When scrolling through content and in cases where we want to provide a little bit of information but don't wish to take up a lot of screen real estate. This is quite common with webview content.
+
+{% embed url="https://zpl.io/bPBo3gp" %}

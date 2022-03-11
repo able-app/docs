@@ -29,3 +29,5 @@ Each of the types is further broken down into their like collections at the Prim
 * **AdaptIcon:** Used to give context to a Graphic, possibly attributing it to a location represented by the AdaptIcon.
 * **Avatar:** Used to attribute a Graphic to a person, pictured in the Avatar with an optional name beside it.
 * **Stepper:** When multiple graphics/illustrations are represented in a single Graphic instance we show the content stepper indicator.
+
+{% embed url="https://zpl.io/bzxLQxE" %}

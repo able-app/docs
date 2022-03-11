@@ -16,3 +16,7 @@ Base: A collection of visual indicators for an active tab.
 * **Box:** A border line that runs around the entire active tab.
 * **Glow** (Top): The slight appearance of a glowing light from the top of the active tab.
 * **Glow** (Bottom): The appearance of a glowing light from the bottom of the active tab.
+
+
+
+{% embed url="https://zpl.io/VkyW4yv" %}

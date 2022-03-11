@@ -47,3 +47,7 @@ Element: A click/tap-able screen element used to build other elements and compon
 ## Usage
 
 **Loading** - The ability to display a spinner on a button to represent action being taken to search or get information.
+
+
+
+{% embed url="https://zpl.io/VDmO6nv" %}

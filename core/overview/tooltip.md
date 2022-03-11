@@ -26,3 +26,5 @@ A tooltip displays on tapping and holding a screen object (on mobile) or hoverin
 Upon a tap and release the tooltips displays for 1500ms, unless another action is taken by the user prior to end of that time period, in which it would disappear immediately on that new action. On open and close of the tooltip a 250ms grow/shrink fade transiton is used.
 
 **Content:** The information within a Tooltip will wrap to the next line upon reaching the tooltips max width.
+
+{% embed url="https://zpl.io/29dP0DW" %}

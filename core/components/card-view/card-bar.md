@@ -26,3 +26,7 @@ Collection: A convenience wrapper around CardItems for display in the bar compon
 **On** - The wording below the Graphic is present
 
 **Off** - No wording is displayed below the Graphic
+
+
+
+{% embed url="https://zpl.io/25jv9W8" %}

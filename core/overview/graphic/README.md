@@ -43,3 +43,7 @@ Note: Each of the placeholder images for these aspect ratios have a different ap
 These overlays can be On/Off independent of one another.
 
 **Treatment** - The ability to add different filters and fades to a graphic to alter the appearance of the underlying graphic. Note, all fades and shading for overlays are contained within the Overlay itself and not at this treatment layer. Think of it as three layers (from bottom to top) Graphic > Treatment > Overlay where each sits on top of the previous.
+
+
+
+{% embed url="https://zpl.io/aRwXnwp" %}

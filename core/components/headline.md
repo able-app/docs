@@ -28,3 +28,7 @@ The relative size of the copy in relation to others within the collection.
 ### Alignment
 
 How the copy is aligned within the screen, there are two options Left, and Center.
+
+
+
+{% embed url="https://zpl.io/boAPmJE" %}

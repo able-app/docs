@@ -39,3 +39,5 @@ The visual appearance of the Input Stepper. Note, this changes both the backgrou
 * Hover
 * Pressed
 * Focus
+
+{% embed url="https://zpl.io/a8DZ6PK" %}

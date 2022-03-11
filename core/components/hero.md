@@ -15,3 +15,5 @@ The visual styling of the hero in addition to the headline.
 * Icon
 * Illustration
 * Image
+
+{% embed url="https://zpl.io/Vx9rApW" %}

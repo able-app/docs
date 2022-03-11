@@ -18,3 +18,5 @@ The component can be presented with a label to give context to the checkbox cont
 The styling of the checkbox can be altered to present a different appearance to the checkbox. For example, a To-Do list being presented with a fancier check than the typical checkbox, but having the same underlying functionality.
 
 **Note:** Each of the nested elements and primitives of this form component have properties that can be adjusted to customize the component.
+
+{% embed url="https://zpl.io/aBPE6qK" %}

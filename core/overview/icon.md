@@ -27,3 +27,5 @@ Primitive: Used in building element and components. An icon is used as a metapho
 ### Why
 
 By constraining the icon sizes here we maintain a consistency throughout the application. Additional sizes could be added at this level to increase the options available at parent levels. Only the sizes listed here should be used in the application.
+
+{% embed url="https://zpl.io/VKB0AoE" %}

@@ -18,3 +18,5 @@ Element: A collection of rate points (primitive) to form a scaled rating value f
 ### Interaction
 
 **Hitarea** - It's important to understand that the tappable/clickable area of the screen object being displayed may be small in appearance than the actual area you can interact with. This hitarea will normally be based off the parents container for this element. [Here's an example](https://codepen.io/ashdurham/pen/HBxLK) of what we're looking for.
+
+{% embed url="https://zpl.io/aMXmQ9K" %}

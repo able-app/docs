@@ -27,3 +27,7 @@ Collection: A convenience wrapper around Graphics for display in the bar compone
 **On** - The wording below the graphic is present
 
 **Off** - No wording is displayed below the graphic
+
+
+
+{% embed url="https://zpl.io/aMX0nem" %}
