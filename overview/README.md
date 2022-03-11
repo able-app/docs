@@ -11,12 +11,12 @@ Fundamentally, theming is used to modify "skin" existing elements and components
 * [Color Styles](styles/color.md)
 * [Text Styles](styles/typography.md)
 * [Effect Styles](styles/effect.md) (Shadows & Treatments)
-* [Icon Library](styles/iconography.md)
-* [Illustration Library](styles/illustration.md)
-* Brand Library
+* [Icon Library](iconography.md)
+* [Illustration Library](illustration.md)
+* [Brand Library](o-brand-library.md)
 * [Spacing Dictionary](styles/spacing.md)
 * [Size Dictionary](styles/size.md)
-* Time, Interaction, [Motion](styles/motion.md), [Audio](styles/audio.md), [Haptic Dictionaries](styles/haptic.md)
+* [Time](styles/o-time-dictionary.md), [Interaction](styles/o-interaction-dictionary.md), [Motion](styles/motion.md), [Audio](styles/audio.md), [Haptic Dictionaries](styles/haptic.md)
 
 Each of these files is referenced in the Theme file and can be swapped out for other like-kinds to get a different experience. The easiest example of this is with Color Styles, where the visual colors of the app can be swapped out for a different look. Using this structure eliminates the need to modify each individual element and component to achieve the desired style. Themes control the design across all delivery platforms from a central set of theme files.
 
