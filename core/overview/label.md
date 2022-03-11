@@ -4,6 +4,8 @@ Element: Words and iconography used widely across the design system to provide c
 
 [Styleguide Link](https://zpl.io/aRRypYz)
 
+[Kitchen Sink - Prototype](https://www.figma.com/proto/tl9bzV6Fos0qgkJELXcAuk/Kitchen-Sink?page-id=1147%3A103\&node-id=2265%3A214624\&viewport=317%2C48%2C0.77\&scaling=min-zoom\&starting-point-node-id=2262%3A202675\&show-proto-sidebar=1)
+
 * Parent: Multiple
 * Child: [Icon](icon.md), [Text Style](../../overview/styles/typography.md)
 
