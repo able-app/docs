@@ -73,4 +73,5 @@ When the keyboard is engaged we still have the need for a primary navigation and
 * **NavTab** - Similar to NavAct but in place of the action icons we have tabs that can exist in an infinite side scroll. The tabs are normally used as the primary sections of the application and the navigation is there to navigate the user through the history stack, much like a desktop browser does with tabs.
 * **Mini** - When scrolling through content and in cases where we want to provide a little bit of information but don't wish to take up a lot of screen real estate. This is quite common with webview content.
 
-{% embed url="https://zpl.io/bPBo3gp" %}
+{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A23454&page-id=0%3A1&scaling=min-zoom&show-proto-sidebar=1&starting-point-node-id=2%3A24853&viewport=377%2C48%2C0.14" %}
+

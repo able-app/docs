@@ -16,4 +16,4 @@ The visual styling of the hero in addition to the headline.
 * Illustration
 * Image
 
-{% embed url="https://zpl.io/Vx9rApW" %}
+{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A23979&page-id=0%3A1&scaling=min-zoom&starting-point-node-id=2%3A24884&viewport=377%2C48%2C0.14" %}

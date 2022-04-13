@@ -48,6 +48,4 @@ Element: A click/tap-able screen element used to build other elements and compon
 
 **Loading** - The ability to display a spinner on a button to represent action being taken to search or get information.
 
-
-
-{% embed url="https://zpl.io/VDmO6nv" %}
+{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A23520&page-id=0%3A1&scaling=min-zoom&show-proto-sidebar=1&starting-point-node-id=2%3A24853&viewport=377%2C48%2C0.14" %}

@@ -18,4 +18,4 @@ Component: A collection of buttons vertically or horizontally displayed with pad
 
 **State** - The possible visual appearances, which are also tied to functionality of the given object. ie Disabled and the object can not be interacted with and visually shows that. States are handled within each of the individual buttons contained within the panel, but we will want a parent child relationship at the panel level to inform the child buttons on a state change.
 
-{% embed url="https://zpl.io/bWyRvkn" %}
+{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A23554&page-id=0%3A1&scaling=min-zoom&show-proto-sidebar=1&starting-point-node-id=2%3A24853&viewport=377%2C48%2C0.14" %}

@@ -30,4 +30,4 @@ Each of the types is further broken down into their like collections at the Prim
 * **Avatar:** Used to attribute a Graphic to a person, pictured in the Avatar with an optional name beside it.
 * **Stepper:** When multiple graphics/illustrations are represented in a single Graphic instance we show the content stepper indicator.
 
-{% embed url="https://zpl.io/bzxLQxE" %}
+{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A23880&page-id=0%3A1&scaling=min-zoom&show-proto-sidebar=1&starting-point-node-id=2%3A24853&viewport=377%2C48%2C0.14" %}

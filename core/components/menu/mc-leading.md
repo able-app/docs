@@ -6,7 +6,7 @@ Collection: A convenience container for the content that is possible on the left
 
 * Parent: [Menu](./)
 * Sisters: [Menu - Primary](mc-primary.md), [Menu - Trailing](mc-trailing.md)
-* Child: [Label](../label.md), [Icon](../icon.md), [AdaptIcon](../adapticon/), [Avatar](../avatar/), [Graphic](../graphic/)
+* Child: [Label](../../overview/label.md), [Icon](../../overview/icon.md), [AdaptIcon](../../overview/adapticon/), [Avatar](../../overview/avatar/), [Graphic](../../overview/graphic/)
 
 ## Properties
 

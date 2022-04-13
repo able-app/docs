@@ -4,7 +4,7 @@ Element: Overlays, corner radius and any overlays or effects to the image happen
 
 [Styleguide Link](https://zpl.io/VxA44QE)
 
-* Parent: [ListItem](../../components/list-view/list-item.md), [CardItem](../../components/card-view/card-item.md), GridItem, Multiple
+* Parent: [ListItem](../../components/list-view/list-item/), [CardItem](../../components/card-view/card-item.md), GridItem, Multiple
 * Sister: [Illustration](illustration.md)
 * Child: [Overlay - Top, Center, Bottom](overlay/)
 
@@ -46,4 +46,4 @@ These overlays can be On/Off independent of one another.
 
 
 
-{% embed url="https://zpl.io/aRwXnwp" %}
+{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A24443&page-id=0%3A1&scaling=min-zoom&show-proto-sidebar=1&starting-point-node-id=2%3A24853&viewport=377%2C48%2C0.14" %}

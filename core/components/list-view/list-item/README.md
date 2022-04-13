@@ -4,8 +4,8 @@ A single row (item) of a vertical index (list).
 
 [Styleguide Link](https://app.zeplin.io/styleguide/6041aec8159a9b10c34d0182/components?cseid=608b00c8788d2a052f91e09b)
 
-* Parent: [ListView](./)
-* Children: [Icon](../../overview/icon.md), [Label](../../overview/label.md), [Avatar,](../../overview/avatar/) [Graphic](../../overview/graphic/), [AdaptIcon](../../overview/adapticon/)
+* Parent: [ListView](../)
+* Children: [Icon](../../../overview/icon.md), [Label](../../../overview/label.md), [Avatar,](../../../overview/avatar/) [Graphic](../../../overview/graphic/), [AdaptIcon](../../../overview/adapticon/)
 
 ## Properties
 
@@ -54,4 +54,4 @@ ListItems can have multiple touch points the user can interact with.
 4. **Swipe Right-to-Left:** Gestures are also a way of interacting with a ListItem. This action reveals hidden options that appear from behind the ListItem. These actionable options are those activities that are most often used with the ListItem. For example, in a mail application an often used action may be to delete the message, or archive it. For a desktop or web interface a click and drag could be used to accomplish the same functionality.
 5. **Swipe Left-to-Right:** In the same way that a right-to-left gesture reveals additional actions, the left-to-right also does this same reveal of hidden options on the left side of the ListItem. An example of a good action here would be with a checklist where we want to quickly mark something as complete, a full swipe left-to-right would accomplish that activity.
 
-{% embed url="https://zpl.io/ady5wgn" %}
+{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A24327&page-id=0%3A1&scaling=min-zoom&starting-point-node-id=2%3A24884&viewport=377%2C48%2C0.14" %}

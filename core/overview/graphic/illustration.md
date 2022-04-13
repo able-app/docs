@@ -4,7 +4,7 @@ Element: The shape and size of the Illustration canvas. The canvas has the same 
 
 [Styleguide Link](https://zpl.io/brGvn4X)
 
-* Parent: [ListItem](../../components/list-view/list-item.md), [CardItem](../../components/card-view/card-item.md), GridItem, Multiple
+* Parent: [ListItem](../../components/list-view/list-item/), [CardItem](../../components/card-view/card-item.md), GridItem, Multiple
 * Sister: [Graphic](./)
 * Child: [Overlay - Top, Center, Bottom](overlay/)
 
@@ -33,3 +33,5 @@ Note: Each of the placeholder images for these aspect ratios have a different ap
 These overlays can be On/Off independent of one another.
 
 **NOTE:** This is the same functionality found in the [Graphic](./) element.
+
+{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A24485&page-id=0%3A1&scaling=min-zoom&show-proto-sidebar=1&starting-point-node-id=2%3A24853&viewport=377%2C48%2C0.14" %}

@@ -1,10 +1,10 @@
-# ε Menu
+# Menu
 
-Element: The display of a list of choices on a temporary surface (modal). The contents of this element are supplied it's layout options from the Menu Control's primitives that separates the menu into three sections (left, center, right).
+Component: The display of a list of choices on a temporary surface (modal). The contents of this object are supplied from the Menu Control's primitives that separates the menu into three sections (left, center, right).
 
 [Styleguide Link](https://zpl.io/VkymMBg)
 
-* Parent: [SelectList](../../components/form/selectlist.md), [App Bar](../../components/app-bar/), More Icons
+* Parent: [SelectList](../form/selectlist.md), [App Bar](../app-bar/), More Icons
 * Child: [Menu - Leading](mc-leading.md), [Menu - Primary](mc-primary.md), [Menu - Trailing](mc-trailing.md)
 
 ## Properties
@@ -31,4 +31,4 @@ Element: The display of a list of choices on a temporary surface (modal). The co
 
 Note: Take notice of the minor rounding of the corners on menus with elevation.
 
-{% embed url="https://zpl.io/VqQxAll" %}
+{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A23850&page-id=0%3A1&scaling=min-zoom&starting-point-node-id=2%3A24884&viewport=377%2C48%2C0.14" %}

@@ -59,4 +59,4 @@ We use the metaphors (aka Icon Library) to standardize on the meaning of icons u
 
 **Choice**: Icon-Library > Base > Act - Choice Lite
 
-{% embed url="https://zpl.io/aNYpG9Z" %}
+{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A24825&page-id=0%3A1&scaling=min-zoom&show-proto-sidebar=1&starting-point-node-id=2%3A24853&viewport=377%2C48%2C0.14" %}

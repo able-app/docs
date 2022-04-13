@@ -4,9 +4,9 @@ Collection: A convenience container for the content that is possible on the righ
 
 [Styleguide Link](https://zpl.io/brGrGmO)
 
-* Parent: [SelectList](../../components/form/selectlist.md), [App Bar](../../components/app-bar/), More Icons
+* Parent: [SelectList](../form/selectlist.md), [App Bar](../app-bar/), More Icons
 * Sisters: [Menu - Leading](mc-leading.md), [Menu - Primary](mc-primary.md)
-* Child: [Label](../label.md), [Icon](../icon.md), [AdaptIcon](../adapticon/), [Avatar](../avatar/), [Graphic](../graphic/)
+* Child: [Label](../../overview/label.md), [Icon](../../overview/icon.md), [AdaptIcon](../../overview/adapticon/), [Avatar](../../overview/avatar/), [Graphic](../../overview/graphic/)
 
 ## Properties
 

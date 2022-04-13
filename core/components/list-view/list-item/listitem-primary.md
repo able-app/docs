@@ -4,8 +4,8 @@ Collection: A convenience container for the primary content for the listitem.
 
 [Styleguide Link](https://app.zeplin.io/styleguide/6041aec8159a9b10c34d0182/components?cseid=608afb6cf38c6c01c9ff2945)
 
-* Parent: [ListItem](list-item.md)
-* Children: [Label](../../overview/label.md), [Rating - Ctrl](../../overview/rating/)
+* Parent: [ListItem](./)
+* Children: [Label](../../../overview/label.md), [Rating - Ctrl](../../../overview/rating/)
 
 ## Properties
 

@@ -7,7 +7,7 @@ Inner element spacing is used for dynamic resizing along with a background surfa
 [Styleguide Link](https://zpl.io/b6nGoKW)
 
 * Parent: Form (Container)
-* Child: [Field](../../overview/field/), [Label](../../overview/label.md), [Menu](../../overview/menu/)
+* Child: [Field](../../overview/field/), [Label](../../overview/label.md), [Menu](../menu/)
 
 ## Properties
 
@@ -26,4 +26,4 @@ Inner element spacing is used for dynamic resizing along with a background surfa
 
 **Note:** Each of the nested elements and primitives of this form component have properties that can be adjusted to customize the component.
 
-{% embed url="https://zpl.io/brGrglX" %}
+{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A24714&page-id=0%3A1&scaling=min-zoom&starting-point-node-id=2%3A24884&viewport=377%2C48%2C0.14" %}

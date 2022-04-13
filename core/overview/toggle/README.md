@@ -49,4 +49,4 @@ This is here primarily as a design convenience. All states for a toggle are set 
 
 **Vertical:** In the vertical orientation text and icons continue to display upright, and the toggle buttons are just stacked vertically one on top of the next.
 
-{% embed url="https://zpl.io/V4GJ6v0" %}
+{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A23803&page-id=0%3A1&scaling=min-zoom&show-proto-sidebar=1&starting-point-node-id=2%3A24853&viewport=377%2C48%2C0.14" %}

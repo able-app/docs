@@ -4,7 +4,7 @@ Primitive: The visual breaks used between objects to better define their border 
 
 [Styleguide Link](https://zpl.io/V4Gey04)
 
-* Parent: [ListItem](../components/list-view/list-item.md), [App Bar](../components/app-bar/), Multiple others
+* Parent: [ListItem](../components/list-view/list-item/), [App Bar](../components/app-bar/), Multiple others
 
 ## Properties
 

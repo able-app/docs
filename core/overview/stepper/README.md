@@ -21,4 +21,4 @@ Element: A collection of step points (primitive) to represent a series of steps 
 
 There is no direct interaction with Step Points or the Stepper Element, it acts as a visual indicator of where you are in a process (what Step of the process). This primitive is told by its parent the status of each of the step points in a series of steps (Stepper), turning on and off the status of those steps. Possible parents to this element are a Screen (when a process involves multiple screens), an Image Carousel (Ex. Multiple photos of a product), Hero Carousel (Ex. Top CTA's for a section of the app).
 
-{% embed url="https://zpl.io/adyMLkL" %}
+{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A23657&page-id=0%3A1&scaling=min-zoom&show-proto-sidebar=1&starting-point-node-id=2%3A24853&viewport=377%2C48%2C0.14" %}

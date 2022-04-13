@@ -6,7 +6,7 @@ Collection: A container for the primary (center) content of a menu. This allows 
 
 * Parent: [SelectList](https://github.com/able-app/docs/blob/bb79ff6c26dc282e881328464ade1774d34f24e3/controls/components/form/selectlist.md), [App Bar](https://github.com/able-app/docs/blob/bb79ff6c26dc282e881328464ade1774d34f24e3/controls/components/appbar/app-bar.md), More Icons
 * Sisters: [Menu - Leading](mc-leading.md), [Menu - Trailing](mc-trailing.md)
-* Child: [Label](../label.md), [Rating](../rating/)
+* Child: [Label](../../overview/label.md), [Rating](../../overview/rating/)
 
 ## Properties
 
