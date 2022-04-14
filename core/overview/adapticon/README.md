@@ -21,5 +21,5 @@ Most of the time an adaptIcon is simply shown as a metaphor for something, but i
 
 ### Blockers
 
-* [ ] Test Blocker
+* [ ] Test
 * [ ] First blocker
