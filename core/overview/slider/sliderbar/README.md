@@ -4,7 +4,7 @@ Primitive: A visual bar that allows users to make selection(s) from a range of v
 
 [Styleguide Link](https://zpl.io/a7p4GWp)
 
-* Parent: [Slider](../) (Control)
+* Parent: [SliderCtrl](../)
 * Child: [Slider Knob](sliderknob.md), [Slider Indicator](sliderindicator.md), [Slider Track](slidertrack.md), [Ruler Track](rulertrack/), [ToolTip](../../tooltip.md)
 
 ## Properties

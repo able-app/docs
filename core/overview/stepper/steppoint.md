@@ -1,11 +1,11 @@
-# Φ Step Point
+# Φ StepPoint
 
 Primitive: A single point of a Stepper (element) with its possible status.
 
 [Styleguide Link](https://zpl.io/V13oQdX)
 
 * Parent: [Stepper](./)
-* Child: [Step Point - Shape](steppoint-shape.md)
+* Child: [StepPointShape](steppoint-shape.md)
 
 ### Properties
 

@@ -1,11 +1,11 @@
-# Φ Radio Button - Ctrl
+# Φ RadioBtnCtrl
 
 Primitive: A singular radio button control with its possible styling, status (on/off) and states.
 
 [Styleguide Link](https://zpl.io/aw5761J)
 
 * Parent: [Radio Button](../../components/form/radiobutton.md) (Form Component), Multiple others
-* Child: [Radio Button - Shape](radiobutton-shape.md)
+* Child: [RadioBtnShape](radiobutton-shape.md)
 
 ### Properties
 

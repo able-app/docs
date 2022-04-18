@@ -1,11 +1,11 @@
-# Φ Checkbox - Ctrl
+# Φ CheckboxCtrl
 
 Primitive: A singular checkbox control with its possible styling, status (on/off) and states.
 
 [Styleguide Link](https://zpl.io/aRnzW0p)
 
 * Parent: [Checkbox](../../components/form/checkbox.md) (Form Component), Multiple others
-* Child: [Checkbox - Shape](checkbox-shape.md)
+* Child: [CheckboxShape](checkbox-shape.md)
 
 ### Properties
 

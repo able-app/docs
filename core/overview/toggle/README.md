@@ -1,11 +1,11 @@
-# ε Toggle - Ctrl
+# ε ToggleCtrl
 
 Element: The grouping of toggle button pieces that act together as a unit. This group is then treated as a single unit for dynamic resizing capabilities. Note, a single toggle control can exist on its own in a group. A toggle is also known as a Button Group in some frameworks.
 
 [Styleguide Link](https://zpl.io/ag19AW0)
 
 * Parent: [Toggle - Bar](toggle-bar.md), [App Bar Control - Pieces](../../components/app-bar/abc-pieces.md), [Toggle Button](../../components/form/togglebutton.md) (Form Component)
-* Child: [Toggle - Pieces](toggle-pieces.md)
+* Child: [TogglePieces](toggle-pieces.md)
 
 ## Properties
 

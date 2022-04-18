@@ -1,10 +1,10 @@
-# Φ Input Stepper - Pieces
+# Φ InputStepperPieces
 
 Primative: The pieces that go into the input stepper to step a numeric value up or down by a set amount.
 
 [Styleguide Link](https://zpl.io/a7pK0qj)
 
-* Parent: [Input Stepper](./) (Control)
+* Parent: [InputStepperCtrl](./)
 * Child: [Label](../label.md)
 
 ## Properties

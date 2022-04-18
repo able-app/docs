@@ -1,10 +1,10 @@
-# Φ Toggle - Pieces
+# Φ TogglePieces
 
 Primitive: A single on/off toggle button with the appearance of the button. Toggles can be set to act the same as a radio button (one selection at a time), or checkboxes (multiple selections). Most often seen in a group of toggle buttons (Toggle - Ctrl), they can however exist as a single button toggle on/off as well.
 
 [Styleguide Link](https://zpl.io/bJLOyxr)
 
-* Parent: [Toggle - Ctrl](./)
+* Parent: [ToggleCtrl](./)
 * Child: [Label](../label.md)
 
 ## Properties

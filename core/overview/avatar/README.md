@@ -5,7 +5,7 @@ Element: Set sizes for display with or without a status badge. Avatars focus on 
 [Styleguide Link](https://zpl.io/bey1LvW)
 
 * Parent: [Avatar - Bar](avatar-bar.md), ListItem, Multiple others
-* Child: [Badge](../badge/), [Avatar - Shape](avatar-shape.md)
+* Child: [Badge](../badge/), [AvatarShape](avatar-shape.md)
 
 ## Properties
 

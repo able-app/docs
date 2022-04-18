@@ -1,11 +1,11 @@
-# Φ Rate Point
+# Φ RatePoint
 
 Primitive: A single point of a ratings (element) with its possible status.
 
 [Styleguide Link](https://zpl.io/VQJrR84)
 
-* Parent: [Rating](./) (Control)
-* Child: [Rate Point - Shape](ratepoint-shape.md)
+* Parent: [RatingCtrl](./)
+* Child: [RatePointShape](ratepoint-shape.md)
 
 ### Properties
 

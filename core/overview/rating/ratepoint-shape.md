@@ -1,10 +1,10 @@
-# Ω Rate Point - Shape
+# Ω RatePointShape
 
 Base: The shape given to a rate point, used in the element rating.
 
 [Styleguide Link](https://zpl.io/b6A8DDW)
 
-* Parent: [Rate Point](ratepoint.md)
+* Parent: [RatePoint](ratepoint.md)
 
 To start with we will have two shapes available, the default star shape (that you see most of the time) and a customized appearance of Heart. These "Shapes" are set in the child level area of "Base - Shape" for the parent Rate Point Primitive.
 

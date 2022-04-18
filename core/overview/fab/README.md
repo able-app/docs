@@ -5,7 +5,7 @@ Element: The Floating Action Button with set sizes for display with or without a
 [Styleguide Link](https://zpl.io/b65y6Wq)
 
 * Parent: [App Bar - Bottom](../../components/app-bar/)
-* Child: [FAB - Shape](fab-shape.md), [Badge](../badge/)
+* Child: [FABShape](fab-shape.md), [Badge](../badge/)
 
 ## Properties
 

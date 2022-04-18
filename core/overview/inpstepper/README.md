@@ -1,11 +1,11 @@
-# ε Input Stepper - Ctrl
+# ε InputStepperCtrl
 
 Element: A control to allow the adding subtracting of a numeric value as either a floating modal or inline in another element or component (ex. ListItem).
 
 [Styleguide Link](https://zpl.io/a7pK0qj)
 
 * Parent: [Input Stepper](../../components/form/inputstepper.md) (Form Component), Multiple others
-* Child: [Input Stepper - Pieces](inpstepper-pieces.md)
+* Child: [InputStepperPieces](inpstepper-pieces.md)
 
 ## Properties
 

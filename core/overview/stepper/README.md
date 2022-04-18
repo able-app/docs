@@ -5,7 +5,7 @@ Element: A collection of step points (primitive) to represent a series of steps 
 [Styleguide Link](https://zpl.io/aRRyz5E)
 
 * Parent: [Stepper Panel](../../components/stepper-panel.md) (Form Component)
-* Child: [Step Point](steppoint.md)
+* Child: [StepPoint](steppoint.md)
 
 ### Properties
 

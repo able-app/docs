@@ -1,10 +1,10 @@
-# Ω Checkbox - Shape
+# Ω CheckboxShape
 
 Base: The shape given to a checkbox and its status at the Primitive level.
 
 [Styleguide Link](https://zpl.io/brAxME1)
 
-Parent: [Checkbox](./) (Control)
+Parent: [CheckboxCtrl](./)
 
 To start with we will have two shapes available, the default normal [squared off checkbox](https://zpl.io/brAxME1) (that you see most of the time) and a customized appearance of "[Circle Check](https://zpl.io/anBGkKv)". These "Shapes" are set in the child level area of "Base - Shape" for the parent Checkbox Primitive.
 

@@ -1,10 +1,10 @@
-# Ω Radio Button - Shape
+# Ω RadioBtnShape
 
 Base: The shape given to a radio button and its status at the Primitive level.
 
 [Styleguide Link](https://zpl.io/V0rdg0E)
 
-Parent: [Radio Button](./) (Control)
+Parent: [RadioBtnCtrl](./)
 
 To start with we will have two shapes available, the default normal round [radio button](https://zpl.io/V0rdg0E) (that you see most of the time) and a customized appearance of "[Circle Check](https://zpl.io/anBGkKv)". These "Shapes" are set in the child level area of "Base - Shape" for the parent Radio Button Primitive.
 

@@ -1,11 +1,11 @@
-# Φ Switch - Ctrl
+# Φ SwitchCtrl
 
 Primitive: A singular control switch with its possible status (on/off) and states.
 
 [Styleguide Link](https://zpl.io/bLvqy06)
 
 * Parent: [Switch](../../components/form/switch.md) (Form Component), Multiple others
-* Child: [Switch - Shape](switch-shape.md)
+* Child: [SwitchShape](switch-shape.md)
 
 ### Properties
 

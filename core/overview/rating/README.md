@@ -1,11 +1,11 @@
-# ε Rating - Ctrl
+# ε RatingCtrl
 
 Element: A collection of rate points (primitive) to form a scaled rating value for both interactive control and visual representation.
 
 [Styleguide Link](https://zpl.io/29GBKQy)
 
 * Parent: Multiple
-* Child: [Rate Point](ratepoint.md)
+* Child: [RatePoint](ratepoint.md)
 
 ### Properties
 
