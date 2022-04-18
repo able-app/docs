@@ -32,7 +32,9 @@ You'll notice throughout the design system that we've used greek characters at t
 
 **Screen** - Where our Components and Modules come together. (Ex. Sign In)
 
-**Flow** - A series of Screens tied together to fulfill a purpose, a complete Action. (Ex. Sign Up)
+**Flow** - A series of Screens tied together to fulfill a purpose, a complete Action. (Ex. Sign Up)fig
+
+{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=272%3A164381&page-id=0%3A1&scaling=min-zoom&show-proto-sidebar=1&starting-point-node-id=2%3A24853&viewport=377%2C48%2C0.19" %}
 
 ## Level 00 - Design System
 
