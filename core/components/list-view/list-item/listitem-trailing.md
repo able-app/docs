@@ -1,6 +1,6 @@
-# ListItem - Trailing
+# Θ LIC - Trailing
 
-Collection: A convenience container for those objects and controls that are displayed at the end of ListItems. This provides an easy way to maintain and add new objects.
+Collection: A ListItem Container (LIC) is a convenience container for those objects and controls that are displayed at the end of ListItems. This provides an easy way to maintain and add new objects.
 
 [Styleguide Link](https://app.zeplin.io/styleguide/6041aec8159a9b10c34d0182/components?cseid=608afbda862fe7328523ffe4)
 

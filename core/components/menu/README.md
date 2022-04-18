@@ -1,11 +1,11 @@
 # Menu
 
-Component: The display of a list of choices on a temporary surface (modal). The contents of this object are supplied from the Menu Control's primitives that separates the menu into three sections (left, center, right).
+Component: The display of a list of choices on a temporary surface (modal). The contents of this object are supplied from the Menu Container's (MC) primitives that separates the menu into three sections (left, primary, right).
 
 [Styleguide Link](https://zpl.io/VkymMBg)
 
 * Parent: [SelectList](../form/selectlist.md), [App Bar](../app-bar/), More Icons
-* Child: [Menu - Leading](mc-leading.md), [Menu - Primary](mc-primary.md), [Menu - Trailing](mc-trailing.md)
+* Child: [MC - Leading](mc-leading.md), [MC - Primary](mc-primary.md), [MC - Trailing](mc-trailing.md)
 
 ## Properties
 

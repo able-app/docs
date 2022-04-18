@@ -1,11 +1,11 @@
-# Θ Menu Control - Trailing
+# Θ MC - Trailing
 
-Collection: A convenience container for the content that is possible on the right side of a menu. This allows us to keep those options that are possible on the right side of a menu organized with the ability to easily add new options.
+Collection: A Menu Container(MC) is a collection of the content that is possible on the right side of a menu. This allows us to keep those options that are possible on the right side of a menu organized with the ability to easily add new options.
 
 [Styleguide Link](https://zpl.io/brGrGmO)
 
 * Parent: [SelectList](../form/selectlist.md), [App Bar](../app-bar/), More Icons
-* Sisters: [Menu - Leading](mc-leading.md), [Menu - Primary](mc-primary.md)
+* Sisters: [MC - Leading](mc-leading.md), [MC - Primary](mc-primary.md)
 * Child: [Label](../../overview/label.md), [Icon](../../overview/icon.md), [AdaptIcon](../../overview/adapticon/), [Avatar](../../overview/avatar/), [Graphic](../../overview/graphic/)
 
 ## Properties

@@ -5,7 +5,7 @@ Container: A grouping for design convenience for display in a field. This base l
 [Styleguide Link](https://zpl.io/V0zMJMO)
 
 * Parent: [Field](./)
-* Child: [Label](../label.md), [Chip](../chip/)
+* Child: [Label](../label.md), [Chip - Bar](../chip/chip-bar.md)
 
 ## Properties
 

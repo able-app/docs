@@ -10,7 +10,7 @@ The primary control for navigation and actionable activities in the application.
 
 ### Leading Style
 
-Taken from the App Bar Controls, ABC-Leading collection the leading style allows us to change up the appearance of the far left column of content.
+Taken from the App Bar Containers, ABC-Leading collection the leading style allows us to change up the appearance of the far left column of content.
 
 * Icon (default)
 * Text

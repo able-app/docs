@@ -1,6 +1,6 @@
-# ABC - Trailing
+# Θ ABC - Trailing
 
-Collection: A grouping of primarily actionable buttons, icons, and text that are feed from the App Bar Pieces and make up the App Bar.
+Collection: The App Bar Container (ABC) is a grouping of primarily actionable buttons, icons, and text that are feed from the App Bar Pieces and make up the App Bar.
 
 [Styleguide Link](https://zpl.io/2pRr5zN)
 
@@ -15,7 +15,7 @@ The number of objects in this section of the app bar. Those objects are referenc
 
 ### Type
 
-The general theme for the collection of controls, most often this type will be the same as the far right object in the collection. These "Types" are supplied by the abc-pieces collection.
+The general theme for the collection of controls, most often this type will be the same as the far right object in the app bar. These "Types" are supplied by the abc-pieces collection.
 
 * **Icon** (default) - Often referred to as Action Items, these typically are the primary actions that the user would take on the screens contents.
 * **Text** - An alternative to icon use and often used for actions that cancel or clear an activity.

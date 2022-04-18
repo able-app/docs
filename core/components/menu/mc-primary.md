@@ -1,12 +1,12 @@
-# Θ Menu Control - Primary
+# Θ MC - Primary
 
-Collection: A container for the primary (center) content of a menu. This allows us to keep those options that are possible as the primary content organized with the ability to easily add new options.
+Collection: A Menu Container(MC) is a collection of the primary (center) content of a menu. This allows us to keep those options that are possible as the primary content organized with the ability to easily add new options.
 
 [Styleguide Link](https://zpl.io/boABAYM)
 
 * Parent: [SelectList](https://github.com/able-app/docs/blob/bb79ff6c26dc282e881328464ade1774d34f24e3/controls/components/form/selectlist.md), [App Bar](https://github.com/able-app/docs/blob/bb79ff6c26dc282e881328464ade1774d34f24e3/controls/components/appbar/app-bar.md), More Icons
-* Sisters: [Menu - Leading](mc-leading.md), [Menu - Trailing](mc-trailing.md)
-* Child: [Label](../../overview/label.md), [Rating](../../overview/rating/)
+* Sisters: [MC - Leading](mc-leading.md), [MC - Trailing](mc-trailing.md)
+* Child: [Label](../../overview/label.md), [Rating - Ctrl](../../overview/rating/)
 
 ## Properties
 

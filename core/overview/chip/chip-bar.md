@@ -6,7 +6,7 @@ Common chip bar layouts are located here and will be added to over time.
 
 [Styleguide Link](https://zpl.io/a8DyPZQ)
 
-* Parent: [Chiplist ](../../components/form/chiplist.md)(Form Component), Multiple Others
+* Parent: [Chiplist ](../../components/form/chiplist.md)(Form Component), [Field - Content](../field/field-content.md), Multiple Others
 * Child: [Chip](./)
 
 ## Properties

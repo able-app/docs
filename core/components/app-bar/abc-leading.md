@@ -2,9 +2,9 @@
 description: App Bar Control (ABC)
 ---
 
-# ABC - Leading
+# Θ ABC - Leading
 
-Collection: Those navigation and action controls on the left side of the app bar, that typically function as navigational objects in the app.
+Collection: The App Bar Container (ABC) is a collection of those navigation and action controls on the left side of the app bar, that typically function as navigational objects in the app.
 
 [Styleguide Link](https://zpl.io/aw5Qv5D)
 

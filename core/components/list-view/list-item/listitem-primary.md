@@ -1,6 +1,6 @@
-# ListItem - Primary
+# Θ LIC - Primary
 
-Collection: A convenience container for the primary content for the listitem.
+Collection: A ListItem Container (LIC) is a convenience container for the primary content for the listitem.
 
 [Styleguide Link](https://app.zeplin.io/styleguide/6041aec8159a9b10c34d0182/components?cseid=608afb6cf38c6c01c9ff2945)
 

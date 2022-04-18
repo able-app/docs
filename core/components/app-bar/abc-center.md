@@ -2,9 +2,9 @@
 description: App Bar Control (ABC)
 ---
 
-# ABC - Center
+# Θ ABC - Center
 
-Collection: A container for the content that is in the center (horizontally) of the app bar. This content can be informative or actionable depending on the type of app bar.
+Collection: The App Bar Container (ABC) is a collection of the content that is in the center (horizontally) of the app bar. This content can be informative or actionable depending on the type of app bar.
 
 [Styleguide Link](https://zpl.io/2vjgx55)
 
