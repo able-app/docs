@@ -41,7 +41,7 @@
       * [Θ Field - Container](core/overview/field/field-container.md)
       * [Θ Field - Content](core/overview/field/field-content.md)
       * [Θ Field - Helper](core/overview/field/field-helper.md)
-      * [Θ Field - Label](core/overview/field/field-helper-1.md)
+      * [Θ Field - Label](core/overview/field/field-label.md)
       * [Ω FieldShape (Surface)](core/overview/field/field-shape.md)
     * [ε Graphic](core/overview/graphic/README.md)
       * [ε Illustration (Canvas)](core/overview/graphic/illustration.md)
