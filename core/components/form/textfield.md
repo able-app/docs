@@ -15,7 +15,7 @@ A form component that provide the ability to enter and edit text in a defined la
 
 **Button** - In certain situations there may be the need to add a button next to the field (ex. upload of a file). This property turns that button on/off.
 
-**Field: Type** - In some situations, like in a sheets search field, we may want to invert the appearance of the field to make it stand out a little better. This property makes that possible.
+**Field Type** - In some situations, like in a sheets search field, we may want to invert the appearance of the field to make it stand out a little better. This property makes that possible.
 
 ## Functionality
 

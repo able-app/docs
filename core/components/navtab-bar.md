@@ -25,8 +25,8 @@ Child: [Tab](../overview/tab/), [NavToggle](../overview/toggle/navtoggle.md)
 
 ### Surface
 
-* Light
-* Dark
+* Base: This uses the default Mode (Light) for the tab bar. If the devices mode were to be changed in the settings or by the device settings this would also change to reflect that setting.
+* Dark Lock: This locks the background color to a darker tint.  This is useful for areas of the app like the camera where we want to keep the tab bar in a darker mode no matter the settings of the app or device.
 
 
 
