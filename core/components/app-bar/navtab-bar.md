@@ -1,4 +1,8 @@
-# NavTab Bar
+---
+description: CAPABLE USING APP BAR
+---
+
+# NavTab
 
 A combo of a left aligned back navigation (NavToggle) with a Tab - Bar. The navigation on the left side is a toggle button that has a width that hugs its content and the tabs to it's right will disappear behind it when they are side-scrolled.
 
@@ -6,7 +10,7 @@ NOTE: The left side nav could have one or more toggle buttons. In the example it
 
 [Styleguide Link](https://app.zeplin.io/styleguide/6041aec8159a9b10c34d0182/components?cseid=60e5f9a7c9c9c207f78a9879)
 
-Child: [Tab](../overview/tab/), [NavToggle](../overview/toggle/navtoggle.md)
+Child: [Tab](../../overview/tab/), [NavToggle](../../overview/toggle/navtoggle.md)
 
 ## Properties
 

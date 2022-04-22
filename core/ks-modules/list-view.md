@@ -5,7 +5,7 @@ A collection of multiple ListItems in a scrollable vertical index (list).
 [Styleguide Link](https://zpl.io/adKWyRp)
 
 * Parent: Screen
-* Children: [ListItem](list-item/), [Section Header](../sec-head.md)
+* Children: [ListItem](../components/list-item/), [Section Header](../components/sec-head.md)
 
 ## Properties
 

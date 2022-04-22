@@ -1,6 +1,6 @@
 # Card Bar
 
-Collection: A convenience wrapper around CardItems for display in the bar component or as a row of stacked Bars in a CardView. See the [Bar - Structure](../../overview/graphic/bar-structure.md) documentation to learn more about what goes into a Bar.
+Collection: A convenience wrapper around CardItems for display in the bar component or as a row of stacked Bars in a CardView. See the [Bar - Structure](../../components/bar-structure.md) documentation to learn more about what goes into a Bar.
 
 [Styleguide Link](https://zpl.io/2yo0lZy)
 

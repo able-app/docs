@@ -4,8 +4,8 @@ A single row (item) of a vertical index (list).
 
 [Styleguide Link](https://app.zeplin.io/styleguide/6041aec8159a9b10c34d0182/components?cseid=608b00c8788d2a052f91e09b)
 
-* Parent: [ListView](../)
-* Children: [Icon](../../../overview/icon.md), [Label](../../../overview/label.md), [Avatar,](../../../overview/avatar/) [Graphic](../../../overview/graphic/), [AdaptIcon](../../../overview/adapticon/)
+* Parent: [ListView](../../ks-modules/list-view.md)
+* Children: [Icon](../../overview/icon.md), [Label](../../overview/label.md), [Avatar,](../../overview/avatar/) [Graphic](../../overview/graphic/), [AdaptIcon](../../overview/adapticon/)
 
 ## Properties
 

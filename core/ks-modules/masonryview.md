@@ -5,7 +5,7 @@ Component: A collections of Graphics (Images) of varying heights, that are verti
 [Styleguide Link](https://zpl.io/VQJxJGk)
 
 * Parent: Module, Screen
-* Child: [Graphic](../overview/graphic/), [Section Header](sec-head.md)
+* Child: [Graphic](../overview/graphic/), [Section Header](../components/sec-head.md)
 
 ## Properties
 

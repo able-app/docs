@@ -5,7 +5,7 @@ A collection of multiple CardItems in a scrollable vertical index (list).
 [Styleguide Link](https://zpl.io/adKWyRp)
 
 * Parent: Module, Screen
-* Children: [Graphic](../overview/graphic/), [Section Header](sec-head.md)
+* Children: [Graphic](../overview/graphic/), [Section Header](../components/sec-head.md)
 
 ## Properties
 

@@ -4,7 +4,7 @@ Element: The shape and size of the Illustration canvas. The canvas has the same 
 
 [Styleguide Link](https://zpl.io/brGvn4X)
 
-* Parent: [ListItem](../../components/list-view/list-item/), [CardItem](../../components/card-view/card-item.md), GridItem, Multiple
+* Parent: [ListItem](../../components/list-item/), [CardItem](../../ks-modules/card-view/card-item.md), GridItem, Multiple
 * Sister: [Graphic](./)
 * Child: [Overlay - Top, Center, Bottom](overlay/)
 

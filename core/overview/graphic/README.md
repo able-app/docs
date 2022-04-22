@@ -4,7 +4,7 @@ Element: Overlays, corner radius and any overlays or effects to the image happen
 
 [Styleguide Link](https://zpl.io/VxA44QE)
 
-* Parent: [ListItem](../../components/list-view/list-item/), [CardItem](../../components/card-view/card-item.md), GridItem, Multiple
+* Parent: [ListItem](../../components/list-item/), [CardItem](../../ks-modules/card-view/card-item.md), GridItem, Multiple
 * Sister: [Illustration](illustration.md)
 * Child: [Overlay - Top, Center, Bottom](overlay/)
 

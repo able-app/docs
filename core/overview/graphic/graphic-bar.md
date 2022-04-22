@@ -1,6 +1,6 @@
 # Θ Graphic - Bar
 
-Collection: A convenience wrapper around Graphics for display in the bar component. See the [Bar - Structure](bar-structure.md) documentation to learn more about what goes into a Bar.
+Collection: A convenience wrapper around Graphics for display in the bar component. See the [Bar - Structure](../../components/bar-structure.md) documentation to learn more about what goes into a Bar.
 
 [Styleguide Link](https://zpl.io/V4RQ1zy)
 

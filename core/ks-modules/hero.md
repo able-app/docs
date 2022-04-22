@@ -4,7 +4,7 @@ Component: For use as the primary message on the screen. Hero messages attract a
 
 [Styleguide Link](https://zpl.io/adKmZ35)
 
-* Child: [Headline](headline.md), [Icon](../overview/icon.md), [Illustration](../overview/graphic/illustration.md), [Graphic](../overview/graphic/)
+* Child: [Headline](../components/headline.md), [Icon](../overview/icon.md), [Illustration](../overview/graphic/illustration.md), [Graphic](../overview/graphic/)
 
 ## Properties
 

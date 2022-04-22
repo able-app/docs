@@ -5,7 +5,7 @@ Collection: A ListItem Container (LIC) is a convenience container for the primar
 [Styleguide Link](https://app.zeplin.io/styleguide/6041aec8159a9b10c34d0182/components?cseid=608afb6cf38c6c01c9ff2945)
 
 * Parent: [ListItem](./)
-* Children: [Label](../../../overview/label.md), [Rating - Ctrl](../../../overview/rating/)
+* Children: [Label](../../overview/label.md), [Rating - Ctrl](../../overview/rating/)
 
 ## Properties
 

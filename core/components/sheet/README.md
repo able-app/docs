@@ -4,7 +4,7 @@ A sheet is a modal container that slides into view when another action triggers 
 
 [Styleguide Link](https://zpl.io/2jyLrnW)
 
-* Child: [Sheet Drag](sheet-drag.md), [ListView](../list-view/), [Section Header](../sec-head.md), [Textfield](../form/textfield.md), Multiple others
+* Child: [Sheet Drag](sheet-drag.md), [ListView](../../ks-modules/list-view.md), [Section Header](../sec-head.md), [Textfield](../form/textfield.md), Multiple others
 
 ## Properties
 

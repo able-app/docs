@@ -5,7 +5,7 @@ Component: A collections of Bars (rows) of CardItems that are vertically stacked
 [Styleguide Link](https://zpl.io/aBvePwQ)
 
 * Parent: Screen
-* Child: [CardItem](card-item.md), [Section Header](../sec-head.md)
+* Child: [CardItem](card-item.md), [Section Header](../../components/sec-head.md)
 
 ## Properties
 
@@ -17,7 +17,7 @@ Component: A collections of Bars (rows) of CardItems that are vertically stacked
 
 ### Header
 
-A header (aka SecHead) can exist at the top of a ListView and be used to separate list content into different collections under that header. That Section Header has a title and can have additional actionable icons associated with the section to take action on the collection. See [Section Header](../sec-head.md) for the details.
+A header (aka SecHead) can exist at the top of a ListView and be used to separate list content into different collections under that header. That Section Header has a title and can have additional actionable icons associated with the section to take action on the collection. See [Section Header](../../components/sec-head.md) for the details.
 
 ## Functionality
 

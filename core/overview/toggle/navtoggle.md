@@ -4,7 +4,7 @@ Element: A specialized toggle grouping intended for use within the NavTab - Bar 
 
 [Styleguide Link](https://zpl.io/adyAvPn)
 
-* Parent: [NavTab - Bar](../../components/navtab-bar.md)
+* Parent: [NavTab - Bar](../../components/app-bar/navtab-bar.md)
 * Child: [Toggle - Pieces](toggle-pieces.md)
 
 ## Properties
