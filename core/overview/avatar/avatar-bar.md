@@ -1,6 +1,6 @@
 # Θ Avatar - Bar
 
-Collection: A grouping for design convenience for display in the bar component. The bar component can have different background surfaces (colors) so we don't include a surface here. See the [Bar - Structure](../../components/bar-structure.md) documentation to learn more about what goes into a Bar.
+Collection: A grouping for design convenience for display in the bar component. The bar component can have different background surfaces (colors) so we don't include a surface here. See the [Bar - Structure](../../components/content-bar.md) documentation to learn more about what goes into a Bar.
 
 [Styleguide Link](https://zpl.io/aXyGkBK)
 

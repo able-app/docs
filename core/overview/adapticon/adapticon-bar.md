@@ -1,6 +1,6 @@
 # Θ AdaptIcon - Bar
 
-Collection: A convenience wrapper around AdaptIcon cells for display in the bar component. See the [Bar - Structure](../../components/bar-structure.md) documentation to learn more about what goes into a Bar.
+Collection: A convenience wrapper around AdaptIcon cells for display in the bar component. See the [Bar - Structure](../../components/content-bar.md) documentation to learn more about what goes into a Bar.
 
 [Styleguide Link](https://zpl.io/ady9PnE)
 

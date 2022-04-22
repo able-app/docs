@@ -104,7 +104,7 @@
       * [NavTab](core/components/app-bar/navtab-bar.md)
     * [Bullet](core/components/bullet.md)
     * [Button Panel](core/components/button-panel.md)
-    * [Content Bar](core/components/bar-structure.md)
+    * [Content Bar](core/components/content-bar.md)
     * [Form](core/components/form/README.md)
       * [Checkbox](core/components/form/checkbox.md)
       * [ChipList](core/components/form/chiplist.md)
