@@ -1,6 +1,6 @@
-# Φ Chip - Modal
+# Φ ChipModal
 
-Primitive Collection: The modal that opens in front of a chip when it is selected, asking the user to provide additional input or for a decision.
+Primitive Collection: The modal that opens in front of a chip when it is selected to provide additional details about the subject matter.
 
 [Styleguide Link](https://zpl.io/boAY9QZ)
 
@@ -9,13 +9,19 @@ Primitive Collection: The modal that opens in front of a chip when it is selecte
 
 ## Properties
 
+### Subject
+
+* Person
+* Place
+* Thing
+
 ### Type
 
-**Name** - A modal box with an Avatar and the persons name with a right close icon.
+**Name** - A modal box with an Avatar/Graphic and the subject matter name with a right close icon.
 
-**Name & Email** - The persons name with email below
+**Name & Detail** - The subject matter name with additional details below
 
-**Name & Rating** - Th persons name with their rating below
+**Name & Rating** - The subject matter name with a rating below
 
 ### Interaction
 
@@ -23,6 +29,6 @@ You can see the general interaction of how this modal appears, where it appears 
 
 ### Metaphor
 
-We use the metaphors (aka Icon Library) to standardize on the meaning of icons used in the application. In the Chip - Modal we have a metaphors.
+We use the metaphors (aka Icon Library) to standardize on the meaning of icons used in the application. In the ChipModal we have a metaphors.
 
 **Close**: Icon-Library > Base > Act - Clear

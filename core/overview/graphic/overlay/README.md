@@ -11,11 +11,15 @@ Element: Used as a placeholder container on top of a Graphic to give additional 
 
 ### Location
 
-We break the overlay into three distinct areas of the graphic and organize the possibilities within each of those collections.
+We break the overlay into seven distinct areas of the graphic and organize the possibilities within each of those collections.
 
-* **Top:** Docked to the top of the Graphic
-* **Center:** Floating in the vertical center of the Graphic
-* **Bottom:** Docked to the bottom of the Graphic
+* **Top Left:** Docked to the top left corner of the Graphic
+* **Top Center:** Docked to the top left & right corners of the Graphic
+* **Top Right:** Docked to the top right corner of the Graphic
+* **Center-Center:** Floating in the vertical & horizontal center of the Graphic
+* **Bottom Left:** Docked to the bottom left corner of the Graphic
+* **Bottom Center:** Docked to the bottom left & right corners of the Graphic
+* **Bottom Right:** Docked to the bottom right corner of the Graphic
 
 ### Type
 

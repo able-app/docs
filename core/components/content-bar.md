@@ -5,7 +5,7 @@ Container: A horizontally scrollable section of content in many different displa
 [Styleguide Link](https://zpl.io/6NR0wPK)
 
 * Parent: ScrollView
-* Child: [Card - Bar](../ks-modules/card-view/card-bar.md), [Graphic - Bar](../overview/graphic/graphic-bar.md), [Avatar - Bar](../overview/avatar/avatar-bar.md), [AdaptIcon - Bar](../overview/adapticon/adapticon-bar.md), [Chip - Bar](../overview/chip/chip-bar.md), [Tab - Bar](../overview/chip/chip-bar.md), [Toggle - Bar](../overview/toggle/toggle-bar.md), [Button - Bar](../overview/button/button-bar.md)
+* Child: [CardBar](../ks-modules/card-view/card-bar.md), [GraphicBar](../overview/graphic/graphic-bar.md), [AvatarBar](../overview/avatar/avatar-bar.md), [AdaptIconBar](../overview/adapticon/adapticon-bar.md), [ChipBar](../overview/chip/chip-bar.md), [TabBar](tab-bar.md), [ToggleBar](../overview/toggle/toggle-bar.md), [ButtonBar](../overview/button/button-bar.md)
 
 
 

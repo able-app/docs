@@ -1,6 +1,6 @@
-# Θ App Bar - Extension
+# Θ AppBarExt
 
-Container: An area just above/below the app bar bottom/top that serves as a second level for tools, filters, categorization, or selection. This container serves as a collection point for those options available within the Extension.
+Container: An extension just above/below the app bar bottom/top that serves as a second level for tools, filters, categorization, or selection. This container serves as a collection point for those options available within the Extension.
 
 [Styleguide Link](https://zpl.io/VOLqdEL)
 
