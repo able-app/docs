@@ -5,7 +5,7 @@ Component: A list of options in toggle button group and solo format for use in f
 [Styleguide Link](https://zpl.io/29dzJAe)
 
 * Parent: Form (Container)
-* Child: [Label](../../overview/label.md), [Toggle - Ctrl](../../overview/toggle/)
+* Child: [Label](../../overview/label.md), [Toggle - Ctrl](../../overview/toggle/), [FC - Leading](fc-leading.md), [FC - Trailing](fc-trailing.md)
 
 ## Properties
 

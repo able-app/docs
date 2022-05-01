@@ -18,7 +18,7 @@ A single row (item) of a vertical index (list).
 
 ### Leading Style
 
-Taken from the ListItem-Leading convenience container the leading style allows us to change up the appearance of the area before (to the left of) the primary content.
+Taken from the LIC - Leading convenience container the leading style allows us to change up the appearance of the area before (to the left of) the primary content.
 
 * None
 * Icon
@@ -28,7 +28,7 @@ Taken from the ListItem-Leading convenience container the leading style allows u
 
 ### Trailing Style
 
-Supplied by the ListItem-Trailing convenience container this provides us with the ability to alter the styling of the right side of the ListItem. This can be additional informational objects like an icon or text labels or controls like a checkbox, switch, button, input stepper, or a toggle to add input collection capabilities to the ListItem.
+Supplied by the LIC - Trailing convenience container this provides us with the ability to alter the styling of the right side of the ListItem. This can be additional informational objects like an icon or text labels or controls like a checkbox, switch, button, input stepper, or a toggle to add input collection capabilities to the ListItem.
 
 * None
 * Icon

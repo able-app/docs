@@ -5,7 +5,7 @@ Component: For use in forms this is a list of options in chip format with differ
 [Styleguide Link](https://zpl.io/bzxM98l)
 
 * Parent: Form (Container)
-* Child: [Chip - Bar](../../overview/chip/chip-bar.md), [Label](../../overview/label.md)
+* Child: [Chip - Bar](../../overview/chip/chip-bar.md), [Label](../../overview/label.md), [FC - Leading](fc-leading.md), [FC - Trailing](fc-trailing.md)
 
 ## Properties
 

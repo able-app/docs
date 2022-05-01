@@ -5,7 +5,7 @@ Component: A form control for the collection of users (avatars), used when addin
 [Styleguide Link](https://zpl.io/29dz8PY)
 
 * Parent: Form (Container)
-* Child: [Label](../../overview/label.md), [Avatar - Bar](../../overview/avatar/avatar-bar.md)
+* Child: [Label](../../overview/label.md), [Avatar - Bar](../../overview/avatar/avatar-bar.md), [FC - Leading](fc-leading.md), [FC - Trailing](fc-trailing.md)
 
 ## Properties
 

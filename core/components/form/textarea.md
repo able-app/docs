@@ -5,7 +5,7 @@ Text areas are taller than text fields and wraps overflow text onto a new line. 
 [Styleguide Link](https://zpl.io/25jymwr)
 
 * Parent: Form (Container)
-* Child: [Field](../../overview/field/), [Label](../../overview/label.md), [Button](../../overview/button/)
+* Child: [Field](../../overview/field/), [Label](../../overview/label.md), [FC - Leading](fc-leading.md), [FC - Trailing](fc-trailing.md)
 
 ## Properties
 

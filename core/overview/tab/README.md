@@ -18,7 +18,7 @@ Primitive: A single tab used in a group in the tab bar component.
 * **Text Scale:** The same as Text but with the ability of the Tab to scale its width based on the text content. This is used in tabs that horizontally scroll.
 * **Icon Left Scale:** The same as Icon Left but with the ability of the Tab to scale its width based on the text content. This is used in tabs that horizontally scroll.
 
-### Color
+### Style
 
 * Primary
 * Secondary

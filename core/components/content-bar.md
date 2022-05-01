@@ -1,11 +1,11 @@
 # Content Bar
 
-Container: A horizontally scrollable section of content in many different display formats. This is used to build vertically scrollable lists with sections that are made up of these bars.
+Container: A horizontally scrollable section of content used with vertical Scrollviews where we want a section to scroll horizontally.
 
 [Styleguide Link](https://zpl.io/6NR0wPK)
 
 * Parent: ScrollView
-* Child: [CardBar](../ks-modules/card-view/card-bar.md), [GraphicBar](../overview/graphic/graphic-bar.md), [AvatarBar](../overview/avatar/avatar-bar.md), [AdaptIconBar](../overview/adapticon/adapticon-bar.md), [ChipBar](../overview/chip/chip-bar.md), [TabBar](tab-bar.md), [ToggleBar](../overview/toggle/toggle-bar.md), [ButtonBar](../overview/button/button-bar.md)
+* Child: [CardBar](../ks-modules/card-view/card-bar.md), [GraphicBar](../overview/graphic/graphic-bar.md), [AvatarBar](../overview/avatar/avatar-bar.md), [AdaptIconBar](../overview/adapticon/adapticon-bar.md), [ChipBar](../overview/chip/chip-bar.md), [ToggleBar](../overview/toggle/toggle-bar.md), [ButtonBar](../overview/button/button-bar.md)
 
 
 
@@ -32,7 +32,6 @@ Container: A horizontally scrollable section of content in many different displa
 * **Avatar**
 * **AdaptIcon**
 * **Chip**
-* **Tab**
 * **Toggle**
 * **Button**
 

@@ -5,7 +5,7 @@ Component: Sliders allow users to make selections from a range of values as eith
 [Styleguide Link](https://zpl.io/brGNo51)
 
 * Parent: Form (Container)
-* Child: [Slider - Ctrl](../../overview/slider/), [Label](../../overview/label.md)
+* Child: [Slider - Ctrl](../../overview/slider/), [Label](../../overview/label.md), [FC - Leading](fc-leading.md), [FC - Trailing](fc-trailing.md)
 
 ## Properties
 

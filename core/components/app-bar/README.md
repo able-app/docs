@@ -2,9 +2,7 @@
 
 The primary control for navigation and actionable activities in the application.
 
-[TOP - Styleguide Link](https://zpl.io/254ANOr)
-
-[BOTTOM - Styleguide Link](https://zpl.io/an3L6pv)
+[Styleguide Link](https://zpl.io/an3L6pv)
 
 ## Properties
 

@@ -7,7 +7,7 @@ Inner element spacing is used for dynamic resizing along with a background surfa
 [Styleguide Link](https://zpl.io/b6nGoKW)
 
 * Parent: Form (Container)
-* Child: [Field](../../overview/field/), [Label](../../overview/label.md), [Menu](../menu/)
+* Child: [Field](../../overview/field/), [Label](../../overview/label.md), [Menu](../menu/), [FC - Leading](fc-leading.md), [FC - Trailing](fc-trailing.md)
 
 ## Properties
 

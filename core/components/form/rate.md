@@ -5,7 +5,7 @@ Component: For use in forms this is the ability to give a rating (Score) for an 
 [Styleguide Link](https://zpl.io/2jyBKZp)
 
 * Parent: Form (Container)
-* Child: [Rating - Ctrl](../../overview/rating/), [Label](../../overview/label.md)
+* Child: [Rating - Ctrl](../../overview/rating/), [Label](../../overview/label.md), [FC - Leading](fc-leading.md), [FC - Trailing](fc-trailing.md)
 
 ## Properties
 

@@ -5,7 +5,7 @@ A form component that provide the ability to enter and edit text in a defined la
 [Styleguide Link](https://zpl.io/V1EdG6Q)
 
 * Parent: Form (Container)
-* Child: [Field](../../overview/field/), [Label](../../overview/label.md), [Button](../../overview/button/)
+* Child: [Field](../../overview/field/), [Label](../../overview/label.md), [FC - Leading](fc-leading.md), [FC - Trailing](fc-trailing.md)
 
 ## Properties
 
