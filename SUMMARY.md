@@ -84,7 +84,7 @@
       * [Ω TabActive](core/overview/tab/tab-activeindicator.md)
     * [ε ToggleCtrl](core/overview/toggle/README.md)
       * [ε ToggleBar](core/overview/toggle/toggle-bar.md)
-      * [Φ TogglePieces](core/overview/toggle/toggle-pieces.md)
+      * [Φ ToggleBtn](core/overview/toggle/toggle-pieces.md)
       * [ε NavToggle](core/overview/toggle/navtoggle.md)
     * [ε Tooltip](core/overview/tooltip.md)
     * [ε Caption](core/overview/caption/README.md)
