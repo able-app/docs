@@ -39,3 +39,4 @@ Here's where we bring in the columns (leading, primary, trailing containers) in 
 * **Super Action:** More of a primary action and most often used as an Add capability, this icon is slightly larger and carries a larger hit area.
 * **Button:** A prominent primary action used to take an action on the subject matter.
 * **Subtext:** Used for short bits of text in a right aligned format.
+* **Multi-Image/Avatar/AdaptIcon:** To show an association with the object being represented

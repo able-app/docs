@@ -21,3 +21,6 @@ Collection: A collection of  those objects that are displayed at the end of the 
 * **Avatar:** Used to attribute the object to the person in the Avatar.
 * **Graphic:** Many different purposes, but can be used to show a brand or collection.
 * **Button:** A more visually prominent actionable area that can be used as the primary activity of the subject matter.
+* **Multi-AdaptIcon:** When there's the need to show multiple adapticons.  These have a slight overlap with the adapticon next to it, with the far left being the one in front.
+* **Multi-Avatar:** When there's the need to show multiple people associated with the object.  These have a slight overlap with the avatar next to it, with the far left being the one in front.
+* **Multi-Image:** When there's the need to show multiple images.  These have a slight overlap with the image next to it, with the far left being the one in front.
