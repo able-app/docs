@@ -1,4 +1,4 @@
-# Ω Effect Library
+# Ω Effect Style
 
 ## Type - Shadow
 
@@ -48,18 +48,18 @@ We will use the material design shadows as our base, mapping each of the base sh
 
 [https://github.com/flutter/flutter/blob/master/packages/flutter/lib/src/material/shadows.dart](https://github.com/flutter/flutter/blob/master/packages/flutter/lib/src/material/shadows.dart)
 
-| Name | Size | Token         |
-| ---- | ---- | ------------- |
-| None | 0    | #shadBaseN    |
-| XXXS | 1    | #shadBaseXxxs |
-| XXS  | 2    | #shadBaseXxs  |
-| XS   | 3    | #shadBaseXs   |
-| S    | 4    | #shadBaseS    |
-| M    | 6    | #shadBaseM    |
-| L    | 8    | #shadBaseL    |
-| XL   | 9    | #shadBaseXl   |
-| XXL  | 12   | #shadBaseXxl  |
-| XXXL | 16   | #shadBaseXxxl |
-| Huge | 24   | #shadBaseH    |
+| Name | Size | Token |
+| ---- | ---- | ----- |
+| None | 0    | #E0   |
+| XXXS | 1    | #E1   |
+| XXS  | 2    | #E2   |
+| XS   | 3    | #E3   |
+| S    | 4    | #E4   |
+| M    | 6    | #E6   |
+| L    | 8    | #E8   |
+| XL   | 9    | #E9   |
+| XXL  | 12   | #E12  |
+| XXXL | 16   | #E16  |
+| Huge | 24   | #E24  |
 
 NOTE: Any dictionaries or styles designated as a Base, can not be deleted. They act as the defaults for other elements and components up the line.
