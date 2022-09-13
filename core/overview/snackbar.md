@@ -11,11 +11,11 @@ Element: Snackbars provide brief messages about app processes on the screen. The
 
 ### Action - Layout
 
-A snackbar can contain a single action. "Dismiss" or "Cancel" actions are optional.
+A snackbar can contain a single action. "Dismiss", "Cancel", "Undo" actions are optional.
 
 **None**: No actionable activities are associated with the notification
 
-**Beside**: The default, when an actionable event is presented to the user.
+**Beside**: The default, when an actionable event is presented to the user. The action is positioned to the right of the message.
 
 **Below**: For actions that have longer wording we can place the action below the message.
 
@@ -29,4 +29,4 @@ Snackbars appear one at a time upon an event trigger, and don't require interact
 
 ### Placement
 
-Snackbars display at the bottom of the screen and should not cover other primary navigation objects. Please see [MD Snackbar placement](https://material.io/components/snackbars#placement) guidance.
+ABLE's snackbars display at the top of the screen and should not cover other primary navigation objects. Please see [MD Snackbar placement](https://material.io/components/snackbars#placement) guidance, outside of their decision to position them at the bottom of the screen.
