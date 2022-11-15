@@ -28,7 +28,7 @@ From the developers point of view a theme and all of these libraries and color p
 
 We refer to assets that exist as external files (photos, graphics, audio/video, etc.) as libraries. By establishing libraries for these things we can swap out one library for another easily. For example, let's say at Christmas time we want to have customized Illustrations to reflect the season. Simply swap the reference to the "Illustrations - Thanksgiving" library for the "Illustrations - Christmas" library and it's ready to go. Another byproduct of this is that it provides a compartmentalized work area for the Illustrator to work and store like objects, that carries a consistent structure.
 
-## Dessign Tokens
+## Design Tokens
 
 Design Tokens are key-value pairs that represent the specs of the design system. They are the atomic, reusable building blocks of a design system, such as colors, typography, spacing, motion, and even sounds and haptic feedback. In code these are referred to as constants.
 
