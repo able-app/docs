@@ -11,6 +11,8 @@ Element: A click/tap-able screen element used to build other elements and compon
 
 **Style**: The visual appearance (styling) of the object
 
+<figure><img src="../../../.gitbook/assets/Style.png" alt=""><figcaption></figcaption></figure>
+
 * Primary (default)
 * Secondary
 * Dark
@@ -19,16 +21,22 @@ Element: A click/tap-able screen element used to build other elements and compon
 
 **Type**: A way to structure high level variations of an object into like collections
 
+<figure><img src="../../../.gitbook/assets/Type.png" alt=""><figcaption></figcaption></figure>
+
 * Fill (default)
 * Line
 * Text
 
 **Shape**: The different border treatments for the surface of the object
 
+<figure><img src="../../../.gitbook/assets/Shape.png" alt=""><figcaption></figcaption></figure>
+
 * Rounded (default)
 * Square
 
 **Size**: The general size of the object in relation to others
+
+<figure><img src="../../../.gitbook/assets/Size.png" alt=""><figcaption></figcaption></figure>
 
 * XSmall
 * Small
@@ -37,6 +45,8 @@ Element: A click/tap-able screen element used to build other elements and compon
 * Dynamic: The width AND height can be set to any value, this differs from the others which have FIXED heights.
 
 **State**: The possible visual appearances, which are also tied to functionality of the given object. ie Disabled and the object can not be interacted with and visually shows that.
+
+<figure><img src="../../../.gitbook/assets/State.png" alt=""><figcaption></figcaption></figure>
 
 * Enabled (default)
 * Disabled
