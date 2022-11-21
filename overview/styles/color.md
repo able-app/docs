@@ -8,6 +8,16 @@ To set the properties for color in a Theme, we use Color Style's. This is our ba
 
 Every Color Style file has at least two modes, Light (default) and Dark. With the ability to add additional modes if needed, for example High Contracts - Light, Mode. All designs are done in the Light mode.
 
+<div>
+
+<figure><img src="../../.gitbook/assets/Mode - Light.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Mode - Dark.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 ## Properties
 
 The fields that are needed to describe the color, its tint or shade and any other properties carried with the color.
