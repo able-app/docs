@@ -25,7 +25,7 @@ Base: A collection for the styling (shape) of the Field Background Surface is se
 
 ### State
 
-<figure><img src="../../../.gitbook/assets/State.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/State (2).png" alt=""><figcaption></figcaption></figure>
 
 * Enabled
 * Disabled

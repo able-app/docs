@@ -23,7 +23,7 @@ These types mirror those outlined in MD for further information [see here](https
 
 **Filter** - When the user is presented with a collection of options where we want to allow them to select one to many options from the collection. When a Chip has an On status it will appear with a leading checkmark and have its appearance changed. For Ex. in a filter for T-shirt shopping you could select Large, and XLarge or in another situation select vehicle types of SUV or Car excluding Trucks, Vans, etc.
 
-<figure><img src="../../../.gitbook/assets/Type.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Type (6).png" alt=""><figcaption></figcaption></figure>
 
 ### Style
 

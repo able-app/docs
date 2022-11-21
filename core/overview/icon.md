@@ -11,6 +11,8 @@ Primitive: Used in building element and components. An icon is used as a metapho
 
 **Size** - The general size of the element in proportion to the others in the collection.
 
+<figure><img src="../../.gitbook/assets/Size (3).png" alt=""><figcaption></figcaption></figure>
+
 * XSmall (12dp)
 * Small (16dp)
 * SMedium (20dp)
@@ -23,6 +25,8 @@ Primitive: Used in building element and components. An icon is used as a metapho
 **Badge** - Every icon has the possibility of having a badge in the upper right corner. This is commonly used with icons especially on tabs to represent new activity in that area of the app.
 
 **State** - The different appearances of the screen object based on interaction and the status of the screen object. Possible states are Enabled, Disabled, Hover, Pressed, Focused.
+
+<figure><img src="../../.gitbook/assets/State.png" alt=""><figcaption></figcaption></figure>
 
 ### Why
 
