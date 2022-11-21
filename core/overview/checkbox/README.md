@@ -11,11 +11,11 @@ Primitive: A singular checkbox control with its possible styling, status (on/off
 
 **Status** - The value given to the screen object, in this case a checkbox with possibilities of On, Off, Indeterminate.
 
-<figure><img src="../../../.gitbook/assets/Status.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Status (1).png" alt=""><figcaption></figcaption></figure>
 
 **Style** - Supplied by the child level (Checkbox - Shape) this is the general appearance of the screen object. For now we have two styles, the normal appearance of the rounded corner checkbox which is the default, and a circular checkbox which is our customized appearance for a checkbox. Note: Additional appearance can be added to the Checkbox - Shape file to extend the styles at this level.
 
-<figure><img src="../../../.gitbook/assets/Style (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Style.png" alt=""><figcaption></figcaption></figure>
 
 **State** - The different appearances of the screen object based on interaction and the status of the screen object. Possible states are Enabled, Disabled, Focus, Hover, Pressed.
 

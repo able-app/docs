@@ -11,7 +11,7 @@ Element: A click/tap-able screen element used to build other elements and compon
 
 **Style**: The visual appearance (styling) of the object
 
-<figure><img src="../../../.gitbook/assets/Style.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Style (2).png" alt=""><figcaption></figcaption></figure>
 
 * Primary (default)
 * Secondary
@@ -21,7 +21,7 @@ Element: A click/tap-able screen element used to build other elements and compon
 
 **Type**: A way to structure high level variations of an object into like collections
 
-<figure><img src="../../../.gitbook/assets/Type.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Type (2).png" alt=""><figcaption></figcaption></figure>
 
 * Fill (default)
 * Line
@@ -36,7 +36,7 @@ Element: A click/tap-able screen element used to build other elements and compon
 
 **Size**: The general size of the object in relation to others
 
-<figure><img src="../../../.gitbook/assets/Size.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Size (2).png" alt=""><figcaption></figcaption></figure>
 
 * XSmall
 * Small
@@ -46,7 +46,7 @@ Element: A click/tap-able screen element used to build other elements and compon
 
 **State**: The possible visual appearances, which are also tied to functionality of the given object. ie Disabled and the object can not be interacted with and visually shows that.
 
-<figure><img src="../../../.gitbook/assets/State.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/State (2).png" alt=""><figcaption></figcaption></figure>
 
 * Enabled (default)
 * Disabled

@@ -23,11 +23,15 @@ These types mirror those outlined in MD for further information [see here](https
 
 **Filter** - When the user is presented with a collection of options where we want to allow them to select one to many options from the collection. When a Chip has an On status it will appear with a leading checkmark and have its appearance changed. For Ex. in a filter for T-shirt shopping you could select Large, and XLarge or in another situation select vehicle types of SUV or Car excluding Trucks, Vans, etc.
 
+<figure><img src="../../../.gitbook/assets/Type.png" alt=""><figcaption></figcaption></figure>
+
 ### Style
 
 **Filled** (default) - The Chip has a filled appearance in that the Chips surface is different from the background it is on.
 
 **Line** - The Chip has an outline appearance with the surface of the Chip being the same color as the surface it is on top of.
+
+<figure><img src="../../../.gitbook/assets/Style (4).png" alt=""><figcaption></figcaption></figure>
 
 ### Status
 
@@ -36,6 +40,8 @@ These types mirror those outlined in MD for further information [see here](https
 **On** - Shows that the Chip is active and being applied. For Ex. in search filters, different filtering methods can be turned on/off and those that are on will display the details of that filter in its contents and show that it is active by its color.
 
 ### State
+
+<figure><img src="../../../.gitbook/assets/State (4).png" alt=""><figcaption></figcaption></figure>
 
 * Enabled
 * Disabled
@@ -50,6 +56,8 @@ Note: This will normally only be used in the design of components, but we want t
 **Base** (default) - The normal size of a Chip
 
 **Field** - The size of a Chip when located inside of the Field element. We had to decrease the height of the chip slightly to comfortably fit within the Field.
+
+<figure><img src="../../../.gitbook/assets/Size.png" alt=""><figcaption></figcaption></figure>
 
 ### Metaphors
 

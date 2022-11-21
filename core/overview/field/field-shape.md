@@ -1,4 +1,4 @@
-# Ω Field - Shape (Surface)
+# Ω FieldShape
 
 Base: A collection for the styling (shape) of the Field Background Surface is set here. This base level feeds into the Field element where it is combined with the other field containers to form the Field element.
 
@@ -9,6 +9,8 @@ Base: A collection for the styling (shape) of the Field Background Surface is se
 ## Properties
 
 ### Style
+
+<figure><img src="../../../.gitbook/assets/Style (1).png" alt=""><figcaption></figcaption></figure>
 
 * Line - A single under line.
 * Rounded - Rounded corner box
@@ -22,6 +24,8 @@ Base: A collection for the styling (shape) of the Field Background Surface is se
 **Inverted** - Used when the field is used on a component with a dark background (ex. Gridview Photo - search)
 
 ### State
+
+<figure><img src="../../../.gitbook/assets/State.png" alt=""><figcaption></figcaption></figure>
 
 * Enabled
 * Disabled

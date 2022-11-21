@@ -17,6 +17,8 @@ This is where we combine all of the feeder primitive and base level pieces to fo
 * SelectList - A field type used in the Selectlist Form component for selecting from a defined collection of choices.
 * ChipList - A Field with chips contained inside of it, with a side-scroll to reveal additional chips. This field can have chips added to or removed from, using controls outside of the field. Ex. GA - Assign to where avatars are added to a collection field from a list of users.
 
+<figure><img src="../../../.gitbook/assets/Type (4).png" alt=""><figcaption></figcaption></figure>
+
 ### Validation
 
 For the most part all validation should be handled inline. Meaning as soon as you've finished filling in a field, an indicator should appear in the field if there's an error. This makes fixing the error easy to identify and allows you to fix it immediately after the field has been completed.

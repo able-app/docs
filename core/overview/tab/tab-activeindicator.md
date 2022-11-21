@@ -1,4 +1,4 @@
-# Ω Tab - Active Indicator
+# Ω TabActive
 
 Base: A collection of visual indicators for an active tab.
 
@@ -16,6 +16,8 @@ Base: A collection of visual indicators for an active tab.
 * **Box:** A border line that runs around the entire active tab.
 * **Glow** (Top): The slight appearance of a glowing light from the top of the active tab.
 * **Glow** (Bottom): The appearance of a glowing light from the bottom of the active tab.
+
+<figure><img src="../../../.gitbook/assets/Active.png" alt=""><figcaption></figcaption></figure>
 
 
 

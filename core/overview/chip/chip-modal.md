@@ -23,6 +23,8 @@ Primitive Collection: The modal that opens in front of a chip when it is selecte
 
 **Name & Rating** - The subject matter name with a rating below
 
+<figure><img src="../../../.gitbook/assets/Modal.png" alt=""><figcaption></figcaption></figure>
+
 ### Interaction
 
 You can see the general interaction of how this modal appears, where it appears and how it is dismissed [here, down in the MD Expandable section](https://material.io/components/chips#input-chips). Note: When active all other app functionality is disabled until the modal is dismissed or the action is taken on the modal.

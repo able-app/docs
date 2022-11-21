@@ -13,6 +13,8 @@ Element: Shows info text when users press certain screen objects. Desktop it als
 
 The arrow for the tooltip will point at the object that was tapped to reveal the tooltip. The spacing between the edge of that object and the edge of the tooltip is set at 4dp.
 
+<figure><img src="../../.gitbook/assets/Arrow.png" alt=""><figcaption></figcaption></figure>
+
 **NOTE:** The padding between the edge and label varies based on it's use. What's being shown (16dp) is the default. For example, with a slider that is displaying a single value the tooltip has padding of 8dp left and right.
 
 ### Additional Properties
@@ -26,5 +28,9 @@ A tooltip displays on tapping and holding a screen object (on mobile) or hoverin
 Upon a tap and release the tooltips displays for 1500ms, unless another action is taken by the user prior to end of that time period, in which it would disappear immediately on that new action. On open and close of the tooltip a 250ms grow/shrink fade transiton is used.
 
 **Content:** The information within a Tooltip will wrap to the next line upon reaching the tooltips max width.
+
+<figure><img src="../../.gitbook/assets/Example - Slider.png" alt=""><figcaption><p>Tooltip on a Slider</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Example - Textfield.png" alt=""><figcaption><p>For additional information on fields</p></figcaption></figure>
 
 {% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A24509&page-id=0%3A1&scaling=min-zoom&show-proto-sidebar=1&starting-point-node-id=2%3A24853&viewport=377%2C48%2C0.14" %}

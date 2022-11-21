@@ -11,9 +11,15 @@ Element: A collection of rate points (primitive) to form a scaled rating value f
 
 **Size** - The general size of the element as a whole.
 
+<figure><img src="../../../.gitbook/assets/Size (1).png" alt=""><figcaption></figcaption></figure>
+
 **Style** - Supplied by the child level (Base - Shape) this is the general appearance of the screen object. Note: Additional appearance can be added to the Base - Shape file to extend the styles at this level.
 
+<figure><img src="../../../.gitbook/assets/Styles.png" alt=""><figcaption></figcaption></figure>
+
 **State** - The different appearances of the screen object based on interaction and the status of the screen object. Possible states are Enabled, Disabled.
+
+<figure><img src="../../../.gitbook/assets/States (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Interaction
 
