@@ -11,11 +11,11 @@ Element: A collection of page points (primitive) to represent a series of steps 
 
 **Size** - The general size of the element as a whole.
 
-<figure><img src="../../../.gitbook/assets/Size.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Size (1).png" alt=""><figcaption></figcaption></figure>
 
 **Style** - Supplied by the child level (Base - Shape) this is the general appearance of the screen object. Note: Additional appearance can be added to the Base - Shape file to extend the styles at this level.
 
-<figure><img src="../../../.gitbook/assets/Style.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Style (7).png" alt=""><figcaption></figcaption></figure>
 
 **Ornaments** - Each Step Point at a size of Large and above have the option to add ornamentation in the form of a Label Element, which can be text which is nice for placing numbers in each of the step points, or icons which could give a visual indicator of the task to accomplish at that step of the process when multiple step points are strung together into a Paginator.
 

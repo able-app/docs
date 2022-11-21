@@ -24,7 +24,7 @@ The direction of the Input Stepper in the interface, either displaying Horizonta
 * Horizontal
 * Vertical
 
-<figure><img src="../../../.gitbook/assets/Orientation.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Orientation (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Style
 

@@ -57,7 +57,7 @@ Note: This will normally only be used in the design of components, but we want t
 
 **Field** - The size of a Chip when located inside of the Field element. We had to decrease the height of the chip slightly to comfortably fit within the Field.
 
-<figure><img src="../../../.gitbook/assets/Size (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Size (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Metaphors
 

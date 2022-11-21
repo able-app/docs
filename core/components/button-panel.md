@@ -8,6 +8,20 @@ Component: A collection of buttons vertically or horizontally displayed with pad
 
 ### Properties
 
+<div>
+
+<figure><img src="../../.gitbook/assets/Quantity.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Orientation.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Padding.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 **Qty** - The number of buttons contained within the panel
 
 **Orientation** - The direction that the buttons are situated in the panel, stacked on top of one another vertically, or aligned side-by-side horizontally.

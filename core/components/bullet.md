@@ -12,6 +12,8 @@ Component: For use in a bulleted list of content where the bullet can act as an 
 
 The relative size of the bullet in relation to others within the collection.
 
+<figure><img src="../../.gitbook/assets/Size.png" alt=""><figcaption></figcaption></figure>
+
 * XLarge (36dp Icon)
 * Large (24dp Icon)
 

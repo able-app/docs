@@ -13,9 +13,23 @@ Inner element spacing is used for dynamic resizing along with a background surfa
 
 **Label** - The component can be presented with a label to give context to the form control. This label can be positioned top (above the field), left, or not at all (none).
 
+<figure><img src="../../../.gitbook/assets/Label.png" alt=""><figcaption></figcaption></figure>
+
 **Helper** - Does the component have helper text (On/Off). This is used to provide additional context for the component for examples, how the input will be used, or as further clarification to the label.
 
+<figure><img src="../../../.gitbook/assets/Helper (1).png" alt=""><figcaption></figcaption></figure>
+
 **Choice Method** - There are a few options when working with the selectable choices of a SelectList.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/Choice - Drop.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Choice - Sheet.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 * **Standard Dropdown** - A temporary modal Menu element that is displayed over top (elevated above) the visible SelectList - Field. This works great for shorter lists of content options (<10).
 * **Autosuggest Dropdown** - When the list of options within the SelectList is longer or infinite and the user already knows the answer, the SelectList - Field acts as a field to collect, autocomplete (the typed word) and filter the results in the Dropdown (displayed directly below the SelectList - Field) of the typed characters. This is similar to how the Google search box works. Another good example of this in use is in choosing a country.

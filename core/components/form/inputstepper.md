@@ -1,6 +1,6 @@
 # Input Stepper
 
-Component: A locked height form component for the collection of a three-segment (Input Stepper - Control) used to incrementally increase or decrease a numeric value. NN/g has a great definition of the control [here](https://www.nngroup.com/articles/input-steppers/#:\~:text=Definition%3A%20An%20input%20stepper%20is,interfaces%20can%20also%20have%20steppers.). Inner element spacing is used for dynamic resizing along with a background surface.
+Component: A locked height form component for the collection of a three-segment (Input Stepper - Control) used to incrementally increase or decrease a numeric value. NN/g has a great definition of the control [here](https://www.nngroup.com/articles/input-steppers/). Inner element spacing is used for dynamic resizing along with a background surface.
 
 [Styleguide Link](https://zpl.io/a8DZ6yX)
 
@@ -13,9 +13,13 @@ Component: A locked height form component for the collection of a three-segment 
 
 The component can be presented with a label to give context to the form control. This label can be positioned to the left, right, above (top), below (bottom).
 
+<figure><img src="../../../.gitbook/assets/Label (3).png" alt=""><figcaption></figcaption></figure>
+
 ### Helper Text
 
 To provide additional context for the component a sentence can be added to the component for examples, how the input will be used, or as further clarification to the label.
+
+<figure><img src="../../../.gitbook/assets/Helper (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Control Qty
 

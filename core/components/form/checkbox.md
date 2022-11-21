@@ -13,9 +13,13 @@ Component: A locked height form component for the collection of one or more on/o
 
 The component can be presented with a label to give context to the checkbox control. This label can be positioned either left align or right.
 
+<figure><img src="../../../.gitbook/assets/Label (1).png" alt=""><figcaption></figcaption></figure>
+
 ### Style
 
 The styling of the checkbox can be altered to present a different appearance to the checkbox. For example, a To-Do list being presented with a fancier check than the typical checkbox, but having the same underlying functionality.
+
+<figure><img src="../../../.gitbook/assets/Style.png" alt=""><figcaption></figcaption></figure>
 
 **Note:** Each of the nested elements and primitives of this form component have properties that can be adjusted to customize the component.
 
