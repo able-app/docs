@@ -11,6 +11,8 @@ Collection: A ListItem Collection (LIC) is a convenience container for the prima
 
 ### Type
 
+<figure><img src="../../../.gitbook/assets/Primary.png" alt=""><figcaption></figcaption></figure>
+
 * **Title:** Just a single line of text acting as the title for the ListItem
 * **Title & Subtext:** A title line with subtext below in support of the title.
 * **Title & 2 Subtext:** A title line with two rows of subtext below.

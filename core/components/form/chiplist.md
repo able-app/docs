@@ -19,7 +19,7 @@ The component can be presented with a label to give context to the form control.
 
 To provide additional context for the component a sentence can be added to the component for examples, how the input will be used, or as further clarification to the label.
 
-<figure><img src="../../../.gitbook/assets/Helper.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Helper (2).png" alt=""><figcaption></figcaption></figure>
 
 **Note:** The structure and spacing of this component is the same between Textfield, Textarea, Selectlist, Chiplist, Slider, Userlist, and Toggle Button.
 

@@ -11,6 +11,8 @@ Component: A form control for the collection of users (avatars), used when addin
 
 ### Label
 
+<figure><img src="../../../.gitbook/assets/Label.png" alt=""><figcaption></figcaption></figure>
+
 * **Top** - The label for the form field is placed above the form control.
 * **Left** - The label for the form field is placed to the left of the form control.
 * **None** - No label is used with the form control.
@@ -19,7 +21,11 @@ Component: A form control for the collection of users (avatars), used when addin
 
 The additional helper text that can be presented below the form control.
 
+<figure><img src="../../../.gitbook/assets/Helper.png" alt=""><figcaption></figcaption></figure>
+
 ### Size
+
+<figure><img src="../../../.gitbook/assets/Size (3).png" alt=""><figcaption></figcaption></figure>
 
 * Small - The default size for the control
 * Medium

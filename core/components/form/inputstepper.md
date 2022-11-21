@@ -13,13 +13,13 @@ Component: A locked height form component for the collection of a three-segment 
 
 The component can be presented with a label to give context to the form control. This label can be positioned to the left, right, above (top), below (bottom).
 
-<figure><img src="../../../.gitbook/assets/Label (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Label (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Helper Text
 
 To provide additional context for the component a sentence can be added to the component for examples, how the input will be used, or as further clarification to the label.
 
-<figure><img src="../../../.gitbook/assets/Helper (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Helper (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Control Qty
 

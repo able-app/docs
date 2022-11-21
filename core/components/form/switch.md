@@ -13,6 +13,8 @@ Component: A locked height form component for the toggle of a property on/off. I
 
 The component can be presented with a label to give context to the switch control. This label can be positioned in the following options...
 
+<figure><img src="../../../.gitbook/assets/Label (5).png" alt=""><figcaption></figcaption></figure>
+
 * Label Left, Control Left
 * Label Right, Control Right
 * Label Left, Control Right
@@ -21,6 +23,8 @@ The component can be presented with a label to give context to the switch contro
 ### Style
 
 The styling of the switch can be altered to present a different appearance. For example, we could present an appearance to the control that's a bit more fancy in sign in screen than a pill switch control, with the same underlying functionality.
+
+<figure><img src="../../../.gitbook/assets/Style.png" alt=""><figcaption></figcaption></figure>
 
 * Base (Pill)
 * Rectangle

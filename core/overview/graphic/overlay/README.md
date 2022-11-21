@@ -27,7 +27,7 @@ We break the overlay into seven distinct areas of the graphic and organize the p
 
 Each of the types is further broken down into their like collections at the Primitive level where we control the horizontal location of the objects contained within the Overlay.
 
-<figure><img src="../../../../.gitbook/assets/Type.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Type (2).png" alt=""><figcaption></figcaption></figure>
 
 * **Icon:** Normally used as actionable or informational areas that overlay (float above) the Graphic. A good example of an actionable icon would be the activity of Favoriting or Liking an image.
 * **Button:** Used as the primary CTA "Call to Action" for the Graphic/Illustration it is overlaying.

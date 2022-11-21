@@ -11,6 +11,8 @@ Collection: A ListItem Collection (LIC) is a convenience container for those obj
 
 ### Type
 
+<figure><img src="../../../.gitbook/assets/Leading.png" alt=""><figcaption></figcaption></figure>
+
 * None
 * Icon
 * AdaptIcon

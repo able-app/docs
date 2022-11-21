@@ -11,6 +11,8 @@ Component: A panel with spacing and alignment of the Paginator with its collecti
 
 **Size** - The general size of the panel and its contents as a whole.
 
+<figure><img src="../../.gitbook/assets/Size (4).png" alt=""><figcaption></figcaption></figure>
+
 * XSmall
 * Small
 * Medium
@@ -20,6 +22,8 @@ Component: A panel with spacing and alignment of the Paginator with its collecti
 **Note:** In the Large & XLarge sizes the page point has the option of containing a Label which can be an Icon or Text (number). This can be used to add more context to the step in the process.
 
 **Alignment** - The location of the Paginator within the panel, either left, right or center (default).
+
+<figure><img src="../../.gitbook/assets/Alignment (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Interaction
 

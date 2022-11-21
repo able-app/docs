@@ -11,7 +11,7 @@ Element: A collection of page points (primitive) to represent a series of steps 
 
 **Size** - The general size of the element as a whole.
 
-<figure><img src="../../../.gitbook/assets/Size (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Size (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 **Style** - Supplied by the child level (Base - Shape) this is the general appearance of the screen object. Note: Additional appearance can be added to the Base - Shape file to extend the styles at this level.
 

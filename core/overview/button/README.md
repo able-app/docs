@@ -21,7 +21,7 @@ Element: A click/tap-able screen element used to build other elements and compon
 
 **Type**: A way to structure high level variations of an object into like collections
 
-<figure><img src="../../../.gitbook/assets/Type (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Type (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Fill (default)
 * Line

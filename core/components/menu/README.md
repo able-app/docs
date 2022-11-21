@@ -11,6 +11,8 @@ Component: The display of a list of choices on a temporary surface (modal). The 
 
 ### Type
 
+<figure><img src="../../../.gitbook/assets/Type (1).png" alt=""><figcaption></figcaption></figure>
+
 * **Text** - The default menu display method with different possible configurations.
 * **Icon** - A menu option with a leading icon to provide additional context to the option.
 * **Avatar** - When presenting a list of users we use a leading avatar in addition to the users handle or name.
@@ -18,6 +20,8 @@ Component: The display of a list of choices on a temporary surface (modal). The 
 * **AdaptIcon** - For those situations where we'd show categories of something or a place (ie. map location types).
 
 ### Configurations
+
+<figure><img src="../../../.gitbook/assets/Configuration.png" alt=""><figcaption></figcaption></figure>
 
 * **Base** - The default configuration for each of the Types of menu.
 * **Choice** - The ability to visually display the currently selected options within the menu. This functions as either a singular choice, or multi-choice.

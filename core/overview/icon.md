@@ -11,7 +11,7 @@ Primitive: Used in building element and components. An icon is used as a metapho
 
 **Size** - The general size of the element in proportion to the others in the collection.
 
-<figure><img src="../../.gitbook/assets/Size (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Size (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * XSmall (12dp)
 * Small (16dp)

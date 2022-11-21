@@ -23,7 +23,7 @@ Adapticons have two layers a background surface and an icon. The background shap
 
 The design system has set sizes for certain objects, adapticon is one of those with the following standardized sizes following the 8 point grid system. Note that the nested Icon element also follows a standardized sizing.
 
-<figure><img src="../../../.gitbook/assets/Size (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Size (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Tiny
 * Extra Small

@@ -12,6 +12,8 @@ Collection: A Menu Container(MC) is a collection of the content that is possible
 
 ### Type
 
+<figure><img src="../../../.gitbook/assets/Menu - Leading.png" alt=""><figcaption></figcaption></figure>
+
 * **None** (default)- Leaving off the leading content.
 * **Icon** - Primarily used to provide a second level of context to the menu option. An example of this would be a list, with it's accessibility options to others (public, private).
 * **Avatar** - Used when we want to display a list of users in a menu system.

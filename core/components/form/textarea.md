@@ -11,7 +11,11 @@ Text areas are taller than text fields and wraps overflow text onto a new line. 
 
 **Label** - The component can be presented with a label to give context to the form control. This label can be positioned top (above the field), left, or not at all (none).
 
+<figure><img src="../../../.gitbook/assets/Label (3).png" alt=""><figcaption></figcaption></figure>
+
 **Helper** - Does the component have helper text (On/Off). This is used to provide additional context for the component for examples, how the input will be used, or as further clarification to the label.
+
+<figure><img src="../../../.gitbook/assets/Helper (5).png" alt=""><figcaption></figcaption></figure>
 
 **Note:** The structure and spacing of this component is the same between Textfield, Textarea, Selectlist, Chiplist, Slider, Userlist, and Toggle Button.
 

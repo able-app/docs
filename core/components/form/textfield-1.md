@@ -11,9 +11,15 @@ A form component that provide the ability to enter and edit text in a defined la
 
 **Label** - The component can be presented with a label to give context to the form control. This label can be positioned top (above the field), left, or not at all (none).
 
+<figure><img src="../../../.gitbook/assets/Label (9).png" alt=""><figcaption></figcaption></figure>
+
 **Helper** - Does the component have helper text (On/Off). This is used to provide additional context for the component for examples, how the input will be used, or as further clarification to the label.
 
+<figure><img src="../../../.gitbook/assets/Helper (4).png" alt=""><figcaption></figcaption></figure>
+
 **Button** - In certain situations there may be the need to add a button next to the field (ex. upload of a file). This property turns that button on/off.
+
+<figure><img src="../../../.gitbook/assets/Button.png" alt=""><figcaption></figcaption></figure>
 
 **Field Type** - In some situations, like in a sheets search field, we may want to invert the appearance of the field to make it stand out a little better. This property makes that possible.
 

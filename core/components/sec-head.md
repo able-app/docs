@@ -11,6 +11,8 @@ Component: Used at the top of list, card, grid, masonry sections to separate gro
 
 **Size**: Generally the size of the title and its relative component height.
 
+<figure><img src="../../.gitbook/assets/Size (2).png" alt=""><figcaption></figcaption></figure>
+
 * Tiny (R4B)
 * XSmall (R3B)
 * Small (R2B)
@@ -21,7 +23,11 @@ Component: Used at the top of list, card, grid, masonry sections to separate gro
 
 **Alignment**: Can be left aligned or center depending on the use case
 
+<figure><img src="../../.gitbook/assets/Alignment (3).png" alt=""><figcaption></figcaption></figure>
+
 **Surface**: Light, Dark, or Neutral depending on the section it is being paired with, list, card, grid, masonry's background.
+
+<figure><img src="../../.gitbook/assets/Surface.png" alt=""><figcaption></figcaption></figure>
 
 **Divider** - A division line at the bottom of the Section Header to draw more attention to the start of the section. This option is Off by default.
 

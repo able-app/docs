@@ -11,6 +11,8 @@ A single row (item) of a vertical index (list).
 
 ### Content
 
+<figure><img src="../../../.gitbook/assets/LI - Primary.png" alt=""><figcaption></figcaption></figure>
+
 * **Single Line:** A single title
 * **Two Line:** A title and subtext below
 * **Two Line rating:** A title with ratings below
@@ -19,6 +21,8 @@ A single row (item) of a vertical index (list).
 ### Leading Style
 
 Taken from the LIC - Leading convenience container the leading style allows us to change up the appearance of the area before (to the left of) the primary content.
+
+<figure><img src="../../../.gitbook/assets/LI-Leading.png" alt=""><figcaption></figcaption></figure>
 
 * None
 * Icon
@@ -29,6 +33,8 @@ Taken from the LIC - Leading convenience container the leading style allows us t
 ### Trailing Style
 
 Supplied by the LIC - Trailing convenience container this provides us with the ability to alter the styling of the right side of the ListItem. This can be additional informational objects like an icon or text labels or controls like a checkbox, switch, button, input stepper, or a toggle to add input collection capabilities to the ListItem.
+
+<figure><img src="../../../.gitbook/assets/LI - Trailing.png" alt=""><figcaption></figcaption></figure>
 
 * None
 * Icon

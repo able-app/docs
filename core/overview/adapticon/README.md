@@ -13,7 +13,7 @@ Element: Set sizes for display with or without a status badge. Based off of the 
 
 To account for multiple usecases the design system has established a set sizing standard for certain interface objects, with AdaptIcon being one of those. The size and shape of the AdaptIcon is set within the base level feeder of AdaptIcon - Shape.
 
-<figure><img src="../../../.gitbook/assets/Size (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Size (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Shape (1).png" alt=""><figcaption></figcaption></figure>
 

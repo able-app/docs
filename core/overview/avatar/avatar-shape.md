@@ -21,7 +21,7 @@ Base: The shape and size of the Avatar (element) is set at this level. In the de
 
 The design system has set sizes for certain objects, avatar is one of those with the following standardized sizes following the 8 point grid system.
 
-<figure><img src="../../../.gitbook/assets/Size (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Size (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Extra Small (24dp)
 * Small (32dp)

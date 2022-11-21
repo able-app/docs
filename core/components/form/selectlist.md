@@ -13,11 +13,11 @@ Inner element spacing is used for dynamic resizing along with a background surfa
 
 **Label** - The component can be presented with a label to give context to the form control. This label can be positioned top (above the field), left, or not at all (none).
 
-<figure><img src="../../../.gitbook/assets/Label.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Label (7).png" alt=""><figcaption></figcaption></figure>
 
 **Helper** - Does the component have helper text (On/Off). This is used to provide additional context for the component for examples, how the input will be used, or as further clarification to the label.
 
-<figure><img src="../../../.gitbook/assets/Helper (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Helper (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Choice Method** - There are a few options when working with the selectable choices of a SelectList.
 

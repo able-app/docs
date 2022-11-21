@@ -13,7 +13,7 @@ Element: The Floating Action Button with set sizes for display with or without a
 
 To account for multiple usecases the design system has established a set sizing standard for FAB's. The size and shape of the FAB is set in the base level feeder of FAB - Shape and passed to this level.
 
-<figure><img src="../../../.gitbook/assets/Size (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Size (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Tiny
 * XSmall
@@ -43,7 +43,7 @@ At the smaller sizes (Tiny, xSmall) of FAB the Badge only acts as a colored badg
 
 The color of the FAB can be set to the following color display options...
 
-<figure><img src="../../../.gitbook/assets/Style (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Style (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Primary (default)
 * Secondary
