@@ -17,7 +17,7 @@ Element: Words and iconography used widely across the design system to provide c
 
 **Type** - The options for arrangement of the type to icon within the Label.
 
-<figure><img src="../../.gitbook/assets/Type.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Type (4).png" alt=""><figcaption></figcaption></figure>
 
 * Text (only)
 * Icon (only)

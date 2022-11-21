@@ -13,9 +13,13 @@ Element: The grouping of toggle button pieces that act together as a unit. This 
 
 This is a pass-through of the two types (text, icon) from the toggle - pieces child level.
 
+<figure><img src="../../../.gitbook/assets/Type.png" alt=""><figcaption></figcaption></figure>
+
 ### Style
 
 The different options for the stylings from the toggle-pieces are passed through to this layer since they act as a unit. Note, different styles can not be mixed within a toggle grouping.
+
+<figure><img src="../../../.gitbook/assets/Style (5).png" alt=""><figcaption></figcaption></figure>
 
 * Primary
 * Secondary
@@ -27,9 +31,11 @@ The different options for the stylings from the toggle-pieces are passed through
 
 This is here primarily as a design convenience. All states for a toggle are set at the toggle-pieces layer and get passed up to their parent.
 
+<figure><img src="../../../.gitbook/assets/State (5).png" alt=""><figcaption></figcaption></figure>
+
 ### Formats
 
-**Multi:** The default type, used when there is more than a single toggle option. This type then has a "Choice" funcitonality depending on the intention of the grouping.
+**Multi:** The default type, used when there is more than a single toggle option. This type then has a "Choice" functionality depending on the intention of the grouping.
 
 **Single:** In situations where we only need a single toggle on/off of a single button we use this option. An example of this in use could be with a mute button, where we'd want to display the status of "Muted" or "Unmuted" in an interface.
 

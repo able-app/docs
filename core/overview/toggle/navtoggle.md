@@ -11,6 +11,8 @@ Element: A specialized toggle grouping intended for use within the NavTab - Bar 
 
 ### Style
 
+<figure><img src="../../../.gitbook/assets/NavToggle.png" alt=""><figcaption></figcaption></figure>
+
 * Neutral (default)
 
 ### Quantity

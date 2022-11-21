@@ -11,6 +11,8 @@ Primitive: A single on/off toggle button with the appearance of the button. Togg
 
 ### Type
 
+<figure><img src="../../../.gitbook/assets/Type.png" alt=""><figcaption></figcaption></figure>
+
 **Text:** The text and text with icon either left or right.
 
 **Icon:** The icon only appearance to a toggle button. This is used in many toolbar situations like with a text editor toolbar.
@@ -18,6 +20,8 @@ Primitive: A single on/off toggle button with the appearance of the button. Togg
 ### Style
 
 The same styles that are possible in the Button element are available here.
+
+<figure><img src="../../../.gitbook/assets/Style (5).png" alt=""><figcaption></figcaption></figure>
 
 * Primary
 * Secondary
@@ -35,11 +39,17 @@ This property defines if the toggle is set to the "On" or "Off" version. Buttons
 
 This is primarily for the multi-toggle option to define the left, center, and right toggles, but we also include the appearance of the toggle when a single toggle button is present.
 
+<figure><img src="../../../.gitbook/assets/Location.png" alt=""><figcaption></figcaption></figure>
+
 ### Size
 
 We have the need for two sizes in the Toggle, the first **Base** (default) size for most use cases and a shorter one "**Tiny**" for those situations where the Toggle shows up in other fixed height components like in the App Bar.
 
+<figure><img src="../../../.gitbook/assets/Size (1).png" alt=""><figcaption></figcaption></figure>
+
 ### State
+
+<figure><img src="../../../.gitbook/assets/State (5).png" alt=""><figcaption></figcaption></figure>
 
 * Enabled
 * Disabled
