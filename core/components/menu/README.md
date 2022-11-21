@@ -11,7 +11,7 @@ Component: The display of a list of choices on a temporary surface (modal). The 
 
 ### Type
 
-<figure><img src="../../../.gitbook/assets/Type (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Type (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Text** - The default menu display method with different possible configurations.
 * **Icon** - A menu option with a leading icon to provide additional context to the option.

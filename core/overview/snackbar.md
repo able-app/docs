@@ -19,7 +19,7 @@ A snackbar can contain a single action. "Dismiss", "Cancel", "Undo" actions are 
 
 **Below**: For actions that have longer wording we can place the action below the message.
 
-<figure><img src="../../.gitbook/assets/Type (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Type (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Message
 

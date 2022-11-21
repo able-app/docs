@@ -27,7 +27,7 @@ Component: Used at the top of list, card, grid, masonry sections to separate gro
 
 **Surface**: Light, Dark, or Neutral depending on the section it is being paired with, list, card, grid, masonry's background.
 
-<figure><img src="../../.gitbook/assets/Surface.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Surface (1).png" alt=""><figcaption></figcaption></figure>
 
 **Divider** - A division line at the bottom of the Section Header to draw more attention to the start of the section. This option is Off by default.
 

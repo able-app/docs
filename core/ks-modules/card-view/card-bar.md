@@ -1,4 +1,4 @@
-# Card Bar
+# CardBar
 
 Collection: A convenience wrapper around CardItems for display in the bar component or as a row of stacked Bars in a CardView. See the [Bar - Structure](../../components/content-bar.md) documentation to learn more about what goes into a Bar.
 
@@ -11,11 +11,15 @@ Collection: A convenience wrapper around CardItems for display in the bar compon
 
 ### Size
 
+<figure><img src="../../../.gitbook/assets/Size.png" alt=""><figcaption></figcaption></figure>
+
 * Medium
 * Large
 * XLarge
 
 ### Scrollable
+
+<figure><img src="../../../.gitbook/assets/Scroll (1).png" alt=""><figcaption></figcaption></figure>
 
 **On** - The horizontal listing of CardItems scroll off the right side of the screen and can be side-scrolled to reveal additional CardItems
 

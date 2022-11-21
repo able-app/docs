@@ -9,6 +9,8 @@ A collection of multiple CardItems in a scrollable vertical index (list).
 
 ## Properties
 
+<figure><img src="../../.gitbook/assets/GridView.png" alt=""><figcaption></figcaption></figure>
+
 ### Column
 
 * **Single:** A single GridItem for the entire width of the screen, which collectively forms a GridRow.

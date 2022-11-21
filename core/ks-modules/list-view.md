@@ -9,6 +9,8 @@ A collection of multiple ListItems in a scrollable vertical index (list).
 
 ## Properties
 
+<figure><img src="../../.gitbook/assets/ListView.png" alt=""><figcaption></figcaption></figure>
+
 ### Content
 
 * **Single Line:** A single title

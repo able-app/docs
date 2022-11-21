@@ -10,7 +10,7 @@ Component: For use as a title of the screen or an article.
 
 ### Type
 
-<figure><img src="../../.gitbook/assets/Type.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Type (1).png" alt=""><figcaption></figcaption></figure>
 
 **Headline**: Just the title copy used at the top of body copy or as the title of a screen.
 
@@ -20,7 +20,7 @@ Component: For use as a title of the screen or an article.
 
 The relative size of the copy in relation to others within the collection.
 
-<figure><img src="../../.gitbook/assets/Size.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Size (6).png" alt=""><figcaption></figcaption></figure>
 
 * Huge (36dp)
 * XLarge (30dp)

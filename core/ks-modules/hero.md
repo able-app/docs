@@ -12,6 +12,8 @@ Component: For use as the primary message on the screen. Hero messages attract a
 
 The visual styling of the hero in addition to the headline.
 
+<figure><img src="../../.gitbook/assets/Hero.png" alt=""><figcaption></figcaption></figure>
+
 * Icon
 * Illustration
 * Image

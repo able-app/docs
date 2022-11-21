@@ -19,6 +19,8 @@ Component: A collections of Graphics (Images) of varying heights, that are verti
 
 ### Structure -The "Properties" of the object.
 
+<figure><img src="../../.gitbook/assets/MasonryView.png" alt=""><figcaption></figcaption></figure>
+
 ### Content
 
 Double - Two graphics positioned side-by-side in a portrait view on the device.

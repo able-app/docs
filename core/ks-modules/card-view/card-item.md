@@ -17,6 +17,20 @@ Here we define the structure of how different subject matter is displayed in a C
 * **Product:** Any item that can be purchased. This type has the ability to add the subject matter to a list.
 * **Post** (Person, Place): An article/post to the community can be done by a person or place of business/brand
 
+<div>
+
+<figure><img src="../../../.gitbook/assets/Collection.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Product.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/Post.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 ### Size
 
 Depending on the use and the usable space within a CardItem in most situations we divide up the designs into three sizes, small, medium, large.
