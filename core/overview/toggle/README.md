@@ -13,7 +13,7 @@ Element: The grouping of toggle button pieces that act together as a unit. This 
 
 This is a pass-through of the two types (text, icon) from the toggle - pieces child level.
 
-<figure><img src="../../../.gitbook/assets/Type.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Type (7).png" alt=""><figcaption></figcaption></figure>
 
 ### Style
 

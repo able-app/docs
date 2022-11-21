@@ -12,6 +12,8 @@ Element: The shape and size of the Illustration canvas. The canvas has the same 
 
 **Aspect Ratio** - The design system has standardized the the sizes of illustration canvas' to follow a set of consistent aspect ratios. The following ratios are the only ones used throughout the system. Each of these are listed in their Landscape orientation, but can also exist in Portrait format as well.
 
+<figure><img src="../../../.gitbook/assets/Aspect Ratio.png" alt=""><figcaption></figcaption></figure>
+
 * 1:1 (Square)
 * 5:4
 * 4:3

@@ -22,6 +22,8 @@ Element: Overlays, corner radius and any overlays or effects to the image happen
 
 **Aspect Ratio** - The design system has standardized the display of graphics to follow a set of consistent aspect ratios. The following ratios are the only ones used throughout the system. Each of these are listed in their Landscape orientation, but can also exist in Portrait format.
 
+<figure><img src="../../../.gitbook/assets/Aspect Ratio (1).png" alt=""><figcaption></figcaption></figure>
+
 * 1:1 (Square)
 * 5:4
 * 4:3

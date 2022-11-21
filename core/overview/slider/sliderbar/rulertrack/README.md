@@ -1,4 +1,4 @@
-# Φ Ruler Track
+# Φ RulerTrack
 
 Primitive: The combination of the individual tics to form a series of tics along a track, similar to the tics on a ruler that indicate a specified value.
 
@@ -13,6 +13,8 @@ Primitive: The combination of the individual tics to form a series of tics along
 ### Style
 
 There are many different looks and densities that can be set for the tic track. Multiple tic styles may even be mixed together within the same track (ie. circle major tics with minor ticks of line). These tics will align with the possible values that can be set along the slider both spacially and value wise (ie. the knob points directly at a tic of value 2.5, which based on the sliders possible values as an option).
+
+<figure><img src="../../../../../.gitbook/assets/Ruler Shape.png" alt=""><figcaption></figcaption></figure>
 
 **None:** Default, no visual indicators on the Ruler Track.
 

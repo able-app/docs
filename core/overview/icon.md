@@ -26,7 +26,7 @@ Primitive: Used in building element and components. An icon is used as a metapho
 
 **State** - The different appearances of the screen object based on interaction and the status of the screen object. Possible states are Enabled, Disabled, Hover, Pressed, Focused.
 
-<figure><img src="../../.gitbook/assets/State.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/State (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Why
 

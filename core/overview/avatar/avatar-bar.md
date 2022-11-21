@@ -1,4 +1,4 @@
-# Θ Avatar - Bar
+# Θ AvatarBar
 
 Collection: A grouping for design convenience for display in the bar component. The bar component can have different background surfaces (colors) so we don't include a surface here. See the [Bar - Structure](../../components/content-bar.md) documentation to learn more about what goes into a Bar.
 
@@ -8,6 +8,8 @@ Collection: A grouping for design convenience for display in the bar component. 
 * Child: [Avatar](./)
 
 ## Properties
+
+<figure><img src="../../../.gitbook/assets/Avatar Bar.png" alt=""><figcaption></figcaption></figure>
 
 ### Size
 

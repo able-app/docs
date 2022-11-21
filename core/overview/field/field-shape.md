@@ -10,7 +10,7 @@ Base: A collection for the styling (shape) of the Field Background Surface is se
 
 ### Style
 
-<figure><img src="../../../.gitbook/assets/Style (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Style (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Line - A single under line.
 * Rounded - Rounded corner box
@@ -25,7 +25,7 @@ Base: A collection for the styling (shape) of the Field Background Surface is se
 
 ### State
 
-<figure><img src="../../../.gitbook/assets/State (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/State (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 * Enabled
 * Disabled

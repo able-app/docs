@@ -11,7 +11,7 @@ Primitive: A single on/off toggle button with the appearance of the button. Togg
 
 ### Type
 
-<figure><img src="../../../.gitbook/assets/Type.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Type (7).png" alt=""><figcaption></figcaption></figure>
 
 **Text:** The text and text with icon either left or right.
 
@@ -45,7 +45,7 @@ This is primarily for the multi-toggle option to define the left, center, and ri
 
 We have the need for two sizes in the Toggle, the first **Base** (default) size for most use cases and a shorter one "**Tiny**" for those situations where the Toggle shows up in other fixed height components like in the App Bar.
 
-<figure><img src="../../../.gitbook/assets/Size (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Size (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### State
 

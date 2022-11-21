@@ -1,4 +1,4 @@
-# Ω Slider - Indicator
+# Ω SliderIndicator
 
 Base: Shows the level(s) for the value(s) given on the slider track with a visual fill to the affected area.
 
@@ -10,6 +10,8 @@ Base: Shows the level(s) for the value(s) given on the slider track with a visua
 ## Properties
 
 ### Style
+
+<figure><img src="../../../../.gitbook/assets/Level Shape.png" alt=""><figcaption></figcaption></figure>
 
 The indicator can be shown as On (Filled In) or Off (Hidden from view) based on the use case desired. By default this indicator is shown as On.
 

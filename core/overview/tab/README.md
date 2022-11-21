@@ -36,7 +36,7 @@ Primitive: A single tab used in a group in the tab bar component.
 
 ### States
 
-<figure><img src="../../../.gitbook/assets/State (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/State (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Enabled
 * Disabled

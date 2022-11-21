@@ -17,9 +17,13 @@ To account for multiple use cases the design system has established a set sizing
 
 An avatar can have an overlay of a badge to show either the user/brands current status (online, offline, busy, etc.) or an AdaptIcon to represent an action (Add Photo, Edit) that could be taken on the Avatar, with a tap/click.
 
+<figure><img src="../../../.gitbook/assets/Badge (2).png" alt=""><figcaption></figcaption></figure>
+
 ### State
 
 The state of any nested object (ie. an element inside of a component) get's its state from the parent it is nested within. The state for an Avatar is normally dictated by its parent level container.
+
+<figure><img src="../../../.gitbook/assets/State.png" alt=""><figcaption></figcaption></figure>
 
 * Enabled
 * Disabled

@@ -1,4 +1,4 @@
-# Ω Slider - Knob
+# Ω SliderKnob
 
 Base: The base shape given to the grab knob of the slider. Here we define the different look and size of the knob.
 
@@ -10,6 +10,8 @@ Base: The base shape given to the grab knob of the slider. Here we define the di
 ## Properties
 
 ### Shape
+
+<figure><img src="../../../../.gitbook/assets/Knob Shape.png" alt=""><figcaption></figcaption></figure>
 
 **Circle**: The default knob for the slider is a simple circle that can be drug to different locations along the track of the slider to set a value.
 

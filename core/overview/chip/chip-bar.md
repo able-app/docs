@@ -23,4 +23,4 @@ Common chip bar layouts are located here and will be added to over time.
 * **Base** - The default size, used in the majority of chip situations
 * **Field** - When chips are presented inside of a field we use a slightly smaller size that fits within a field component.
 
-<figure><img src="../../../.gitbook/assets/Size.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Size (1).png" alt=""><figcaption></figcaption></figure>

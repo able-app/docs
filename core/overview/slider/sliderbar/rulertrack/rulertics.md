@@ -1,4 +1,4 @@
-# Ω Ruler - Tics
+# Ω RulerTic
 
 Base: The shape and size of the individual tics that can optionally be shown in or around the slider track. Similar to the tics on a ruler these provide a visual for value increments along the slider track.
 
@@ -9,6 +9,8 @@ Base: The shape and size of the individual tics that can optionally be shown in 
 ## Properties
 
 ### Shape
+
+<figure><img src="../../../../../.gitbook/assets/Tic Shape.png" alt=""><figcaption></figcaption></figure>
 
 **Circle**: The default, circular shape that sits inside the ruler track.
 

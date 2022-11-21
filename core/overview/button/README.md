@@ -29,14 +29,14 @@ Element: A click/tap-able screen element used to build other elements and compon
 
 **Shape**: The different border treatments for the surface of the object
 
-<figure><img src="../../../.gitbook/assets/Shape.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Shape (2).png" alt=""><figcaption></figcaption></figure>
 
 * Rounded (default)
 * Square
 
 **Size**: The general size of the object in relation to others
 
-<figure><img src="../../../.gitbook/assets/Size (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Size (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * XSmall
 * Small

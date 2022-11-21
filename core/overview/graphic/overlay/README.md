@@ -13,6 +13,8 @@ Element: Used as a placeholder container on top of a Graphic to give additional 
 
 We break the overlay into seven distinct areas of the graphic and organize the possibilities within each of those collections.
 
+<figure><img src="../../../../.gitbook/assets/Location (1).png" alt=""><figcaption></figcaption></figure>
+
 * **Top Left:** Docked to the top left corner of the Graphic
 * **Top Center:** Docked to the top left & right corners of the Graphic
 * **Top Right:** Docked to the top right corner of the Graphic
@@ -24,6 +26,8 @@ We break the overlay into seven distinct areas of the graphic and organize the p
 ### Type
 
 Each of the types is further broken down into their like collections at the Primitive level where we control the horizontal location of the objects contained within the Overlay.
+
+<figure><img src="../../../../.gitbook/assets/Type.png" alt=""><figcaption></figcaption></figure>
 
 * **Icon:** Normally used as actionable or informational areas that overlay (float above) the Graphic. A good example of an actionable icon would be the activity of Favoriting or Liking an image.
 * **Button:** Used as the primary CTA "Call to Action" for the Graphic/Illustration it is overlaying.

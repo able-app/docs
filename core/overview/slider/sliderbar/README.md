@@ -1,4 +1,4 @@
-# Φ Slider Bar
+# Φ SliderBar
 
 Primitive: A visual bar that allows users to make selection(s) from a range of values with a press/click and drag of a knob.
 
@@ -21,6 +21,8 @@ Primitive: A visual bar that allows users to make selection(s) from a range of v
 
 **Dual**: A slider bar with Two values that can be set within the same bar.
 
+<figure><img src="../../../../.gitbook/assets/Slider Bar Double.png" alt=""><figcaption></figcaption></figure>
+
 ### Size
 
 The relative size of the slider as a whole in relation to other slider options.
@@ -30,6 +32,8 @@ The relative size of the slider as a whole in relation to other slider options.
 The ruler with its tic marks can be turned On/Off with this property. The default is Off.
 
 ### State
+
+<figure><img src="../../../../.gitbook/assets/Slider Bar State.png" alt=""><figcaption></figcaption></figure>
 
 * Enabled
 * Disabled

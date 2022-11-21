@@ -1,4 +1,4 @@
-# Θ AdaptIcon - Bar
+# Θ AdaptIconBar
 
 Collection: A convenience wrapper around AdaptIcon cells for display in the bar component. See the [Bar - Structure](../../components/content-bar.md) documentation to learn more about what goes into a Bar.
 
@@ -8,6 +8,8 @@ Collection: A convenience wrapper around AdaptIcon cells for display in the bar 
 * Child: [AdaptIcon](./)
 
 ## Properties
+
+<figure><img src="../../../.gitbook/assets/AdaptIcon Bar.png" alt=""><figcaption></figcaption></figure>
 
 ### Size
 

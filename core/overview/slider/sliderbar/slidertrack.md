@@ -1,4 +1,4 @@
-# Ω Slider - Track
+# Ω SliderTrack
 
 Base: The slider track that the knob, bar and ruler track/tics are on top of.
 
@@ -16,3 +16,5 @@ The indicator can be shown as On (Filled In) or Off (Hidden from view) based on 
 ### Size
 
 This is to account for the different sizes of slider track.
+
+<figure><img src="../../../../.gitbook/assets/Track Shape.png" alt=""><figcaption></figcaption></figure>

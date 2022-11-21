@@ -13,7 +13,7 @@ Element: Words and iconography used widely across the design system to provide c
 
 **Size** - The general size of the Labels content in respect to other Labels. These sizes are provided by the Theme's Typographical Scale with icon sizes to proportionally match those line heights.
 
-<figure><img src="../../.gitbook/assets/Size (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Size (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Type** - The options for arrangement of the type to icon within the Label.
 
