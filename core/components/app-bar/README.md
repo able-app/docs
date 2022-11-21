@@ -47,6 +47,16 @@ Supplied by the ABC-Trailing collection this provides us with the ability to alt
 
 We've divided the App Bar into two distinct vertical areas, Top for those at the top of the screen and of course Bottom for those at the bottom of the screen.
 
+<div>
+
+<figure><img src="../../../.gitbook/assets/App Bar - Top.png" alt=""><figcaption><p>App Bar - Top</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/App Bar - Bottom.png" alt=""><figcaption><p>App Bar - Bottom</p></figcaption></figure>
+
+</div>
+
 ### Interaction
 
 When the user scrolls content within a list, we will want the app bar to gracefully hide itself to provide the best experience, since the intent of the user is the contents of the screen and not navigating or taking action on that content, while they are scrolling. When we detect that the scroll has stopped the app bar top/bottom will gracefully return to view. This should be a property of the component that defaults to on, but can be turned off. [Here's an example from MD.](https://material.io/components/app-bars-top#behavior)

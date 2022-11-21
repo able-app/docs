@@ -21,6 +21,8 @@ The number of objects in this section of the app bar. Those objects are referenc
 
 The general theme for the collection of controls, most often this type will be the same as the far left object in the collection. These "Types" are supplied by the abc-pieces collection.
 
+<figure><img src="../../../.gitbook/assets/ABC - Leading.png" alt=""><figcaption></figcaption></figure>
+
 * **Icon** (default) - Most often used as the primary navigation to move back in the applications history stack (previous screen). In this Type the far left object is for that navigation and the other icons can serve as actions to be taken on the screens contents.
 * **Text** - As an alternative to an icon for the back navigation you can also use text. This is most commonly used in situations where you want to "Close" the screen which is typical of a screen with a form.
 * **Avatar** - Often used to change the users status or go to their profile/account

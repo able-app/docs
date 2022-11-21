@@ -17,6 +17,8 @@ The number of objects in this section of the app bar. Those objects are referenc
 
 The general theme for the collection of controls, most often this type will be the same as the far right object in the app bar. These "Types" are supplied by the abc-pieces collection.
 
+<figure><img src="../../../.gitbook/assets/ABC - Trailing.png" alt=""><figcaption></figcaption></figure>
+
 * **Icon** (default) - Often referred to as Action Items, these typically are the primary actions that the user would take on the screens contents.
 * **Text** - An alternative to icon use and often used for actions that cancel or clear an activity.
 * **Button** - A more emphasized action to draw more attention

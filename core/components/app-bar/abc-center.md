@@ -17,6 +17,8 @@ Collection: The App Bar Container (ABC) is a collection of the content that is i
 
 The general theme for the collection of controls, most often this type will be the same as the central (most centered) object in the collection. These "Types" are supplied by the abc-pieces collection.
 
+<figure><img src="../../../.gitbook/assets/ABC - Center.png" alt=""><figcaption></figcaption></figure>
+
 **Title** (default)- Informational content to give the user the name/action of the screen they are on.
 
 **Wordmark/Logo** - Normally for branding purposes with the wordmark just being a wider reserved width of 21:9 and the logo set to a 1:1 ratio.

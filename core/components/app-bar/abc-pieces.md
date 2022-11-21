@@ -2,7 +2,7 @@
 description: App Bar Control (ABC)
 ---
 
-# ABC - Pieces
+# Θ ABC - Pieces
 
 Collection: The individual actionable buttons, icons, and text that are grouped together in sections (ABC Leading, Center, Trailing) for use within the App Bar.
 
@@ -16,6 +16,8 @@ Collection: The individual actionable buttons, icons, and text that are grouped 
 ### Type
 
 All of the options available for use in the App Bar are collected here.
+
+<figure><img src="../../../.gitbook/assets/ABC - Pieces.png" alt=""><figcaption></figcaption></figure>
 
 * **Icon** - The default for most controls in the app bar, the display of an icon that serves as a metaphor for an activity.
 * **Text** - Used interchanabily with icons to spell out the action being preformed when the control is interacted with.

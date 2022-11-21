@@ -11,6 +11,8 @@ Container: An extension just above/below the app bar bottom/top that serves as a
 
 ### Type
 
+<figure><img src="../../../.gitbook/assets/Extension.png" alt=""><figcaption></figcaption></figure>
+
 * **Input** - Normally used as a search field the input can be used to filter or search the contents being displayed.
 * **Tab Bar** - Either a scrollable or fixed tabs that act to section off the content being displayed or as tools to take action.
 * **Toggle Bar** - Scrollable or fixed a toggle bar can be used to section off content or as a tool bar.
