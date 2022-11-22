@@ -4,7 +4,7 @@ For objects on the screen we want to adhere to sizing standards as much as we ca
 
 
 
-There are various sizing types (grid, spacing, radius, object width & height, timing, etc.) that are a part of the design system that used to design our components and screen layouts. This is where we group those individual sizes together into use case dependent dictionaries. These are then used by our elements and components to provide the sizing options available to that object.
+There are various sizing types (grid, spacing, radius, object width & height, timing, etc.) that are a part of the design system that are used to design our components and screen layouts. This is where we group those individual sizes together into use case dependent dictionaries. These are then used by our elements and components to provide the sizing options available to that object.
 
 The design system starts with a few base dictionaries (grid, spacing, radius etc.). More can be added as needed to accommodate the needs of the system as it grows. As a sub-category under this "Size" page is where we list each of these base dictionaries with their usage, properties, and JSON details.
 
