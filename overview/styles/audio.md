@@ -2,6 +2,8 @@
 
 Sound is used to communicate with the user, provide (emotion identity style) for a brand, and improve the experience through sensory feedback. There are three primary types of sound "audio" communication… interface, musical, and voice.
 
+<figure><img src="../../.gitbook/assets/audio.png" alt=""><figcaption></figcaption></figure>
+
 ## Resources
 
 These resources are stored in the snippets library as pieces of code that can be used across the application and referenced through the token assigned to it in the snippets library.
