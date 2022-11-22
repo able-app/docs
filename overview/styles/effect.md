@@ -4,6 +4,8 @@
 
 Shadows give objects on the screen depth, elevation, and define the edges of an object. The shadow is set based on its elevation and relationship to the surfaces of other objects. With any application there will be the need for some level of shadow to show elevation. To provide a scalable, consistent, and an easy way to manage shadow across the app we use Effect Styles for shadows. Most won't find the need to customize the defaults set in the "Base" shadows but the ability exists to over-ride those at the theme layer. Also, we can build additional shadow dictionaries for specific elements and components to keep the design consistent. For example, if we wanted to limit the shadow options available to a Card component we could create a shadow dictionary for cards and reference those in the shadow styling options of a card rather than the Base shadow.
 
+<figure><img src="../../.gitbook/assets/shadow.png" alt=""><figcaption></figcaption></figure>
+
 ## Type - Treatment
 
 These are the treatments that are applied to screen objects. The best example of this is a Frosted Glass appearance that can be applied to a photo.

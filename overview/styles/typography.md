@@ -6,6 +6,8 @@ To set the properties for type, in a Theme we use the Text Style which establish
 
 The Text Style is used to establish different sized and spaced text on a progressive scale. Color, shadowing and other treatments are **not** handled at the Type Style level but exist in their own styling library or dictionary and applied as a property to elements and components.
 
+<figure><img src="../../.gitbook/assets/typography.svg" alt=""><figcaption></figcaption></figure>
+
 ### Properties
 
 These are the values that each font "type" carries as part of a grouping of "text" together as a "styling".
