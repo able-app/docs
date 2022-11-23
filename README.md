@@ -6,7 +6,7 @@ description: >-
 
 # ABLE
 
-<figure><img src=".gitbook/assets/AppPhone.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/AppPhone-cmp.png" alt=""><figcaption></figcaption></figure>
 
 ## Intro
 
