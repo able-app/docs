@@ -8,10 +8,7 @@ Components dynamically scale horizontally to fill the width of the screen, but i
 
 _Note that Components do not carry a Greek character._
 
-__
 
-We've set up a Kitchen Sink application that isolates all elements and components into their own screens to show the different variations of each. You can access that content here.._._
 
-{% embed url="https://www.figma.com/proto/tl9bzV6Fos0qgkJELXcAuk/Kitchen-Sink?node-id=2303%3A217625&page-id=1147%3A103&scaling=min-zoom&show-proto-sidebar=1&starting-point-node-id=2262%3A202675&viewport=317%2C48%2C0.11" %}
+We've set up a Kitchen Sink application that isolates all elements and components into their own screens to show the different variations of each.
 
-__

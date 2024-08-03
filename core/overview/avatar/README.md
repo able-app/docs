@@ -46,5 +46,3 @@ The state of any nested object (ie. an element inside of a component) get's its 
 * Foreground-FontSize: XS:R4, S:R3, M:R1, L:H3, XL:H1 (Based on Avatar Size)
 
 **Avatar w/ Accessory** - When we need to infer an action on an avatar, like Add Photo or Edit, we can use an accessory in the lower right corner of the Avatar to display an AdaptIcon with an Icon.
-
-{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A23743&page-id=0%3A1&scaling=min-zoom&show-proto-sidebar=1&starting-point-node-id=2%3A24853&viewport=377%2C48%2C0.14" %}

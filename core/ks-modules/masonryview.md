@@ -43,8 +43,3 @@ The Graphics (Images) within the masonry grid have a variety of different "set s
 
 The background of the view can be light or dark depending on the use case. Most often when browsing photos on your device you're displaying these in the dark style, but if you're looking at say, Instagram photos in a collection, those would be displayed in a light style.
 
-
-
-{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A24007&page-id=0%3A1&scaling=min-zoom&starting-point-node-id=2%3A24884&viewport=377%2C48%2C0.14" %}
-Make a selection to view
-{% endembed %}

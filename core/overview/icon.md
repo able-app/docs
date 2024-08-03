@@ -31,5 +31,3 @@ Primitive: Used in building element and components. An icon is used as a metapho
 ### Why
 
 By constraining the icon sizes here we maintain a consistency throughout the application. Additional sizes could be added at this level to increase the options available at parent levels. Only the sizes listed here should be used in the application.
-
-{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A24803&page-id=0%3A1&scaling=min-zoom&show-proto-sidebar=1&starting-point-node-id=2%3A24853&viewport=377%2C48%2C0.14" %}

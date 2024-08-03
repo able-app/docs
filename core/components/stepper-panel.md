@@ -28,5 +28,3 @@ Component: A panel with spacing and alignment of the Paginator with its collecti
 ### Interaction
 
 There is no direct interaction with Paginator Panel at this point. In the future with larger Page Points we may opt for a navigation to that point on press.
-
-{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A23965&page-id=0%3A1&scaling=min-zoom&starting-point-node-id=2%3A24884&viewport=377%2C48%2C0.14" %}

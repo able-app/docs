@@ -32,6 +32,3 @@ Child: [Tab](../../overview/tab/), [NavToggle](../../overview/toggle/navtoggle.m
 * Base: This uses the default Mode (Light) for the tab bar. If the devices mode were to be changed in the settings or by the device settings this would also change to reflect that setting.
 * Dark Lock: This locks the background color to a darker tint.  This is useful for areas of the app like the camera where we want to keep the tab bar in a darker mode no matter the settings of the app or device.
 
-
-
-{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A24426&page-id=0%3A1&scaling=min-zoom&starting-point-node-id=2%3A24884&viewport=377%2C48%2C0.14" %}

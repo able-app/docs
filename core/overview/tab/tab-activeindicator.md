@@ -19,6 +19,3 @@ Base: A collection of visual indicators for an active tab.
 
 <figure><img src="../../../.gitbook/assets/Active.png" alt=""><figcaption></figcaption></figure>
 
-
-
-{% embed url="https://zpl.io/VkyW4yv" %}

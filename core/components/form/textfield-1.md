@@ -40,5 +40,3 @@ A multi-line field initially shows as a single-line fields, for a compact layout
 **Note:** The structure and spacing of this component is the same between Textfield, Textarea, Selectlist, Chiplist, Slider, Userlist, and Toggle Button.
 
 **Note:** Each of the nested elements and primitives of this form component have properties that can be adjusted to customize the component.
-
-{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A24702&page-id=0%3A1&scaling=min-zoom&starting-point-node-id=2%3A24884&viewport=377%2C48%2C0.14" %}

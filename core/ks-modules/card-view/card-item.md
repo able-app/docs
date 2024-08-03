@@ -45,6 +45,3 @@ CardItems can have multiple touch points the user can interact with.
 4. **Swipe Right-to-Left:** Gestures are also a way of interacting with a CardItem. This action reveals hidden options that appear from behind the CardItem. These actionable options are those activities that are most often used with the CardItem. For example, in any collection of similar objects (ListItem, CardItem, Graphics), an often used action may be to delete an item in the list, or archive it. For a desktop or web interface a click and drag could be used to accomplish the same functionality.
 5. **Swipe Left-to-Right:** In the same way that a right-to-left gesture reveals additional actions, the left-to-right also does this same reveal of hidden options on the left side of the CardItem. An example of a good action here would be with a checklist where we want to quickly mark something as complete, a full swipe left-to-right would accomplish that activity.
 
-
-
-{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A24141&page-id=0%3A1&scaling=min-zoom&starting-point-node-id=2%3A24884&viewport=377%2C48%2C0.14" %}

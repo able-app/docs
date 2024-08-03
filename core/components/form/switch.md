@@ -30,5 +30,3 @@ The styling of the switch can be altered to present a different appearance. For 
 * Rectangle
 
 **Note:** Each of the nested elements and primitives of this form component have properties that can be adjusted to customize the component.
-
-{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A23895&page-id=0%3A1&scaling=min-zoom&starting-point-node-id=2%3A24884&viewport=377%2C48%2C0.14" %}

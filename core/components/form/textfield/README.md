@@ -17,4 +17,3 @@ Component: A form component that provide the ability to enter and edit year, mon
 
 ## Functionality
 
-****

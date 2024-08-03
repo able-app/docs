@@ -17,6 +17,3 @@ The relative size of the bullet in relation to others within the collection.
 * XLarge (36dp Icon)
 * Large (24dp Icon)
 
-
-
-{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A23958&page-id=0%3A1&scaling=min-zoom&show-proto-sidebar=1&starting-point-node-id=2%3A24853&viewport=377%2C48%2C0.14" %}

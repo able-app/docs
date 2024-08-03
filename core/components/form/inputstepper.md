@@ -26,5 +26,3 @@ To provide additional context for the component a sentence can be added to the c
 The input stepper can have either a single control per row (component) or multiple (side-by-side) input steppers on the same row. Multiple input steppers on the same row provide the ability to input multiple properties for the same parent object. For example, alignment of an object on an X,Y axis with two steppers, one for the X value and another for the Y value.
 
 **Note:** Each of the nested elements and primitives of this form component have properties that can be adjusted to customize the component.
-
-{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A24625&page-id=0%3A1&scaling=min-zoom&starting-point-node-id=2%3A24884&viewport=377%2C48%2C0.14" %}

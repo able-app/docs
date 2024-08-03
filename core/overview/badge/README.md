@@ -40,5 +40,3 @@ A badge is used to draw the user's attention to an object, or to emphasize that 
 <figure><img src="../../../.gitbook/assets/Usecase.png" alt=""><figcaption></figcaption></figure>
 
 A badge signifies that with a tap of the object tied to the badge, additional information indicated by the badge is accessible. Badges are a common feature in user interfaces, and provide users with a visual clue to help them discover additional relevant content. Their design and use is therefore an important factor in the overall user experience.
-
-{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A23705&page-id=0%3A1&scaling=min-zoom&show-proto-sidebar=1&starting-point-node-id=2%3A24853&viewport=377%2C48%2C0.14" %}

@@ -46,6 +46,3 @@ These overlays can be On/Off independent of one another.
 
 **Treatment** - The ability to add different filters and fades to a graphic to alter the appearance of the underlying graphic. Note, all fades and shading for overlays are contained within the Overlay itself and not at this treatment layer. Think of it as three layers (from bottom to top) Graphic > Treatment > Overlay where each sits on top of the previous.
 
-
-
-{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A24443&page-id=0%3A1&scaling=min-zoom&show-proto-sidebar=1&starting-point-node-id=2%3A24853&viewport=377%2C48%2C0.14" %}

@@ -32,5 +32,3 @@ Upon a tap and release the tooltips displays for 1500ms, unless another action i
 <figure><img src="../../.gitbook/assets/Example - Slider.png" alt=""><figcaption><p>Tooltip on a Slider</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Example - Textfield.png" alt=""><figcaption><p>For additional information on fields</p></figcaption></figure>
-
-{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A24509&page-id=0%3A1&scaling=min-zoom&show-proto-sidebar=1&starting-point-node-id=2%3A24853&viewport=377%2C48%2C0.14" %}

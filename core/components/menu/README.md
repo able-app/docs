@@ -34,5 +34,3 @@ Component: The display of a list of choices on a temporary surface (modal). The 
 **Off** - For those menus that are contained within a parent like a container for a Sheet or the ScrollView of a screen we will not use a shadow.
 
 Note: Take notice of the minor rounding of the corners on menus with elevation.
-
-{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A23850&page-id=0%3A1&scaling=min-zoom&starting-point-node-id=2%3A24884&viewport=377%2C48%2C0.14" %}

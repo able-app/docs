@@ -37,8 +37,3 @@ The Graphics (Images) within the grid are set to a 1:1 ratio with the focal poin
 
 Note: If the device is in landscape format the screen accepts a 1:1 image in a 5 wide format, while still providing a vertical scroll in that landscape format. All of the padding and grid spacing remain the same.
 
-
-
-{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A24014&page-id=0%3A1&scaling=min-zoom&starting-point-node-id=2%3A24884&viewport=377%2C48%2C0.14" %}
-Make selection to view
-{% endembed %}

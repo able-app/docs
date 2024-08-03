@@ -25,5 +25,3 @@ The CardItems within the grid dynamically changes based on the width of a portra
 
 Note: Any Bar within a CardView can independently side-scroll its contents, if the bar has the property of Side-Scrollable turned on.
 
-{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A23993&page-id=0%3A1&scaling=min-zoom&show-proto-sidebar=1&starting-point-node-id=2%3A24884&viewport=377%2C48%2C0.14" %}
-

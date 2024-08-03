@@ -23,6 +23,4 @@ To account for multiple usecases the design system has established a set sizing 
 
 Most of the time an adaptIcon is simply shown as a metaphor for something, but it does have the ability to carry a badge as well. There may be situations where a service like email or alerts would be represented on the screen as an AdaptIcon so it will need the capability of sharing additional information in the form of a badge in those situations.
 
-{% embed url="https://www.figma.com/proto/VN320MmRlLNR0UmdFula6N/Kitchen-Sink?node-id=2%3A23773&page-id=0%3A1&scaling=min-zoom&show-proto-sidebar=1&starting-point-node-id=2%3A24853&viewport=377%2C48%2C0.14" %}
-
 *

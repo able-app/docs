@@ -1,4 +1,4 @@
-# Θ Graphic - Bar
+# Θ GraphicBar
 
 Collection: A convenience wrapper around Graphics for display in the bar component. See the [Bar - Structure](../../components/content-bar.md) documentation to learn more about what goes into a Bar.
 
@@ -28,6 +28,3 @@ Collection: A convenience wrapper around Graphics for display in the bar compone
 
 **Off** - No wording is displayed below the graphic
 
-
-
-{% embed url="https://zpl.io/aMX0nem" %}
