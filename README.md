@@ -1,10 +1,10 @@
 ---
 description: >-
   A design to development framework for building mobile and desktop web
-  applications using Figma design files and React Native code.
+  applications using Figma design files and React (Next.js) code.
 ---
 
-# ABLE
+# ABLE - Design System
 
 <figure><img src=".gitbook/assets/AppPhone-cmp.png" alt=""><figcaption></figcaption></figure>
 
