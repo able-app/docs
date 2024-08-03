@@ -1,6 +1,6 @@
 # Table of contents
 
-* [ABLE](README.md)
+* [ABLE - Design System](README.md)
 * [Structure](intro.md)
 * [Themes](overview/README.md)
   * [Styles](overview/styles/README.md)
